@@ -1,0 +1,110 @@
+,name,league,Overall,Rank,Tier
+2,Real Madrid,Spanish Primera Division,1.0,1.0,S
+1,Bayern Munich,German Bundesliga,0.9684002506501597,2.0,S
+0,Manchester City,Barclays Premier League,0.8015741511567342,3.0,S
+3,Liverpool,Barclays Premier League,0.7882797976215711,4.0,S
+7,Paris Saint-Germain,French Ligue 1,0.7296662512742832,5.0,S
+10,Borussia Dortmund,German Bundesliga,0.6779023438900474,6.0,S
+15,Ajax,Dutch Eredivisie,0.6773207866617551,7.0,S
+11,Manchester United,Barclays Premier League,0.6699275469906841,8.0,S
+4,Arsenal,Barclays Premier League,0.6651008533834115,9.0,S
+23,Juventus,Italy Serie A,0.6563446622873672,10.0,S
+6,Atletico Madrid,Spanish Primera Division,0.6438615361776757,11.0,S
+9,Chelsea,Barclays Premier League,0.6369359193952826,12.0,S
+5,Napoli,Italy Serie A,0.579516931772918,13.0,S
+8,Benfica,Portuguese Liga,0.5772260897681109,14.0,S
+24,Tottenham Hotspur,Barclays Premier League,0.5675242459834604,15.0,S
+19,FC Porto,Portuguese Liga,0.564540157906843,16.0,A
+14,Internazionale,Italy Serie A,0.5580141185038568,17.0,A
+34,Villarreal,Spanish Primera Division,0.5367115845482078,18.0,A
+17,AS Roma,Italy Serie A,0.5304191795152189,19.0,A
+12,Bayer Leverkusen,German Bundesliga,0.5265464625266686,20.0,A
+13,RB Leipzig,German Bundesliga,0.510897057259075,21.0,A
+32,PSV,Dutch Eredivisie,0.49631961839460204,22.0,A
+16,Celtic,Scottish Premiership,0.49338073988315617,23.0,A
+22,AC Milan,Italy Serie A,0.48907373754441963,24.0,A
+58,Shakhtar Donetsk,UEFA Europa League,0.4811406647125068,25.0,A
+20,Feyenoord,Dutch Eredivisie,0.4719350638589203,26.0,A
+26,Lyon,French Ligue 1,0.46903071742110897,27.0,A
+35,AS Monaco,French Ligue 1,0.4668334164383257,28.0,A
+28,FC Salzburg,Austrian T-Mobile Bundesliga,0.44910469908698863,29.0,A
+33,Eintracht Frankfurt,German Bundesliga,0.44009587005854406,30.0,A
+21,Sporting CP,Portuguese Liga,0.43350697841578656,31.0,B
+36,Atalanta,Italy Serie A,0.4241122665672099,32.0,B
+25,Zenit St. Petersburg,Russian Premier Liga,0.4090606195832872,33.0,B
+27,VfL Wolfsburg,German Bundesliga,0.40858489194251496,34.0,B
+29,Fiorentina,Italy Serie A,0.39495244276364244,35.0,B
+43,Young Boys,Swiss Raiffeisen Super League,0.3945116521389712,36.0,B
+38,Leicester City,Barclays Premier League,0.3620718713501511,37.0,B
+37,Lazio,Italy Serie A,0.361225148301018,38.0,B
+57,Club Brugge,Belgian Jupiler League,0.35917906979160047,39.0,B
+49,Dinamo Zagreb,UEFA Champions League,0.3577423975433999,40.0,B
+50,Schalke 04,German Bundesliga,0.35543394533163525,41.0,B
+31,West Ham United,Barclays Premier League,0.35360876929255086,42.0,B
+42,Galatasaray,Turkish Turkcell Super Lig,0.352307757055586,43.0,B
+51,Besiktas,Turkish Turkcell Super Lig,0.3497980035754565,44.0,B
+60,Viktoria Plzen,UEFA Champions League,0.3470270028488468,45.0,B
+40,Valencia,Spanish Primera Division,0.3416622576024584,46.0,C
+18,Athletic Bilbao,Spanish Primera Division,0.33822448532492955,47.0,C
+41,Real Betis,Spanish Primera Division,0.3326622749405572,48.0,C
+54,Red Star Belgrade,UEFA Europa League,0.3303259508191143,49.0,C
+80,FC Basel,Swiss Raiffeisen Super League,0.32799589976140436,50.0,C
+30,Real Sociedad,Spanish Primera Division,0.30596755267319303,51.0,C
+62,Spartak Moscow,Russian Premier Liga,0.2834808541347304,52.0,C
+45,SC Freiburg,German Bundesliga,0.28145993482936493,53.0,C
+63,Anderlecht,Belgian Jupiler League,0.281233452598384,54.0,C
+73,Maccabi Haifa,UEFA Champions League,0.2744622674386187,55.0,C
+56,CSKA Moscow,Russian Premier Liga,0.27228781989202966,56.0,C
+77,Lokomotiv Moscow,Russian Premier Liga,0.2698283345163995,57.0,C
+55,FC Augsburg,German Bundesliga,0.2600174472683858,58.0,C
+90,Wolfsberger AC,Austrian T-Mobile Bundesliga,0.25872420277697855,59.0,C
+69,Trabzonspor,Turkish Turkcell Super Lig,0.2576618637119202,60.0,C
+52,Everton,Barclays Premier League,0.25721950058459797,61.0,D
+68,FC Midtjylland,Danish SAS-Ligaen,0.25022308611820454,62.0,D
+47,Sassuolo,Italy Serie A,0.2466103844681035,63.0,D
+64,Dinamo Moscow,Russian Premier Liga,0.2435027562799,64.0,D
+39,VfB Stuttgart,German Bundesliga,0.24310189198039756,65.0,D
+48,Udinese,Italy Serie A,0.22664920756212095,66.0,D
+59,FC Utrecht,Dutch Eredivisie,0.2258592526779027,67.0,D
+46,Torino,Italy Serie A,0.2175808456347669,68.0,D
+72,Go Ahead Eagles,Dutch Eredivisie,0.2112484235990697,69.0,D
+65,SC Dnipro-1,UEFA Europa Conference League,0.2085376150413588,70.0,D
+97,Alanyaspor,Turkish Turkcell Super Lig,0.2070546626411383,71.0,D
+53,Espanyol,Spanish Primera Division,0.20649102607294043,72.0,D
+83,Sivasspor,Turkish Turkcell Super Lig,0.20520622334594157,73.0,D
+102,FC Sion,Swiss Raiffeisen Super League,0.19965751317430944,74.0,D
+87,FC Luzern,Swiss Raiffeisen Super League,0.19955747895294199,75.0,D
+66,Lech Poznan,UEFA Europa Conference League,0.19734379739640515,76.0,F
+61,AEK Athens,Greek Super League,0.18915246133622035,77.0,F
+78,Istanbul Basaksehir,Turkish Turkcell Super Lig,0.18485763783768736,78.0,F
+92,Omonia Nicosia,UEFA Europa League,0.1780098713119852,79.0,F
+99,Grasshoppers Zürich,Swiss Raiffeisen Super League,0.17158885509880822,80.0,F
+89,Aberdeen,Scottish Premiership,0.1714957983471293,81.0,F
+76,Sampdoria,Italy Serie A,0.17043472656627287,82.0,F
+71,Swansea City,English League Championship,0.1679813281815455,83.0,F
+44,Getafe,Spanish Primera Division,0.16723046189545895,84.0,F
+96,FC Lugano,Swiss Raiffeisen Super League,0.1653891521410911,85.0,F
+93,IF Elfsborg,Swedish Allsvenskan,0.16369615670847595,86.0,F
+85,FC Groningen,Dutch Eredivisie,0.16326635515083252,87.0,F
+100,Zalgiris Vilnius,UEFA Europa Conference League,0.15958806753138202,88.0,F
+84,Hibernian,Scottish Premiership,0.15879631108766515,89.0,F
+94,Slovan Bratislava,UEFA Europa Conference League,0.1584895699004848,90.0,F
+82,Apollon Limassol,UEFA Europa Conference League,0.1547814705607,91.0,G
+79,Konyaspor,Turkish Turkcell Super Lig,0.15276555553251783,92.0,G
+107,KV Oostende,Belgian Jupiler League,0.152475713911693,93.0,G
+98,Motherwell,Scottish Premiership,0.14216366372925276,94.0,G
+67,Gil Vicente,Portuguese Liga,0.14013910440599905,95.0,G
+91,Randers FC,Danish SAS-Ligaen,0.13502116279277987,96.0,G
+81,AEK Larnaca,UEFA Europa League,0.12203683992759688,97.0,G
+103,HJK Helsinki,UEFA Europa League,0.11980596043816008,98.0,G
+70,Rio Ave,Portuguese Liga,0.11487809549310495,99.0,G
+105,Pyunik Yerevan,UEFA Europa Conference League,0.11083097068251042,100.0,G
+88,Estoril Praia,Portuguese Liga,0.1077461433855267,101.0,G
+101,FC Vaduz,Swiss Raiffeisen Super League,0.10679656861599966,102.0,G
+95,Hull City,English League Championship,0.09339144421217024,103.0,G
+74,FC Arouca,Portuguese Liga,0.09276268868844795,104.0,G
+104,Kilmarnock,Scottish Premiership,0.06602767028286693,105.0,G
+108,Shamrock Rovers,UEFA Europa Conference League,0.06530450396745167,106.0,G
+75,Panathinaikos,Greek Super League,0.057053769682158924,107.0,G
+86,AGF Aarhus,Danish SAS-Ligaen,0.053596329418160914,108.0,G
+106,Asteras Tripolis,Greek Super League,0.0,109.0,G

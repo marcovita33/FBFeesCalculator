@@ -1,0 +1,707 @@
+club_name,player_name,age,position,club_involved_name,transfer_period,fee_cleaned,league_name,season,OverallSeasonClub,OverallSeasonClub2,league_destination,Overall_club_name,Overall_club_involved
+Real Madrid,Aurélien Tchouameni,22.0,Defensive Midfield,Monaco,Summer,80.0,Primera Division,2022,0.361329826054969,0.2091499497585124,,1.0,0.0
+FC Barcelona,Raphinha,25.0,Right Winger,Leeds,Summer,58.0,Primera Division,2022,0.2394138589345053,0.0,,0.7388617566077745,0.0
+FC Barcelona,Jules Koundé,23.0,Centre-Back,Sevilla FC,Summer,50.0,Primera Division,2022,0.2394138589345053,0.2604267506158023,Primera Division,0.7388617566077745,0.5877232272668695
+FC Barcelona,Robert Lewandowski,33.0,Centre-Forward,Bayern Munich,Summer,45.0,Primera Division,2022,0.2394138589345053,1.0,1 Bundesliga,0.7388617566077745,0.971130632264834
+Sevilla FC,Tanguy Nianzou,20.0,Centre-Back,Bayern Munich,Summer,16.0,Primera Division,2022,0.2604267506158023,1.0,1 Bundesliga,0.5877232272668695,0.971130632264834
+Sevilla FC,Marcão,26.0,Centre-Back,Galatasaray,Summer,12.0,Primera Division,2022,0.2604267506158023,0.0,,0.5877232272668695,0.3557697848005357
+Atlético de Madrid,Nahuel Molina,24.0,Right-Back,Udinese Calcio,Summer,20.0,Primera Division,2022,0.1236931817808441,0.0,Serie A,0.0,0.0
+Atlético de Madrid,Samuel Lino,22.0,Left Winger,Gil Vicente,Summer,6.5,Primera Division,2022,0.1236931817808441,0.0,Liga Nos,0.0,0.0
+Real Sociedad,Umar Sadiq,25.0,Centre-Forward,UD Almería,Summer,20.0,Primera Division,2022,0.0762621296475065,0.0,Primera Division,0.3043008789429461,0.0
+Real Sociedad,Brais Méndez,25.0,Right Winger,Celta de Vigo,Summer,14.0,Primera Division,2022,0.0762621296475065,0.0,Primera Division,0.3043008789429461,0.2637861941259757
+Real Sociedad,Momo Cho,18.0,Centre-Forward,Angers SCO,Summer,11.0,Primera Division,2022,0.0762621296475065,0.0,Ligue 1,0.3043008789429461,0.0
+Real Sociedad,Takefusa Kubo,21.0,Right Winger,Real Madrid,Summer,6.5,Primera Division,2022,0.0762621296475065,0.361329826054969,Primera Division,0.3043008789429461,1.0
+Real Betis Balompié,Willian José,30.0,Centre-Forward,Real Sociedad,Summer,10.0,Primera Division,2022,0.0,0.0762621296475065,Primera Division,0.0,0.3043008789429461
+Real Betis Balompié,Luiz Henrique,21.0,Right Winger,Fluminense,Summer,8.0,Primera Division,2022,0.0,0.0,,0.0,0.0
+Villarreal CF,Johan Mojica,30.0,Left-Back,Elche CF,Summer,5.5,Primera Division,2022,0.0,0.0,Primera Division,0.5378494078984494,0.0
+Villarreal CF,Kiko Femenía,31.0,Right-Back,Watford,Summer,0.98,Primera Division,2022,0.0,0.0,Premier League,0.5378494078984494,0.0
+Valencia CF,André Almeida,22.0,Central Midfield,Vit. Guimarães,Summer,8.0,Primera Division,2022,0.0,0.0,,0.3417621449666362,0.0
+Valencia CF,Hugo Duro,22.0,Centre-Forward,Getafe,Summer,4.0,Primera Division,2022,0.0,0.0,,0.3417621449666362,0.1659531376226571
+CA Osasuna,Moi Gómez,28.0,Left Winger,Villarreal,Summer,1.8,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.5378494078984494
+Elche CF,Nicolás Fernández Mercau,22.0,Left-Back,San Lorenzo,Summer,4.0,Primera Division,2022,0.0,0.0,,0.0,0.0
+Elche CF,Ezequiel Ponce,25.0,Centre-Forward,Spartak Moscow,Summer,4.0,Primera Division,2022,0.0,0.0239482405169742,Premier Liga,0.0,0.2876814941971095
+Elche CF,Roger Martí,31.0,Centre-Forward,Levante,Summer,3.0,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.0
+Elche CF,Lautaro Blanco,23.0,Left-Back,Rosario Central,Summer,1.96,Primera Division,2022,0.0,0.0,,0.0,0.0
+Celta de Vigo,Jörgen Strand Larsen,22.0,Centre-Forward,FC Groningen,Summer,11.0,Primera Division,2022,0.0,0.0848910498258916,Eredivisie,0.2637861941259757,0.1684637644633931
+Celta de Vigo,Williot Swedberg,18.0,Central Midfield,Hammarby,Summer,5.0,Primera Division,2022,0.0,0.0,,0.2637861941259757,0.0
+Celta de Vigo,Luca de la Torre,24.0,Central Midfield,Heracles Almelo,Summer,2.0,Primera Division,2022,0.0,0.0,Eredivisie,0.2637861941259757,0.0
+Celta de Vigo,Julen Lobete,21.0,Centre-Forward,Real Sociedad B,Summer,1.0,Primera Division,2022,0.0,0.0762621296475065,Primera Division,0.2637861941259757,0.3043008789429461
+Celta de Vigo,Agustín Marchesín,34.0,Goalkeeper,FC Porto,Summer,1.0,Primera Division,2022,0.0,0.0,Liga Nos,0.2637861941259757,0.0
+RCD Espanyol Barcelona,Edu Expósito,26.0,Central Midfield,SD Eibar,Summer,4.5,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.0
+RCD Espanyol Barcelona,Tonny Vilhena,27.0,Central Midfield,Krasnodar,Summer,2.5,Primera Division,2022,0.0,0.0,Premier Liga,0.0,0.0
+Rayo Vallecano,Pep Chavarría,24.0,Left-Back,Real Zaragoza,Summer,1.8,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.0
+Rayo Vallecano,Abdul Mumin,24.0,Centre-Back,Vit. Guimarães,Summer,1.5,Primera Division,2022,0.0,0.0,,0.0,0.0
+Getafe CF,Borja Mayoral,25.0,Centre-Forward,Real Madrid,Summer,10.0,Primera Division,2022,0.0,0.361329826054969,Primera Division,0.0,1.0
+Getafe CF,Luis Milla,27.0,Central Midfield,Granada CF,Summer,5.0,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.0976571495549945
+Getafe CF,Domingos Duarte,27.0,Centre-Back,Granada CF,Summer,0.75,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.0976571495549945
+RCD Mallorca,Vedat Muriqi,28.0,Centre-Forward,Lazio,Summer,7.7,Primera Division,2022,0.0,0.2595617701433297,,0.0,0.3609262119082721
+RCD Mallorca,Pablo Maffeo,24.0,Right-Back,VfB Stuttgart,Summer,3.0,Primera Division,2022,0.0,0.2642947999182224,1 Bundesliga,0.0,0.2464332685252073
+RCD Mallorca,Predrag Rajković,26.0,Goalkeeper,Stade Reims,Summer,2.0,Primera Division,2022,0.0,0.0,Ligue 1,0.0,0.0
+Cádiz CF,Théo Bongonda,26.0,Left Winger,KRC Genk,Summer,3.0,Primera Division,2022,0.0,0.0,,0.0,0.0
+Cádiz CF,Brian Ocampo,23.0,Right Winger,Nacional,Summer,1.9,Primera Division,2022,0.0,0.0,Liga Nos,0.0,0.0
+Cádiz CF,Rubén Alcaraz,31.0,Central Midfield,Real Valladolid,Summer,1.0,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.0
+Cádiz CF,Víctor Chust,22.0,Centre-Back,Real Madrid,Summer,1.0,Primera Division,2022,0.0,0.361329826054969,Primera Division,0.0,1.0
+UD Almería,El Bilal Touré,20.0,Centre-Forward,Stade Reims,Summer,8.0,Primera Division,2022,0.0,0.0,Ligue 1,0.0,0.0
+UD Almería,Lázaro,20.0,Left Winger,Flamengo,Summer,7.0,Primera Division,2022,0.0,0.0,,0.0,0.0
+UD Almería,Kaiky,18.0,Centre-Back,Santos FC,Summer,7.0,Primera Division,2022,0.0,0.0,,0.0,0.0
+UD Almería,Marko Milovanovic,18.0,Centre-Forward,Partizan,Summer,3.5,Primera Division,2022,0.0,0.0,,0.0,0.0
+UD Almería,Alejandro Pozo,23.0,Right-Back,Sevilla FC,Summer,3.0,Primera Division,2022,0.0,0.2604267506158023,Primera Division,0.0,0.5877232272668695
+UD Almería,Gui Guedes,20.0,Central Midfield,Vit. Guimarães,Summer,3.0,Primera Division,2022,0.0,0.0,,0.0,0.0
+UD Almería,Gonzalo Melero,28.0,Central Midfield,Levante,Summer,1.9,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.0
+UD Almería,Léo Baptistão,29.0,Second Striker,Santos FC,Summer,1.5,Primera Division,2022,0.0,0.0,,0.0,0.0
+UD Almería,Srdjan Babic,26.0,Centre-Back,Red Star,Summer,1.1,Primera Division,2022,0.0,0.0,,0.0,0.0
+UD Almería,Adrián Embarba,30.0,Right Winger,Espanyol,Summer,1.0,Primera Division,2022,0.0,0.0,,0.0,0.2083174273692163
+Real Valladolid CF,Gonzalo Plata,21.0,Right Winger,Sporting CP,Summer,3.0,Primera Division,2022,0.0,0.0,Liga Nos,0.0,0.0
+Real Valladolid CF,Monchu,22.0,Central Midfield,Granada CF,Summer,1.2,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.0976571495549945
+Real Valladolid CF,Kenedy,26.0,Left Winger,Chelsea,Summer,0.5,Primera Division,2022,0.0,0.5045105753108674,Premier League,0.0,0.6350576351379168
+Real Valladolid CF,Mickaël Malsa,25.0,Defensive Midfield,Levante,Summer,0.5,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.0
+Real Valladolid CF,Iván Sánchez,29.0,Right Winger,Birmingham,Summer,0.1,Primera Division,2022,0.0,0.0,,0.0,0.0
+Girona FC,Miguel Gutiérrez,21.0,Left-Back,Real Madrid,Summer,4.0,Primera Division,2022,0.0,0.361329826054969,Primera Division,0.0,1.0
+Sevilla FC,Federico Gattoni,23.0,Centre-Back,San Lorenzo,Winter,1.4,Primera Division,2022,0.2604267506158023,0.0,,0.5877232272668695,0.0
+Atlético de Madrid,Memphis Depay,28.0,Centre-Forward,Barcelona,Winter,3.0,Primera Division,2022,0.1236931817808441,0.2394138589345053,Primera Division,0.0,0.7388617566077745
+Real Betis Balompié,Abner,22.0,Left-Back,Athletico-PR,Winter,7.0,Primera Division,2022,0.0,0.0,,0.0,0.0
+RCD Espanyol Barcelona,César Montes,25.0,Centre-Back,Monterrey,Winter,8.0,Primera Division,2022,0.0,0.0,,0.0,0.0
+RCD Espanyol Barcelona,José Gragera,22.0,Central Midfield,Sporting Gijón,Winter,2.8,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.0
+RCD Espanyol Barcelona,Fernando Pacheco,30.0,Goalkeeper,UD Almería,Winter,2.2,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.0
+Cádiz CF,Chris Ramos,26.0,Centre-Forward,CD Lugo,Winter,1.5,Primera Division,2022,0.0,0.0,,0.0,0.0
+Cádiz CF,Youba Diarra,24.0,Central Midfield,RB Salzburg,Winter,1.1,Primera Division,2022,0.0,0.0,,0.0,0.0
+UD Almería,Diego Mariño,32.0,Goalkeeper,Sporting Gijón,Winter,0.08,Primera Division,2022,0.0,0.0,Primera Division,0.0,0.0
+Real Valladolid CF,Selim Amallah,26.0,Attacking Midfield,Standard Liège,Winter,1.0,Primera Division,2022,0.0,0.0,,0.0,0.2644385593394481
+Girona FC,Viktor Tsygankov,25.0,Right Winger,Dynamo Kyiv,Winter,5.0,Primera Division,2022,0.0,0.0,,0.0,0.0
+Zenit St. Petersburg,Mateo Cassierra,25.0,Centre-Forward,Sochi,Summer,4.5,Premier Liga,2022,0.0251106512088663,0.003945501254106,,0.4090908664476702,0.1459207977263112
+Zenit St. Petersburg,Rodrigão,26.0,Centre-Back,Sochi,Summer,3.5,Premier Liga,2022,0.0251106512088663,0.003945501254106,,0.4090908664476702,0.1459207977263112
+FC Sochi,Vladislav Sarveli,24.0,Centre-Forward,KS Samara,Summer,1.2,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FC Sochi,Kirill Kravtsov,20.0,Defensive Midfield,Zenit S-Pb,Summer,0.835,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FC Sochi,Aleksandr Kovalenko,18.0,Attacking Midfield,KS Samara,Summer,0.6,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FC Sochi,Artem Meshchaninov,26.0,Centre-Back,Baltika,Summer,0.5,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FC Sochi,Moussa Sissako,21.0,Centre-Back,Standard Liège,Summer,0.3,Premier Liga,2022,0.0,0.0,,0.0,0.2644385593394481
+Dynamo Moscow,Nicolás Marichal,21.0,Centre-Back,Nacional,Summer,4.2,Premier Liga,2022,0.0116647333979292,0.0,Liga Nos,0.0,0.0
+Dynamo Moscow,Roberto Fernández,22.0,Centre-Back,Guaraní,Summer,3.0,Premier Liga,2022,0.0116647333979292,0.0,,0.0,0.0
+Dynamo Moscow,Nicolas Moumi Ngamaleu,28.0,Left Winger,BSC Young Boys,Summer,2.0,Premier Liga,2022,0.0116647333979292,0.0,,0.0,0.0
+FK Krasnodar,Mihajlo Banjac,22.0,Central Midfield,FK TSC,Summer,1.6,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Krasnodar,João Batxi,24.0,Right Midfield,Chaves,Summer,1.5,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Krasnodar,Olakunle Olusegun,20.0,Left Winger,Botev Plovdiv,Summer,1.2,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Krasnodar,Kevin Lenini,25.0,Defensive Midfield,Chaves,Summer,1.0,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Krasnodar,Jonathan Okoronkwo,18.0,Centre-Forward,Botev Plovdiv,Summer,0.4,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Krasnodar,Ifeanyi David Nduka,18.0,Central Midfield,Botev Plovdiv,Summer,0.2,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Krasnodar,Danil Karpov,23.0,Centre-Forward,Tyumen,Summer,0.17,Premier Liga,2022,0.0,0.0,,0.0,0.0
+CSKA Moscow,Jorge Carrascal,24.0,Attacking Midfield,River Plate,Summer,6.0,Premier Liga,2022,0.0258940449574468,0.0,,0.2730475795901375,0.0
+CSKA Moscow,Víctor Méndez,22.0,Defensive Midfield,Union Española,Summer,2.5,Premier Liga,2022,0.0258940449574468,0.0,,0.2730475795901375,0.0
+CSKA Moscow,Willyan Rocha,27.0,Centre-Back,Portimonense,Summer,2.0,Premier Liga,2022,0.0258940449574468,0.0,Liga Nos,0.2730475795901375,0.0
+CSKA Moscow,Sasa Zdjelar,27.0,Defensive Midfield,Partizan,Summer,0.5,Premier Liga,2022,0.0258940449574468,0.0,,0.2730475795901375,0.0
+Lokomotiv Moscow,Pedrinho,22.0,Left Winger,RB Bragantino,Summer,3.5,Premier Liga,2022,0.007687168577946,0.0,,0.2739449700278106,0.0
+Lokomotiv Moscow,Lucas Fasson,21.0,Centre-Back,Athletico-PR,Summer,3.0,Premier Liga,2022,0.007687168577946,0.0,,0.2739449700278106,0.0
+Lokomotiv Moscow,Mario Mitaj,19.0,Left-Back,AEK Athens,Summer,3.0,Premier Liga,2022,0.007687168577946,0.0,,0.2739449700278106,0.1902559061951249
+Lokomotiv Moscow,Marko Rakonjac,22.0,Centre-Forward,Cukaricki,Summer,2.5,Premier Liga,2022,0.007687168577946,0.0,,0.2739449700278106,0.0
+Lokomotiv Moscow,Ivan Kuzmichev,21.0,Centre-Back,Ural,Summer,1.2,Premier Liga,2022,0.007687168577946,0.0,,0.2739449700278106,0.0
+Akhmat Grozny,Gamid Agalarov,21.0,Centre-Forward,Ufa,Summer,3.5,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Akhmat Grozny,Yuri Zhuravlev,26.0,Centre-Back,Ufa,Summer,0.8,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Akhmat Grozny,Vladislav Kamilov,27.0,Central Midfield,Ufa,Summer,0.75,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Akhmat Grozny,Darko Todorovic,25.0,Right-Back,RB Salzburg,Summer,0.4,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Akhmat Grozny,Mikhail Oparin,29.0,Goalkeeper,Enisey,Summer,0.2,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Krylya Sovetov Samara,Maksim Glushenkov,22.0,Centre-Forward,Spartak Moscow,Summer,1.8,Premier Liga,2022,0.0,0.0239482405169742,Premier Liga,0.0,0.2876814941971095
+Krylya Sovetov Samara,Amar Rahmanovic,28.0,Attacking Midfield,Konyaspor,Summer,0.75,Premier Liga,2022,0.0,0.0,,0.0,0.1552600987059126
+Krylya Sovetov Samara,Aleksandar Cirkovic,20.0,Left Winger,Vozdovac,Summer,0.55,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Krylya Sovetov Samara,Mateo Barac,27.0,Centre-Back,Sochi,Summer,0.5,Premier Liga,2022,0.0,0.003945501254106,,0.0,0.1459207977263112
+Krylya Sovetov Samara,Vladimir Khubulov,21.0,Left Winger,Alania Vl.,Summer,0.43,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Krylya Sovetov Samara,Ilya Gaponov,24.0,Centre-Back,Spartak Moscow,Summer,0.281,Premier Liga,2022,0.0,0.0239482405169742,Premier Liga,0.0,0.2876814941971095
+Krylya Sovetov Samara,Roman Evgenjev,23.0,Centre-Back,Dynamo Moscow,Summer,0.025,Premier Liga,2022,0.0,0.0116647333979292,Premier Liga,0.0,0.0
+FK Rostov,Daniil Utkin,22.0,Central Midfield,Krasnodar,Summer,3.0,Premier Liga,2022,0.0,0.0,Premier Liga,0.0,0.0
+FK Rostov,Nikolay Komlichenko,27.0,Centre-Forward,Dynamo Moscow,Summer,1.5,Premier Liga,2022,0.0,0.0116647333979292,Premier Liga,0.0,0.0
+FK Rostov,Aleksey Mironov,22.0,Central Midfield,Loko-Kazanka M.,Summer,0.25,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Rostov,Kirill Shchetinin,20.0,Attacking Midfield,Zenit 2 S-Pb,Summer,0.25,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Spartak Moscow,Christopher Martins Pereira,25.0,Defensive Midfield,BSC Young Boys,Summer,6.4,Premier Liga,2022,0.0239482405169742,0.0,,0.2876814941971095,0.0
+Spartak Moscow,Anton Zinkovskiy,26.0,Left Winger,KS Samara,Summer,3.2,Premier Liga,2022,0.0239482405169742,0.0,,0.2876814941971095,0.0
+FC Pari Nizhniy Novgorod,David Kobesov,22.0,Defensive Midfield,Alania Vl.,Summer,0.3,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FC Pari Nizhniy Novgorod,Mamadou Maiga,27.0,Defensive Midfield,Veles Moscow,Summer,0.25,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Ural Yekaterinburg,Silvije Begic,29.0,Centre-Back,Rubin Kazan,Summer,0.5,Premier Liga,2022,0.0,0.0,Premier Liga,0.0,0.0
+Ural Yekaterinburg,Rai Vloet,27.0,Centre-Forward,FC Astana,Summer,0.25,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Ural Yekaterinburg,Leo Goglichidze,25.0,Left-Back,Krasnodar,Summer,0.21,Premier Liga,2022,0.0,0.0,Premier Liga,0.0,0.0
+Ural Yekaterinburg,Mingiyan Beveev,26.0,Right-Back,Enisey,Summer,0.2,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Khimki,Aleksey Nikitin,30.0,Centre-Back,Ufa,Summer,0.1,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Khimki,Valentin Paltsev,20.0,Left-Back,KamAZ,Summer,0.022,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Torpedo Moscow,Igor Savic,21.0,Defensive Midfield,Zrinjski Mostar,Summer,0.5,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Torpedo Moscow,Mario Curic,23.0,Defensive Midfield,HNK Sibenik,Summer,0.4,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Torpedo Moscow,Bojan Roganovic,21.0,Left-Back,Cukaricki,Summer,0.3,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Torpedo Moscow,Stefan Sapic,25.0,Centre-Back,Cukaricki,Summer,0.3,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Torpedo Moscow,Khozhimat Erkinov,21.0,Left Winger,Pakhtakor,Summer,0.15,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Torpedo Moscow,Bogdan Reichman,20.0,Central Midfield,Krasnodar 2,Summer,0.12,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Fakel Voronezh,Ilnur Alshin,28.0,Right Winger,Baltika,Summer,0.12,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Orenburg,Gabriel Florentín,23.0,Attacking Midfield,Argentinos Jrs.,Summer,2.2,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Orenburg,Ivan Basic,20.0,Attacking Midfield,Zrinjski Mostar,Summer,0.55,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Orenburg,Jimmy Marín,24.0,Left Midfield,Saprissa,Summer,0.49,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Orenburg,Batraz Gurtsiev,23.0,Right Midfield,Alania Vl.,Summer,0.4,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Orenburg,Kirill Kaplenko,23.0,Defensive Midfield,Zenit 2 S-Pb,Summer,0.2,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Orenburg,Aleksandr Pavlovets,25.0,Centre-Back,Rostov,Summer,0.15,Premier Liga,2022,0.0,0.0,,0.0,0.2170755793499895
+Zenit St. Petersburg,Nuraly Alip,23.0,Centre-Back,Kairat Almaty,Winter,2.0,Premier Liga,2022,0.0251106512088663,0.0,,0.4090908664476702,0.0
+Dynamo Moscow,Milan Majstorovic,18.0,Centre-Back,Vojvodina U19,Winter,1.2,Premier Liga,2022,0.0116647333979292,0.0,,0.0,0.0
+FK Krasnodar,Kady Borges,26.0,Attacking Midfield,Qarabag FK,Winter,2.0,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Krasnodar,Moses David Cobnan,20.0,Right Winger,Podbrezova,Winter,1.0,Premier Liga,2022,0.0,0.0,,0.0,0.0
+CSKA Moscow,Ilya Agapov,21.0,Centre-Back,Pari NN,Winter,1.3,Premier Liga,2022,0.0258940449574468,0.0,,0.2730475795901375,0.0
+Lokomotiv Moscow,Sergey Pinyaev,18.0,Left Winger,KS Samara,Winter,2.6,Premier Liga,2022,0.007687168577946,0.0,,0.2739449700278106,0.0
+Lokomotiv Moscow,Maksim Glushenkov,23.0,Centre-Forward,KS Samara,Winter,2.6,Premier Liga,2022,0.007687168577946,0.0,,0.2739449700278106,0.0
+Lokomotiv Moscow,Ilya Lantratov,27.0,Goalkeeper,Khimki,Winter,0.2,Premier Liga,2022,0.007687168577946,0.0,,0.2739449700278106,0.0
+Akhmat Grozny,Milos Satara,27.0,Centre-Back,Soligorsk,Winter,0.35,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Akhmat Grozny,Zaim Divanovic,22.0,Defensive Midfield,Soligorsk,Winter,0.15,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Krylya Sovetov Samara,Benjamín Garré,22.0,Left Winger,Racing Club,Winter,1.7,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Krylya Sovetov Samara,Vladimir Pisarskiy,26.0,Centre-Forward,Orenburg,Winter,1.35,Premier Liga,2022,0.0,0.0,Premier Liga,0.0,0.0
+Krylya Sovetov Samara,Vladislav Shitov,19.0,Centre-Forward,Spartak Moscow,Winter,0.5,Premier Liga,2022,0.0,0.0239482405169742,Premier Liga,0.0,0.2876814941971095
+Krylya Sovetov Samara,Nikolay Rasskazov,25.0,Right-Back,Spartak Moscow,Winter,0.033,Premier Liga,2022,0.0,0.0239482405169742,Premier Liga,0.0,0.2876814941971095
+Spartak Moscow,Alexis Duarte,22.0,Centre-Back,Cerro Porteño,Winter,4.0,Premier Liga,2022,0.0239482405169742,0.0,,0.2876814941971095,0.0
+Spartak Moscow,Tomás Tavares,21.0,Right-Back,Benfica,Winter,2.0,Premier Liga,2022,0.0239482405169742,0.0,Liga Nos,0.2876814941971095,0.0
+FC Pari Nizhniy Novgorod,Viktor Aleksandrov,20.0,Centre-Back,Rubin Kazan,Winter,0.32,Premier Liga,2022,0.0,0.0,Premier Liga,0.0,0.0
+FC Pari Nizhniy Novgorod,Ruslanbek Jiyanov,21.0,Centre-Forward,FC Olympic,Winter,0.3,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Ural Yekaterinburg,Fanil Sungatulin,21.0,Defensive Midfield,Spartak Moscow,Winter,0.38,Premier Liga,2022,0.0,0.0239482405169742,Premier Liga,0.0,0.2876814941971095
+Ural Yekaterinburg,Aleksey Kashtanov,26.0,Centre-Forward,Rodina Moscow,Winter,0.36,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Khimki,Cristian Tassano,26.0,Centre-Back,Santa Clara,Winter,0.3,Premier Liga,2022,0.0,0.0,Liga Nos,0.0,0.0
+FK Khimki,Léo Andrade,24.0,Centre-Back,Marítimo,Winter,0.3,Premier Liga,2022,0.0,0.0,Liga Nos,0.0,0.0
+FK Khimki,Lachezar Kotev,25.0,Defensive Midfield,Arda Kardzhali,Winter,0.25,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Khimki,Stefan Melentijevic,18.0,Centre-Back,Rad Belgrade,Winter,0.12,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Torpedo Moscow,Yuriy Zhuravlev,26.0,Centre-Back,Akhmat Grozny,Winter,1.2,Premier Liga,2022,0.0,0.0,Premier Liga,0.0,0.0
+Torpedo Moscow,Ilya Stefanovich,26.0,Centre-Forward,Volgar,Winter,0.144,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Torpedo Moscow,Roman Yuzepchuk,25.0,Right-Back,Soligorsk,Winter,0.1,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Orenburg,Matías Pérez,23.0,Centre-Back,Lanús,Winter,1.0,Premier Liga,2022,0.0,0.0,,0.0,0.0
+FK Orenburg,Danila Khotulev,20.0,Centre-Back,Zenit 2 S-Pb,Winter,0.435,Premier Liga,2022,0.0,0.0,,0.0,0.0
+Arsenal FC,Gabriel Jesus,25.0,Centre-Forward,Man City,Summer,52.2,Premier League,2022,0.4149595909851346,0.0,,0.6673599159186423,0.0
+Arsenal FC,Oleksandr Zinchenko,25.0,Left-Back,Man City,Summer,35.0,Premier League,2022,0.4149595909851346,0.0,,0.6673599159186423,0.0
+Arsenal FC,Fábio Vieira,22.0,Attacking Midfield,FC Porto,Summer,35.0,Premier League,2022,0.4149595909851346,0.0,Liga Nos,0.6673599159186423,0.0
+Arsenal FC,Matt Turner,28.0,Goalkeeper,New England,Summer,6.36,Premier League,2022,0.4149595909851346,0.0,,0.6673599159186423,0.0
+Arsenal FC,Marquinhos,19.0,Right Winger,São Paulo,Summer,3.5,Premier League,2022,0.4149595909851346,0.0,,0.6673599159186423,0.0
+Aston Villa,Diego Carlos,29.0,Centre-Back,Sevilla FC,Summer,31.0,Premier League,2022,0.0,0.2604267506158023,Primera Division,0.0,0.5877232272668695
+Aston Villa,Philippe Coutinho,30.0,Left Winger,Barcelona,Summer,20.0,Premier League,2022,0.0,0.2394138589345053,Primera Division,0.0,0.7388617566077745
+Aston Villa,Leander Dendoncker,27.0,Defensive Midfield,Wolves,Summer,15.0,Premier League,2022,0.0,0.0,,0.0,0.0
+Aston Villa,Robin Olsen,32.0,Goalkeeper,AS Roma,Summer,3.5,Premier League,2022,0.0,0.3588368342953894,Serie A,0.0,0.5292433813648545
+AFC Bournemouth,Marcos Senesi,25.0,Centre-Back,Feyenoord,Summer,15.0,Premier League,2022,0.0,0.2477962280078978,,0.0,0.4755228705141121
+AFC Bournemouth,Marcus Tavernier,23.0,Central Midfield,Middlesbrough,Summer,11.9,Premier League,2022,0.0,0.0,Premier League,0.0,0.0
+Brentford FC,Keane Lewis-Potter,21.0,Left Winger,Hull City,Summer,19.0,Premier League,2022,0.0,0.0,Premier League,0.0,0.0961578120111297
+Brentford FC,Aaron Hickey,20.0,Left-Back,Bologna,Summer,16.5,Premier League,2022,0.0,0.0,,0.0,0.0
+Brentford FC,Mikkel Damsgaard,22.0,Left Winger,Sampdoria,Summer,15.0,Premier League,2022,0.0,0.1033732533832674,Serie A,0.0,0.1746218761916511
+Brighton & Hove Albion,Pervis Estupiñán,24.0,Left-Back,Villarreal,Summer,17.8,Premier League,2022,0.0,0.0,Primera Division,0.0,0.5378494078984494
+Brighton & Hove Albion,Julio Enciso,18.0,Second Striker,Libertad,Summer,11.6,Premier League,2022,0.0,0.0,,0.0,0.0
+Brighton & Hove Albion,Billy Gilmour,21.0,Central Midfield,Chelsea,Summer,10.4,Premier League,2022,0.0,0.5045105753108674,Premier League,0.0,0.6350576351379168
+Brighton & Hove Albion,Simon Adingra,20.0,Left Winger,Nordsjaelland,Summer,8.0,Premier League,2022,0.0,0.0,,0.0,0.0
+Chelsea FC,Wesley Fofana,21.0,Centre-Back,Leicester,Summer,80.4,Premier League,2022,0.5045105753108674,0.0,,0.6350576351379168,0.0
+Chelsea FC,Marc Cucurella,24.0,Left-Back,Brighton,Summer,65.3,Premier League,2022,0.5045105753108674,0.0,,0.6350576351379168,0.0
+Chelsea FC,Raheem Sterling,27.0,Left Winger,Man City,Summer,56.2,Premier League,2022,0.5045105753108674,0.0,,0.6350576351379168,0.0
+Chelsea FC,Kalidou Koulibaly,31.0,Centre-Back,SSC Napoli,Summer,38.0,Premier League,2022,0.5045105753108674,0.0,Serie A,0.6350576351379168,0.0
+Chelsea FC,Carney Chukwuemeka,18.0,Central Midfield,Aston Villa,Summer,18.0,Premier League,2022,0.5045105753108674,0.0,Premier League,0.6350576351379168,0.0
+Chelsea FC,Pierre-Emerick Aubameyang,33.0,Centre-Forward,Barcelona,Summer,12.0,Premier League,2022,0.5045105753108674,0.2394138589345053,Primera Division,0.6350576351379168,0.7388617566077745
+Chelsea FC,Gabriel Slonina,18.0,Goalkeeper,Chicago,Summer,9.09,Premier League,2022,0.5045105753108674,0.0,,0.6350576351379168,0.0
+Crystal Palace,Cheick Doucouré,22.0,Defensive Midfield,Lens,Summer,22.6,Premier League,2022,0.0,0.0,,0.0,0.0
+Crystal Palace,Chris Richards,22.0,Centre-Back,Bayern Munich,Summer,12.0,Premier League,2022,0.0,1.0,1 Bundesliga,0.0,0.971130632264834
+Everton FC,Amadou Onana,20.0,Defensive Midfield,LOSC Lille,Summer,35.0,Premier League,2022,0.2665781676981546,0.0,Ligue 1,0.260000457469783,0.0
+Everton FC,Dwight McNeil,22.0,Left Winger,Burnley,Summer,24.0,Premier League,2022,0.2665781676981546,0.0,Premier League,0.260000457469783,0.1438040850218592
+Everton FC,Neal Maupay,26.0,Centre-Forward,Brighton,Summer,11.8,Premier League,2022,0.2665781676981546,0.0,,0.260000457469783,0.0
+Everton FC,James Garner,21.0,Defensive Midfield,Man Utd U21,Summer,10.4,Premier League,2022,0.2665781676981546,0.0,,0.260000457469783,0.0
+Everton FC,Idrissa Gueye,32.0,Central Midfield,Paris SG,Summer,4.0,Premier League,2022,0.2665781676981546,0.0,,0.260000457469783,0.0
+Fulham FC,João Palhinha,26.0,Defensive Midfield,Sporting CP,Summer,20.0,Premier League,2022,0.0,0.0,Liga Nos,0.0,0.0
+Fulham FC,Issa Diop,25.0,Centre-Back,West Ham,Summer,17.8,Premier League,2022,0.0,0.0,,0.0,0.0
+Fulham FC,Andreas Pereira,26.0,Attacking Midfield,Man Utd,Summer,9.5,Premier League,2022,0.0,0.0,,0.0,0.0
+Fulham FC,Kevin Mbabu,27.0,Right-Back,VfL Wolfsburg,Summer,5.5,Premier League,2022,0.0,0.3025479109597152,1 Bundesliga,0.0,0.4102593441194858
+Fulham FC,Carlos Vinícius,27.0,Centre-Forward,Benfica,Summer,5.0,Premier League,2022,0.0,0.0,Liga Nos,0.0,0.0
+Fulham FC,Bernd Leno,30.0,Goalkeeper,Arsenal,Summer,3.6,Premier League,2022,0.0,0.4149595909851346,Premier League,0.0,0.6673599159186423
+Leeds United,Brenden Aaronson,21.0,Attacking Midfield,RB Salzburg,Summer,32.84,Premier League,2022,0.0,0.0,,0.0,0.0
+Leeds United,Luis Sinisterra,23.0,Left Winger,Feyenoord,Summer,25.0,Premier League,2022,0.0,0.2477962280078978,,0.0,0.4755228705141121
+Leeds United,Tyler Adams,23.0,Defensive Midfield,RB Leipzig,Summer,17.0,Premier League,2022,0.0,0.6117274534581802,1 Bundesliga,0.0,0.5127898411512548
+Leeds United,Rasmus Kristensen,24.0,Right-Back,RB Salzburg,Summer,13.0,Premier League,2022,0.0,0.0,,0.0,0.0
+Leeds United,Marc Roca,25.0,Defensive Midfield,Bayern Munich,Summer,12.0,Premier League,2022,0.0,1.0,1 Bundesliga,0.0,0.971130632264834
+Leeds United,Darko Gyabi,18.0,Central Midfield,Man City U21,Summer,5.8,Premier League,2022,0.0,0.0,,0.0,0.0
+Leeds United,Wilfried Gnonto,18.0,Second Striker,FC Zürich,Summer,4.5,Premier League,2022,0.0,0.0,,0.0,0.0
+Leicester City,Wout Faes,24.0,Centre-Back,Stade Reims,Summer,17.0,Premier League,2022,0.3535773731485744,0.0,Ligue 1,0.3639027633510748,0.0
+Liverpool FC,Darwin Núñez,23.0,Centre-Forward,Benfica,Summer,75.0,Premier League,2022,0.7500363328132466,0.0,Liga Nos,0.7896278731118712,0.0
+Liverpool FC,Fábio Carvalho,19.0,Attacking Midfield,Fulham,Summer,5.9,Premier League,2022,0.7500363328132466,0.0,,0.7896278731118712,0.0
+Liverpool FC,Calvin Ramsay,18.0,Right-Back,Aberdeen FC,Summer,4.9,Premier League,2022,0.7500363328132466,0.0,,0.7896278731118712,0.1758802878985292
+Manchester City,Erling Haaland,21.0,Centre-Forward,Bor. Dortmund,Summer,60.0,Premier League,2022,0.8518349866466829,0.7146823160130107,,0.8009564778592996,0.0
+Manchester City,Kalvin Phillips,26.0,Defensive Midfield,Leeds,Summer,49.0,Premier League,2022,0.8518349866466829,0.0,,0.8009564778592996,0.0
+Manchester City,Manuel Akanji,27.0,Centre-Back,Bor. Dortmund,Summer,17.5,Premier League,2022,0.8518349866466829,0.7146823160130107,,0.8009564778592996,0.0
+Manchester City,Sergio Gómez,21.0,Left-Back,RSC Anderlecht,Summer,13.0,Premier League,2022,0.8518349866466829,0.0,,0.8009564778592996,0.2827590168159121
+Manchester United,Antony,22.0,Right Winger,Ajax,Summer,95.0,Premier League,2022,0.6159752614244018,0.4021522321558092,,0.6713299567084755,0.6830752758165654
+Manchester United,Casemiro,30.0,Defensive Midfield,Real Madrid,Summer,70.65,Premier League,2022,0.6159752614244018,0.361329826054969,Primera Division,0.6713299567084755,1.0
+Manchester United,Lisandro Martínez,24.0,Centre-Back,Ajax,Summer,57.37,Premier League,2022,0.6159752614244018,0.4021522321558092,,0.6713299567084755,0.6830752758165654
+Manchester United,Tyrell Malacia,22.0,Left-Back,Feyenoord,Summer,15.0,Premier League,2022,0.6159752614244018,0.2477962280078978,,0.6713299567084755,0.4755228705141121
+Newcastle United,Alexander Isak,22.0,Centre-Forward,Real Sociedad,Summer,70.0,Premier League,2022,0.0,0.0762621296475065,Primera Division,0.0,0.3043008789429461
+Newcastle United,Sven Botman,22.0,Centre-Back,LOSC Lille,Summer,37.0,Premier League,2022,0.0,0.0,Ligue 1,0.0,0.0
+Newcastle United,Matt Targett,26.0,Left-Back,Aston Villa,Summer,17.5,Premier League,2022,0.0,0.0,Premier League,0.0,0.0
+Newcastle United,Nick Pope,30.0,Goalkeeper,Burnley,Summer,11.5,Premier League,2022,0.0,0.0,Premier League,0.0,0.1438040850218592
+Nottingham Forest,Morgan Gibbs-White,22.0,Attacking Midfield,Wolves,Summer,29.5,Premier League,2022,0.0,0.0,,0.0,0.0
+Nottingham Forest,Taiwo Awoniyi,24.0,Centre-Forward,Union Berlin,Summer,20.5,Premier League,2022,0.0,0.3095688070647116,1 Bundesliga,0.0,0.2362615177518444
+Nottingham Forest,Neco Williams,21.0,Right-Back,Liverpool,Summer,20.0,Premier League,2022,0.0,0.7500363328132466,Premier League,0.0,0.7896278731118712
+Nottingham Forest,Emmanuel Dennis,24.0,Centre-Forward,Watford,Summer,14.8,Premier League,2022,0.0,0.0,Premier League,0.0,0.0
+Nottingham Forest,Orel Mangala,24.0,Central Midfield,VfB Stuttgart,Summer,13.0,Premier League,2022,0.0,0.2642947999182224,1 Bundesliga,0.0,0.2464332685252073
+Nottingham Forest,Moussa Niakhaté,26.0,Centre-Back,1.FSV Mainz 05,Summer,10.0,Premier League,2022,0.0,0.0,1 Bundesliga,0.0,0.0
+Nottingham Forest,Giulian Biancone,22.0,Right-Back,Troyes,Summer,10.0,Premier League,2022,0.0,0.0,,0.0,0.0
+Nottingham Forest,Lewis O'Brien,23.0,Central Midfield,Huddersfield,Summer,9.4,Premier League,2022,0.0,0.0,Premier League,0.0,0.0
+Nottingham Forest,Remo Freuler,30.0,Central Midfield,Atalanta BC,Summer,9.0,Premier League,2022,0.0,0.2369550473338529,Serie A,0.0,0.4268871287106309
+Nottingham Forest,Omar Richards,24.0,Left-Back,Bayern Munich,Summer,8.5,Premier League,2022,0.0,1.0,1 Bundesliga,0.0,0.971130632264834
+Nottingham Forest,Ui-jo Hwang,29.0,Centre-Forward,G. Bordeaux,Summer,4.0,Premier League,2022,0.0,0.0,,0.0,0.124207962981527
+Nottingham Forest,Willy Boly,31.0,Centre-Back,Wolves,Summer,2.6,Premier League,2022,0.0,0.0,,0.0,0.0
+Nottingham Forest,Harry Toffolo,26.0,Left-Back,Huddersfield,Summer,2.4,Premier League,2022,0.0,0.0,Premier League,0.0,0.0
+Nottingham Forest,Josh Bowler,23.0,Right Winger,Blackpool,Summer,2.3,Premier League,2022,0.0,0.0,,0.0,0.0
+Nottingham Forest,Brandon Aguilera,19.0,Attacking Midfield,LD Alajuelense,Summer,0.95,Premier League,2022,0.0,0.0,,0.0,0.0
+Southampton FC,Gavin Bazunu,20.0,Goalkeeper,Man City U21,Summer,14.0,Premier League,2022,0.2626203666936487,0.0,,0.2025732673375124,0.0
+Southampton FC,Sékou Mara,19.0,Centre-Forward,G. Bordeaux,Summer,13.0,Premier League,2022,0.2626203666936487,0.0,,0.2025732673375124,0.124207962981527
+Southampton FC,Roméo Lavia,18.0,Defensive Midfield,Man City U21,Summer,12.3,Premier League,2022,0.2626203666936487,0.0,,0.2025732673375124,0.0
+Southampton FC,Duje Caleta-Car,25.0,Centre-Back,Marseille,Summer,10.0,Premier League,2022,0.2626203666936487,0.2302970034533497,,0.2025732673375124,0.3946615047414129
+Southampton FC,Armel Bella-Kotchap,20.0,Centre-Back,VfL Bochum,Summer,10.0,Premier League,2022,0.2626203666936487,0.0,1 Bundesliga,0.2025732673375124,0.0
+Southampton FC,Joe Aribo,25.0,Central Midfield,Rangers,Summer,7.1,Premier League,2022,0.2626203666936487,0.1969154989279855,,0.2025732673375124,0.4326395568853222
+Southampton FC,Juan Larios,18.0,Left-Back,Man City U21,Summer,7.0,Premier League,2022,0.2626203666936487,0.0,,0.2025732673375124,0.0
+Tottenham Hotspur,Richarlison,25.0,Centre-Forward,Everton,Summer,58.0,Premier League,2022,0.6332579908672682,0.2665781676981546,Premier League,0.5694397178320721,0.260000457469783
+Tottenham Hotspur,Cristian Romero,24.0,Centre-Back,Atalanta BC,Summer,50.0,Premier League,2022,0.6332579908672682,0.2369550473338529,Serie A,0.5694397178320721,0.4268871287106309
+Tottenham Hotspur,Yves Bissouma,25.0,Central Midfield,Brighton,Summer,29.2,Premier League,2022,0.6332579908672682,0.0,,0.5694397178320721,0.0
+Tottenham Hotspur,Destiny Udogie,19.0,Left-Back,Udinese Calcio,Summer,18.0,Premier League,2022,0.6332579908672682,0.0,Serie A,0.5694397178320721,0.0
+Tottenham Hotspur,Djed Spence,21.0,Right-Back,Middlesbrough,Summer,14.7,Premier League,2022,0.6332579908672682,0.0,Premier League,0.5694397178320721,0.0
+West Ham United,Lucas Paquetá,25.0,Attacking Midfield,Olympique Lyon,Summer,42.95,Premier League,2022,0.3161683771125502,0.0,Ligue 1,0.3538924954536627,0.0
+West Ham United,Gianluca Scamacca,23.0,Centre-Forward,Sassuolo,Summer,36.0,Premier League,2022,0.3161683771125502,0.1813398374223273,Serie A,0.3538924954536627,0.2501645911767107
+West Ham United,Nayef Aguerd,26.0,Centre-Back,Stade Rennais,Summer,35.0,Premier League,2022,0.3161683771125502,0.0,Ligue 1,0.3538924954536627,0.0
+West Ham United,Maxwel Cornet,25.0,Left Winger,Burnley,Summer,20.7,Premier League,2022,0.3161683771125502,0.0,Premier League,0.3538924954536627,0.1438040850218592
+West Ham United,Emerson,28.0,Left-Back,Chelsea,Summer,15.4,Premier League,2022,0.3161683771125502,0.5045105753108674,Premier League,0.3538924954536627,0.6350576351379168
+West Ham United,Thilo Kehrer,25.0,Centre-Back,Paris SG,Summer,12.0,Premier League,2022,0.3161683771125502,0.0,,0.3538924954536627,0.0
+West Ham United,Flynn Downes,23.0,Central Midfield,Swansea,Summer,10.65,Premier League,2022,0.3161683771125502,0.0,,0.3538924954536627,0.0
+West Ham United,Alphonse Areola,29.0,Goalkeeper,Paris SG,Summer,9.3,Premier League,2022,0.3161683771125502,0.0,,0.3538924954536627,0.0
+Wolverhampton Wanderers,Matheus Nunes,23.0,Central Midfield,Sporting CP,Summer,45.0,Premier League,2022,0.0,0.0,Liga Nos,0.0,0.0
+Wolverhampton Wanderers,Gonçalo Guedes,25.0,Left Winger,Valencia,Summer,32.6,Premier League,2022,0.0,0.0,Primera Division,0.0,0.3417621449666362
+Wolverhampton Wanderers,Nathan Collins,21.0,Centre-Back,Burnley,Summer,24.3,Premier League,2022,0.0,0.0,Premier League,0.0,0.1438040850218592
+Wolverhampton Wanderers,Sasa Kalajdzic,25.0,Centre-Forward,VfB Stuttgart,Summer,18.0,Premier League,2022,0.0,0.2642947999182224,1 Bundesliga,0.0,0.2464332685252073
+Wolverhampton Wanderers,Hee-chan Hwang,26.0,Centre-Forward,RB Leipzig,Summer,16.7,Premier League,2022,0.0,0.6117274534581802,1 Bundesliga,0.0,0.5127898411512548
+Arsenal FC,Jakub Kiwior,22.0,Centre-Back,Spezia Calcio,Winter,25.0,Premier League,2022,0.4149595909851346,0.0,Serie A,0.6673599159186423,0.0
+Arsenal FC,Leandro Trossard,28.0,Left Winger,Brighton,Winter,24.0,Premier League,2022,0.4149595909851346,0.0,,0.6673599159186423,0.0
+Arsenal FC,Jorginho,31.0,Defensive Midfield,Chelsea,Winter,11.3,Premier League,2022,0.4149595909851346,0.5045105753108674,Premier League,0.6673599159186423,0.6350576351379168
+Aston Villa,Jhon Durán,19.0,Centre-Forward,Chicago,Winter,16.64,Premier League,2022,0.0,0.0,,0.0,0.0
+Aston Villa,Álex Moreno,29.0,Left-Back,Real Betis,Winter,13.5,Premier League,2022,0.0,0.0831091338354417,,0.0,0.3340038331035112
+AFC Bournemouth,Ilya Zabarnyi,20.0,Centre-Back,Dynamo Kyiv,Winter,22.7,Premier League,2022,0.0,0.0,,0.0,0.0
+AFC Bournemouth,Dango Ouattara,20.0,Right Winger,FC Lorient,Winter,22.5,Premier League,2022,0.0,0.0,Ligue 1,0.0,0.0
+AFC Bournemouth,Antoine Semenyo,23.0,Centre-Forward,Bristol City,Winter,10.25,Premier League,2022,0.0,0.0,,0.0,0.0
+Brighton & Hove Albion,Facundo Buonanotte,18.0,Attacking Midfield,Rosario Central,Winter,6.0,Premier League,2022,0.0,0.0,,0.0,0.0
+Brighton & Hove Albion,Yasin Ayari,19.0,Central Midfield,AIK,Winter,4.0,Premier League,2022,0.0,0.0,,0.0,0.0
+Chelsea FC,Enzo Fernández,22.0,Central Midfield,Benfica,Winter,121.0,Premier League,2022,0.5045105753108674,0.0,Liga Nos,0.6350576351379168,0.0
+Chelsea FC,Mykhaylo Mudryk,22.0,Left Winger,Shakhtar D.,Winter,70.0,Premier League,2022,0.5045105753108674,0.0,,0.6350576351379168,0.0
+Chelsea FC,Benoît Badiashile,21.0,Centre-Back,Monaco,Winter,38.0,Premier League,2022,0.5045105753108674,0.2091499497585124,,0.6350576351379168,0.0
+Chelsea FC,Noni Madueke,20.0,Right Winger,PSV Eindhoven,Winter,35.0,Premier League,2022,0.5045105753108674,0.0,Eredivisie,0.6350576351379168,0.0
+Chelsea FC,Malo Gusto,19.0,Right-Back,Olympique Lyon,Winter,30.0,Premier League,2022,0.5045105753108674,0.0,Ligue 1,0.6350576351379168,0.0
+Chelsea FC,Andrey Santos,18.0,Central Midfield,Vasco da Gama,Winter,12.5,Premier League,2022,0.5045105753108674,0.0,,0.6350576351379168,0.0
+Chelsea FC,David Datro Fofana,20.0,Centre-Forward,Molde,Winter,12.0,Premier League,2022,0.5045105753108674,0.0,,0.6350576351379168,0.0
+Crystal Palace,Naouirou Ahamada,20.0,Central Midfield,VfB Stuttgart,Winter,12.0,Premier League,2022,0.0,0.2642947999182224,1 Bundesliga,0.0,0.2464332685252073
+Fulham FC,Sasa Lukic,26.0,Central Midfield,Torino,Winter,9.1,Premier League,2022,0.0,0.185412250833023,,0.0,0.2180500445768075
+Leeds United,Georginio Rutter,20.0,Centre-Forward,TSG Hoffenheim,Winter,28.0,Premier League,2022,0.0,0.0,1 Bundesliga,0.0,0.0
+Leeds United,Maximilian Wöber,24.0,Centre-Back,RB Salzburg,Winter,12.0,Premier League,2022,0.0,0.0,,0.0,0.0
+Leicester City,Harry Souttar,24.0,Centre-Back,Stoke City,Winter,17.0,Premier League,2022,0.3535773731485744,0.0,Premier League,0.3639027633510748,0.0
+Leicester City,Victor Kristiansen,20.0,Left-Back,FC Copenhagen,Winter,14.0,Premier League,2022,0.3535773731485744,0.0,,0.3639027633510748,0.0
+Liverpool FC,Cody Gakpo,23.0,Left Winger,PSV Eindhoven,Winter,42.0,Premier League,2022,0.7500363328132466,0.0,Eredivisie,0.7896278731118712,0.0
+Manchester City,Máximo Perrone,20.0,Defensive Midfield,Vélez Sarsfield,Winter,11.0,Premier League,2022,0.8518349866466829,0.0,,0.8009564778592996,0.0
+Newcastle United,Anthony Gordon,21.0,Left Winger,Everton,Winter,45.6,Premier League,2022,0.0,0.2665781676981546,Premier League,0.0,0.260000457469783
+Newcastle United,Harrison Ashby,21.0,Right-Back,West Ham U21,Winter,3.4,Premier League,2022,0.0,0.0,,0.0,0.0
+Newcastle United,Garang Kuol,18.0,Right Winger,Central Coast,Winter,0.35,Premier League,2022,0.0,0.0,,0.0,0.0
+Nottingham Forest,Danilo,21.0,Defensive Midfield,Palmeiras,Winter,20.0,Premier League,2022,0.0,0.0,,0.0,0.0
+Nottingham Forest,Felipe,33.0,Centre-Back,Atlético Madrid,Winter,2.3,Premier League,2022,0.0,0.1236931817808441,Primera Division,0.0,0.6421524664319064
+Southampton FC,Kamaldeen Sulemana,20.0,Left Winger,Rennes,Winter,25.0,Premier League,2022,0.2626203666936487,0.0,,0.2025732673375124,0.0
+Southampton FC,Paul Onuachu,28.0,Centre-Forward,KRC Genk,Winter,18.0,Premier League,2022,0.2626203666936487,0.0,,0.2025732673375124,0.0
+Southampton FC,Carlos Alcaraz,20.0,Central Midfield,Racing Club,Winter,13.65,Premier League,2022,0.2626203666936487,0.0,,0.2025732673375124,0.0
+Southampton FC,Mislav Orsic,30.0,Left Winger,Dinamo Zagreb,Winter,5.75,Premier League,2022,0.2626203666936487,0.0,,0.2025732673375124,0.0
+Southampton FC,James Bree,25.0,Right-Back,Luton,Winter,0.85,Premier League,2022,0.2626203666936487,0.0,,0.2025732673375124,0.0
+West Ham United,Danny Ings,30.0,Centre-Forward,Aston Villa,Winter,12.0,Premier League,2022,0.3161683771125502,0.0,Premier League,0.3538924954536627,0.0
+Wolverhampton Wanderers,João Gomes,21.0,Central Midfield,Flamengo,Winter,18.7,Premier League,2022,0.0,0.0,,0.0,0.0
+Wolverhampton Wanderers,Mario Lemina,29.0,Defensive Midfield,OGC Nice,Winter,11.0,Premier League,2022,0.0,0.0,Ligue 1,0.0,0.0
+Wolverhampton Wanderers,Pablo Sarabia,30.0,Right Winger,Paris SG,Winter,5.0,Premier League,2022,0.0,0.0,,0.0,0.0
+Wolverhampton Wanderers,Craig Dawson,32.0,Centre-Back,West Ham,Winter,3.75,Premier League,2022,0.0,0.0,,0.0,0.0
+Wolverhampton Wanderers,Daniel Bentley,29.0,Goalkeeper,Bristol City,Winter,0.057,Premier League,2022,0.0,0.0,,0.0,0.0
+Paris Saint-Germain,Vitinha,22.0,Central Midfield,FC Porto,Summer,41.5,Ligue 1,2022,0.4680766746254433,0.0,Liga Nos,0.7328388479499336,0.0
+Paris Saint-Germain,Nuno Mendes,20.0,Left-Back,Sporting CP,Summer,38.0,Ligue 1,2022,0.4680766746254433,0.0,Liga Nos,0.7328388479499336,0.0
+Paris Saint-Germain,Fabián Ruiz,26.0,Central Midfield,SSC Napoli,Summer,23.0,Ligue 1,2022,0.4680766746254433,0.0,Serie A,0.7328388479499336,0.0
+Paris Saint-Germain,Carlos Soler,25.0,Central Midfield,Valencia,Summer,18.0,Ligue 1,2022,0.4680766746254433,0.0,Primera Division,0.7328388479499336,0.3417621449666362
+Paris Saint-Germain,Renato Sanches,24.0,Central Midfield,LOSC Lille,Summer,15.0,Ligue 1,2022,0.4680766746254433,0.0,Ligue 1,0.7328388479499336,0.0
+Paris Saint-Germain,Nordi Mukiele,24.0,Right-Back,RB Leipzig,Summer,12.0,Ligue 1,2022,0.4680766746254433,0.6117274534581802,1 Bundesliga,0.7328388479499336,0.5127898411512548
+Olympique Marseille,Pau López,27.0,Goalkeeper,AS Roma,Summer,12.0,Ligue 1,2022,0.0,0.3588368342953894,Serie A,0.0,0.5292433813648545
+Olympique Marseille,Mattéo Guendouzi,23.0,Central Midfield,Arsenal,Summer,11.0,Ligue 1,2022,0.0,0.4149595909851346,Premier League,0.0,0.6673599159186423
+Olympique Marseille,Jordan Veretout,29.0,Central Midfield,AS Roma,Summer,11.0,Ligue 1,2022,0.0,0.3588368342953894,Serie A,0.0,0.5292433813648545
+Olympique Marseille,Luis Suárez,24.0,Centre-Forward,Granada CF,Summer,10.0,Ligue 1,2022,0.0,0.0,Primera Division,0.0,0.0976571495549945
+Olympique Marseille,Cengiz Ünder,24.0,Right Winger,AS Roma,Summer,8.4,Ligue 1,2022,0.0,0.3588368342953894,Serie A,0.0,0.5292433813648545
+Olympique Marseille,Arkadiusz Milik,28.0,Centre-Forward,SSC Napoli,Summer,8.0,Ligue 1,2022,0.0,0.0,Serie A,0.0,0.0
+Olympique Marseille,Jonathan Clauss,29.0,Right-Back,Lens,Summer,7.5,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Olympique Marseille,Isaak Touré,19.0,Centre-Back,AC Le Havre,Summer,5.5,Ligue 1,2022,0.0,0.0,,0.0,0.0
+AS Monaco,Mohamed Camara,22.0,Defensive Midfield,RB Salzburg,Summer,15.0,Ligue 1,2022,0.2091499497585124,0.0,,0.470407640582901,0.0
+AS Monaco,Takumi Minamino,27.0,Left Winger,Liverpool,Summer,15.0,Ligue 1,2022,0.2091499497585124,0.7500363328132466,Premier League,0.470407640582901,0.7896278731118712
+AS Monaco,Breel Embolo,25.0,Centre-Forward,Bor. M'gladbach,Summer,12.5,Ligue 1,2022,0.2091499497585124,0.0,,0.470407640582901,0.0
+Stade Rennais FC,Amine Gouiri,22.0,Centre-Forward,OGC Nice,Summer,28.0,Ligue 1,2022,0.0,0.0,Ligue 1,0.0,0.0
+Stade Rennais FC,Arnaud Kalimuendo,20.0,Centre-Forward,Paris SG,Summer,20.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Stade Rennais FC,Arthur Theate,22.0,Centre-Back,Bologna,Summer,19.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Stade Rennais FC,Christopher Wooh,20.0,Centre-Back,Lens,Summer,9.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+OGC Nice,Sofiane Diop,22.0,Left Winger,Monaco,Summer,22.0,Ligue 1,2022,0.0,0.2091499497585124,,0.0,0.0
+OGC Nice,Gaëtan Laborde,28.0,Centre-Forward,Stade Rennais,Summer,15.0,Ligue 1,2022,0.0,0.0,Ligue 1,0.0,0.0
+OGC Nice,Mattia Viti,20.0,Centre-Back,FC Empoli,Summer,13.0,Ligue 1,2022,0.0,0.0,Serie A,0.0,0.0
+OGC Nice,Alexis Beka Beka,21.0,Defensive Midfield,Loko Moscow,Summer,12.0,Ligue 1,2022,0.0,0.007687168577946,,0.0,0.0
+OGC Nice,Rares Ilie,19.0,Left Winger,FC Rapid,Summer,5.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+OGC Nice,Marcin Bulka,22.0,Goalkeeper,Paris SG,Summer,2.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+OGC Nice,Kasper Schmeichel,35.0,Goalkeeper,Leicester,Summer,1.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+RC Strasbourg Alsace,Jean-Eudes Aholou,28.0,Defensive Midfield,Monaco,Summer,3.0,Ligue 1,2022,0.0,0.2091499497585124,,0.0,0.0
+RC Strasbourg Alsace,Lucas Perrin,23.0,Centre-Back,Marseille,Summer,1.5,Ligue 1,2022,0.0,0.2302970034533497,,0.0,0.3946615047414129
+RC Lens,Loïs Openda,22.0,Centre-Forward,Club Brugge,Summer,9.8,Ligue 1,2022,0.0,0.1040459346730163,,0.0,0.3617993723874599
+RC Lens,Adam Buksa,25.0,Centre-Forward,New England,Summer,6.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+RC Lens,Brice Samba,28.0,Goalkeeper,Nottm Forest,Summer,5.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+RC Lens,Salis Abdul Samed,22.0,Defensive Midfield,Clermont Foot,Summer,5.0,Ligue 1,2022,0.0,0.0,Ligue 1,0.0,0.0
+RC Lens,Jean Onana,22.0,Defensive Midfield,G. Bordeaux,Summer,4.0,Ligue 1,2022,0.0,0.0,,0.0,0.124207962981527
+RC Lens,Jimmy Cabot,28.0,Right Midfield,Angers SCO,Summer,2.0,Ligue 1,2022,0.0,0.0,Ligue 1,0.0,0.0
+RC Lens,Lukasz Poreba,22.0,Defensive Midfield,Zaglebie Lubin,Summer,0.35,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Olympique Lyon,Johann Lepenant,19.0,Defensive Midfield,SM Caen,Summer,4.25,Ligue 1,2022,0.0,0.0,Ligue 1,0.0,0.0
+Olympique Lyon,Nicolás Tagliafico,29.0,Left-Back,Ajax,Summer,4.2,Ligue 1,2022,0.0,0.4021522321558092,,0.0,0.6830752758165654
+Olympique Lyon,Saël Kumbedi,17.0,Right-Back,AC Le Havre,Summer,1.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+FC Nantes,Ignatius Ganago,23.0,Centre-Forward,Lens,Summer,4.4,Ligue 1,2022,0.1366342142135826,0.0,,0.0,0.0
+FC Nantes,Moussa Sissoko,32.0,Central Midfield,Watford,Summer,2.0,Ligue 1,2022,0.1366342142135826,0.0,Premier League,0.0,0.0
+LOSC Lille,Mohamed Bayo,24.0,Centre-Forward,Clermont Foot,Summer,14.0,Ligue 1,2022,0.0,0.0,Ligue 1,0.0,0.0
+LOSC Lille,Alan Virginius,19.0,Left Winger,FC Sochaux,Summer,4.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+LOSC Lille,Adam Ounas,25.0,Right Winger,SSC Napoli,Summer,3.0,Ligue 1,2022,0.0,0.0,Serie A,0.0,0.0
+LOSC Lille,Bafodé Diakité,21.0,Centre-Back,Toulouse,Summer,3.0,Ligue 1,2022,0.0,0.0,Ligue 1,0.0,0.0
+LOSC Lille,Alexsandro,22.0,Centre-Back,Chaves,Summer,2.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Stade Brestois 29,Achraf Dari,23.0,Centre-Back,Wydad AC,Summer,2.7,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Stade Brestois 29,Pierre Lees-Melou,29.0,Central Midfield,Norwich,Summer,2.3,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Stade Brestois 29,Noah Fadiga,22.0,Right-Back,Heracles Almelo,Summer,0.35,Ligue 1,2022,0.0,0.0,Eredivisie,0.0,0.0
+Stade Reims,Junya Ito,29.0,Right Winger,KRC Genk,Summer,10.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Stade Reims,Andreaw Gravillon,24.0,Centre-Back,Inter,Summer,3.5,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Stade Reims,Emmanuel Agbadou,25.0,Centre-Back,KAS Eupen,Summer,2.6,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Montpellier HSC,Christopher Jullien,29.0,Centre-Back,Celtic,Summer,1.0,Ligue 1,2022,0.0,0.1473653323692366,,0.0,0.4992814950925504
+Angers SCO,Ousmane Camara,19.0,Centre-Back,Paris FC,Summer,2.2,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Angers SCO,Cédric Hountondji,28.0,Centre-Back,Clermont Foot,Summer,2.0,Ligue 1,2022,0.0,0.0,Ligue 1,0.0,0.0
+Angers SCO,Adrien Hunou,28.0,Centre-Forward,Minnesota,Summer,1.5,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Angers SCO,Halid Sabanovic,22.0,Right-Back,FK Sarajevo,Summer,0.3,Ligue 1,2022,0.0,0.0,,0.0,0.0
+ESTAC Troyes,Sávio,18.0,Right Winger,Atlético-MG,Summer,6.5,Ligue 1,2022,0.0,0.0,,0.0,0.0
+ESTAC Troyes,Jackson Porozo,21.0,Centre-Back,Boavista,Summer,3.5,Ligue 1,2022,0.0,0.0,Liga Nos,0.0,0.0
+ESTAC Troyes,Iké Ugbo,23.0,Centre-Forward,KRC Genk,Summer,3.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+ESTAC Troyes,Thierno Baldé,20.0,Right-Back,Paris SG,Summer,3.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+ESTAC Troyes,Andreas Bruus,23.0,Right-Back,Bröndby IF,Summer,1.5,Ligue 1,2022,0.0,0.0,,0.0,0.0
+FC Lorient,Yoann Cathline,20.0,Left Winger,Guingamp,Summer,2.7,Ligue 1,2022,0.0,0.0,Ligue 1,0.0,0.1163397892923987
+FC Lorient,Montassar Talbi,24.0,Centre-Back,Rubin Kazan,Summer,1.5,Ligue 1,2022,0.0,0.0,Premier Liga,0.0,0.0
+FC Lorient,Darlin Yongwa,21.0,Left-Back,Chamois Niort,Summer,1.5,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Clermont Foot 63,Mateusz Wieteska,25.0,Centre-Back,Legia Warszawa,Summer,1.3,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Clermont Foot 63,Komnen Andric,27.0,Centre-Forward,Dinamo Zagreb,Summer,1.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+FC Toulouse,Veljko Birmancevic,24.0,Left Winger,Malmö FF,Summer,4.1,Ligue 1,2022,0.0,0.0,,0.0,0.0
+FC Toulouse,Thijs Dallinga,21.0,Centre-Forward,Excelsior,Summer,2.5,Ligue 1,2022,0.0,0.0,,0.0,0.0
+FC Toulouse,Zakaria Aboukhlal,22.0,Right Winger,AZ Alkmaar,Summer,2.0,Ligue 1,2022,0.0,0.0,Eredivisie,0.0,0.0
+FC Toulouse,Oliver Zandén,20.0,Left-Back,Elfsborg,Summer,1.5,Ligue 1,2022,0.0,0.0,,0.0,0.0
+AC Ajaccio,Fernand Mayembo,26.0,Centre-Back,AC Le Havre,Summer,0.3,Ligue 1,2022,0.0,0.0,,0.0,0.0
+AJ Auxerre,Nuno Da Costa,31.0,Centre-Forward,Nottm Forest,Summer,2.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+AJ Auxerre,Rayan Raveloson,25.0,Defensive Midfield,Los Angeles,Summer,1.75,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Olympique Marseille,Vitinha,22.0,Centre-Forward,SC Braga,Winter,32.0,Ligue 1,2022,0.0,0.0,Liga Nos,0.0,0.0
+Olympique Marseille,Azzedine Ounahi,22.0,Central Midfield,Angers SCO,Winter,8.0,Ligue 1,2022,0.0,0.0,Ligue 1,0.0,0.0
+Stade Rennais FC,Ibrahim Salah,21.0,Left Winger,KAA Gent,Winter,3.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+OGC Nice,Youssouf Ndayishimiye,24.0,Centre-Back,Basaksehir,Winter,11.5,Ligue 1,2022,0.0,0.0,,0.0,0.0
+RC Strasbourg Alsace,Eduard Sobol,27.0,Left-Back,Club Brugge,Winter,2.5,Ligue 1,2022,0.0,0.1040459346730163,,0.0,0.3617993723874599
+RC Lens,Adrien Thomasson,29.0,Attacking Midfield,R. Strasbourg,Winter,3.9,Ligue 1,2022,0.0,0.0841549998091139,,0.0,0.2210035892475844
+RC Lens,Julien Le Cardinal,25.0,Right-Back,Paris FC,Winter,2.3,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Olympique Lyon,Amin Sarr,21.0,Centre-Forward,Heerenveen,Winter,11.0,Ligue 1,2022,0.0,0.0,Eredivisie,0.0,0.0
+Olympique Lyon,Jeffinho,23.0,Left Winger,Botafogo,Winter,10.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+Olympique Lyon,Dejan Lovren,33.0,Centre-Back,Zenit S-Pb,Winter,2.0,Ligue 1,2022,0.0,0.0,,0.0,0.0
+FC Nantes,Florent Mollet,31.0,Attacking Midfield,FC Schalke 04,Winter,1.5,Ligue 1,2022,0.1366342142135826,0.2349476078359774,1 Bundesliga,0.0,0.357456593200263
+FC Nantes,Jaouen Hadjam,19.0,Left-Back,Paris FC,Winter,0.3,Ligue 1,2022,0.1366342142135826,0.0,,0.0,0.0
+Montpellier HSC,Kiki Kouyaté,25.0,Centre-Back,FC Metz,Winter,6.0,Ligue 1,2022,0.0,0.0,Ligue 1,0.0,0.0
+Montpellier HSC,Benjamin Lecomte,31.0,Goalkeeper,Monaco,Winter,2.0,Ligue 1,2022,0.0,0.2091499497585124,,0.0,0.0
+ESTAC Troyes,Alexis Tibidi,19.0,Left Winger,VfB Stuttgart,Winter,2.6,Ligue 1,2022,0.0,0.2642947999182224,1 Bundesliga,0.0,0.2464332685252073
+FC Lorient,Jean-Victor Makengo,24.0,Central Midfield,Udinese Calcio,Winter,11.0,Ligue 1,2022,0.0,0.0,Serie A,0.0,0.0
+FC Lorient,Bamba Dieng,22.0,Centre-Forward,Marseille,Winter,7.0,Ligue 1,2022,0.0,0.2302970034533497,,0.0,0.3946615047414129
+FC Lorient,Joel Mugisha Mvuka,20.0,Right Winger,Bodø/Glimt,Winter,5.5,Ligue 1,2022,0.0,0.0,,0.0,0.0
+FC Toulouse,Saïd Hamulic,22.0,Centre-Forward,Stal Mielec,Winter,2.5,Ligue 1,2022,0.0,0.0,,0.0,0.0
+FC Toulouse,Warren Kamanzi,22.0,Right-Back,Tromsø IL,Winter,0.6,Ligue 1,2022,0.0,0.0,,0.0,0.0
+FC Porto,David Carmo,22.0,Centre-Back,SC Braga,Summer,20.0,Liga Nos,2022,0.0,0.0,Liga Nos,0.0,0.0
+FC Porto,Gabriel Veron,19.0,Right Winger,Palmeiras,Summer,10.5,Liga Nos,2022,0.0,0.0,,0.0,0.0
+FC Porto,Marko Grujic,26.0,Central Midfield,Liverpool,Summer,9.0,Liga Nos,2022,0.0,0.7500363328132466,Premier League,0.0,0.7896278731118712
+FC Porto,André Franco,24.0,Attacking Midfield,Estoril Praia,Summer,4.0,Liga Nos,2022,0.0,0.0,Liga Nos,0.0,0.0
+FC Porto,Stephen Eustaquio,25.0,Defensive Midfield,Paços Ferreira,Summer,3.5,Liga Nos,2022,0.0,0.0,Liga Nos,0.0,0.0
+FC Porto,Samuel,28.0,Goalkeeper,Portimonense,Summer,1.0,Liga Nos,2022,0.0,0.0,Liga Nos,0.0,0.0
+Sporting CP,Rúben Vinagre,23.0,Left-Back,Wolves,Summer,10.0,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Sporting CP,Jeremiah St. Juste,25.0,Centre-Back,1.FSV Mainz 05,Summer,9.5,Liga Nos,2022,0.0,0.0,1 Bundesliga,0.0,0.0
+Sporting CP,Pedro Porro,22.0,Right-Back,Man City,Summer,8.5,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Sporting CP,Sotiris Alexandropoulos,20.0,Central Midfield,Panathinaikos,Summer,4.5,Liga Nos,2022,0.0,0.0,,0.0,0.0545088976444027
+Sporting CP,Arthur Gomes,24.0,Left Winger,Estoril Praia,Summer,4.0,Liga Nos,2022,0.0,0.0,Liga Nos,0.0,0.0
+Sporting CP,Hidemasa Morita,27.0,Defensive Midfield,Santa Clara,Summer,3.8,Liga Nos,2022,0.0,0.0,Liga Nos,0.0,0.0
+Sporting CP,Rochinha,27.0,Left Winger,Vit. Guimarães,Summer,2.0,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Sporting CP,Franco Israel,22.0,Goalkeeper,Juve Next Gen,Summer,0.65,Liga Nos,2022,0.0,0.0,,0.0,0.0
+SL Benfica,David Neres,25.0,Right Winger,Shakhtar D.,Summer,15.3,Liga Nos,2022,0.0,0.0,,0.0,0.0
+SL Benfica,Fredrik Aursnes,26.0,Defensive Midfield,Feyenoord,Summer,13.0,Liga Nos,2022,0.0,0.2477962280078978,,0.0,0.4755228705141121
+SL Benfica,Enzo Fernández,21.0,Central Midfield,River Plate,Summer,12.0,Liga Nos,2022,0.0,0.0,,0.0,0.0
+SL Benfica,João Victor,23.0,Centre-Back,Corinthians,Summer,9.5,Liga Nos,2022,0.0,0.0,,0.0,0.0
+SL Benfica,Alexander Bah,24.0,Right-Back,Slavia Prague,Summer,8.0,Liga Nos,2022,0.0,0.0,,0.0,0.0
+SL Benfica,Petar Musa,24.0,Centre-Forward,Boavista,Summer,5.5,Liga Nos,2022,0.0,0.0,Liga Nos,0.0,0.0
+SC Braga,Simon Banza,25.0,Centre-Forward,Lens,Summer,3.0,Liga Nos,2022,0.0,0.0,,0.0,0.0
+SC Braga,Serdar Saatci,19.0,Centre-Back,Besiktas,Summer,1.5,Liga Nos,2022,0.0,0.0,,0.0,0.352613911247977
+Gil Vicente FC,Kanya Fujimoto,23.0,Attacking Midfield,Tokyo Verdy,Summer,0.6,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Gil Vicente FC,Juan Manuel Boselli,22.0,Right Winger,Tondela,Summer,0.05,Liga Nos,2022,0.0,0.0,Liga Nos,0.0,0.0
+Vitória Guimarães SC,André Silva,25.0,Centre-Forward,Arouca,Summer,1.0,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Vitória Guimarães SC,Alisson Safira,27.0,Centre-Forward,B SAD,Summer,0.35,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Vitória Guimarães SC,Matheus Índio,22.0,Defensive Midfield,Trofense,Summer,0.25,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Vitória Guimarães SC,Jota Silva,22.0,Left Winger,Casa Pia,Summer,0.19,Liga Nos,2022,0.0,0.0,,0.0,0.0
+CD Santa Clara,Rildo,22.0,Attacking Midfield,Grêmio,Summer,1.25,Liga Nos,2022,0.0,0.0,,0.0,0.0
+CD Santa Clara,Paulo,20.0,Centre-Back,Cruzeiro U20,Summer,1.0,Liga Nos,2022,0.0,0.0,,0.0,0.0
+CD Santa Clara,Diogo Calila,23.0,Right-Back,B SAD,Summer,0.25,Liga Nos,2022,0.0,0.0,,0.0,0.0
+FC Famalicão,Zaydou Youssouf,23.0,Central Midfield,Saint-Étienne,Summer,1.0,Liga Nos,2022,0.0,0.0,Ligue 1,0.0,0.0
+FC Famalicão,Puma,24.0,Left Winger,Alavés,Summer,0.5,Liga Nos,2022,0.0,0.0,,0.0,0.0
+FC Famalicão,Enea Mihaj,24.0,Centre-Back,PAOK Salonika,Summer,0.2,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Boavista FC,Petar Musa,24.0,Centre-Forward,Slavia Prague,Summer,4.25,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Boavista FC,Ibrahima,23.0,Defensive Midfield,Moreirense,Summer,1.0,Liga Nos,2022,0.0,0.0,Liga Nos,0.0,0.0
+Rio Ave FC,Aziz,23.0,Centre-Forward,Vit. Guimarães,Summer,1.0,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Rio Ave FC,Jhonatan,31.0,Goalkeeper,Vit. Guimarães,Summer,0.6,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Rio Ave FC,Josué Sá,30.0,Centre-Back,Ludogorets,Summer,0.2,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Sporting CP,Ousmane Diomande,19.0,Centre-Back,FC Midtjylland,Winter,7.5,Liga Nos,2022,0.0,0.0346984106733485,,0.0,0.2537360260951629
+Sporting CP,Héctor Bellerín,27.0,Right-Back,Barcelona,Winter,1.0,Liga Nos,2022,0.0,0.2394138589345053,Primera Division,0.0,0.7388617566077745
+SL Benfica,Andreas Schjelderup,18.0,Left Winger,Nordsjaelland,Winter,9.0,Liga Nos,2022,0.0,0.0,,0.0,0.0
+SL Benfica,Casper Tengstedt,22.0,Centre-Forward,Rosenborg,Winter,7.0,Liga Nos,2022,0.0,0.0,,0.0,0.0
+SC Braga,Joe Mendes,20.0,Right-Back,AIK,Winter,1.5,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Gil Vicente FC,Gabriel Pereira,22.0,Centre-Back,Vilafranquense,Winter,0.65,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Gil Vicente FC,Depú,23.0,Centre-Forward,Petro Luanda,Winter,0.5,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Gil Vicente FC,Marlon,25.0,Left Winger,Paysandu SC,Winter,0.35,Liga Nos,2022,0.0,0.0,,0.0,0.0
+Vitória Guimarães SC,Manu,21.0,Defensive Midfield,Feirense,Winter,0.325,Liga Nos,2022,0.0,0.0,Liga Nos,0.0,0.0
+Ajax Amsterdam,Steven Bergwijn,24.0,Left Winger,Spurs,Summer,31.25,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Ajax Amsterdam,Calvin Bassey,22.0,Centre-Back,Rangers,Summer,23.0,Eredivisie,2022,0.0,0.1969154989279855,,0.0,0.4326395568853222
+Ajax Amsterdam,Brian Brobbey,20.0,Centre-Forward,RB Leipzig,Summer,16.35,Eredivisie,2022,0.0,0.6117274534581802,1 Bundesliga,0.0,0.5127898411512548
+Ajax Amsterdam,Owen Wijndal,22.0,Left-Back,AZ Alkmaar,Summer,10.0,Eredivisie,2022,0.0,0.0,Eredivisie,0.0,0.0
+Ajax Amsterdam,Ahmetcan Kaplan,19.0,Centre-Back,Trabzonspor,Summer,9.5,Eredivisie,2022,0.0,0.0151727200995631,,0.0,0.2628055312288799
+Ajax Amsterdam,Jorge Sánchez,24.0,Right-Back,América,Summer,5.0,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Ajax Amsterdam,Francisco Conceição,19.0,Right Winger,FC Porto,Summer,5.0,Eredivisie,2022,0.0,0.0,Liga Nos,0.0,0.0
+AZ Alkmaar,Jens Odgaard,23.0,Centre-Forward,Sassuolo,Summer,4.1,Eredivisie,2022,0.0,0.1813398374223273,Serie A,0.0,0.2501645911767107
+AZ Alkmaar,Mees de Wit,24.0,Left-Back,PEC Zwolle,Summer,2.3,Eredivisie,2022,0.0,0.0,Eredivisie,0.0,0.0
+AZ Alkmaar,Mayckel Lahdo,19.0,Left Winger,Hammarby,Summer,0.6,Eredivisie,2022,0.0,0.0,,0.0,0.0
+SC Cambuur-Leeuwarden,Silvester van der Water,25.0,Right Winger,Orlando,Summer,0.55,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Excelsior Rotterdam,Lazaros Lamprou,24.0,Left Winger,PAOK Salonika,Summer,0.45,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Feyenoord Rotterdam,Quinten Timber,21.0,Central Midfield,FC Utrecht,Summer,7.4,Eredivisie,2022,0.0,0.0605264569302478,Eredivisie,0.0,0.2305118972707956
+Feyenoord Rotterdam,David Hancko,24.0,Centre-Back,Sparta Prague,Summer,6.0,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Feyenoord Rotterdam,Igor Paixão,22.0,Left Winger,Coritiba FC,Summer,5.0,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Feyenoord Rotterdam,Santiago Giménez,21.0,Centre-Forward,CD Cruz Azul,Summer,4.0,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Feyenoord Rotterdam,Javairô Dilrosun,24.0,Left Winger,Hertha BSC,Summer,4.0,Eredivisie,2022,0.0,0.0,1 Bundesliga,0.0,0.0
+Feyenoord Rotterdam,Ezequiel Bullaude,21.0,Attacking Midfield,Godoy Cruz,Summer,2.0,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Feyenoord Rotterdam,Marcos López,22.0,Left-Back,San Jose,Summer,1.2,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Feyenoord Rotterdam,Mats Wieffer,22.0,Central Midfield,Excelsior,Summer,0.575,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Fortuna Sittard,Rodrigo Guth,21.0,Centre-Back,Atalanta BC,Summer,1.0,Eredivisie,2022,0.0,0.2369550473338529,Serie A,0.0,0.4268871287106309
+Fortuna Sittard,Úmaro Embaló,21.0,Right Winger,Benfica B,Summer,1.0,Eredivisie,2022,0.0,0.0,,0.0,0.0
+FC Groningen,Florian Krüger,23.0,Centre-Forward,Arm. Bielefeld,Summer,1.3,Eredivisie,2022,0.0848910498258916,0.0,,0.1684637644633931,0.0
+FC Groningen,Isak Dybvik Määttä,20.0,Left-Back,Aalesund,Summer,1.2,Eredivisie,2022,0.0848910498258916,0.0,,0.1684637644633931,0.0
+FC Groningen,Liam van Gelderen,21.0,Right-Back,Ajax U21,Summer,0.45,Eredivisie,2022,0.0848910498258916,0.0,,0.1684637644633931,0.0
+SC Heerenveen,Simon Olsson,24.0,Attacking Midfield,Elfsborg,Summer,1.3,Eredivisie,2022,0.0,0.0,,0.0,0.0
+SC Heerenveen,Alex Timossi Andersson,21.0,Right Winger,FC Bayern II,Summer,0.55,Eredivisie,2022,0.0,0.0,,0.0,0.0
+NEC Nijmegen,Jasper Cillessen,33.0,Goalkeeper,Valencia,Summer,1.0,Eredivisie,2022,0.0,0.0,Primera Division,0.0,0.3417621449666362
+PSV Eindhoven,Guus Til,24.0,Attacking Midfield,Spartak Moscow,Summer,3.0,Eredivisie,2022,0.0,0.0239482405169742,Premier Liga,0.0,0.2876814941971095
+PSV Eindhoven,Luuk de Jong,31.0,Centre-Forward,Sevilla FC,Summer,3.0,Eredivisie,2022,0.0,0.2604267506158023,Primera Division,0.0,0.5877232272668695
+PSV Eindhoven,Anwar El Ghazi,27.0,Right Winger,Aston Villa,Summer,2.5,Eredivisie,2022,0.0,0.0,Premier League,0.0,0.0
+Sparta Rotterdam,Joshua Kitolano,20.0,Central Midfield,Odds BK,Summer,0.61,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Sparta Rotterdam,Tobias Lauritsen,24.0,Centre-Forward,Odds BK,Summer,0.45,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Sparta Rotterdam,Charles-Andreas Brym,23.0,Centre-Forward,FC Eindhoven,Summer,0.25,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Twente Enschede FC,Michel Vlap,25.0,Attacking Midfield,RSC Anderlecht,Summer,2.0,Eredivisie,2022,0.0,0.0,,0.0,0.2827590168159121
+Twente Enschede FC,Michal Sadilek,23.0,Defensive Midfield,PSV Eindhoven,Summer,1.5,Eredivisie,2022,0.0,0.0,Eredivisie,0.0,0.0
+FC Utrecht,Luuk Brouwers,24.0,Defensive Midfield,Go Ahead Eagles,Summer,0.75,Eredivisie,2022,0.0605264569302478,0.0842655158706837,,0.2305118972707956,0.2172036575251884
+FC Utrecht,Mike van der Hoorn,29.0,Centre-Back,Arm. Bielefeld,Summer,0.15,Eredivisie,2022,0.0605264569302478,0.0,,0.2305118972707956,0.0
+Vitesse Arnhem,Melle Meulensteen,22.0,Centre-Back,RKC Waalwijk,Summer,1.0,Eredivisie,2022,0.0,0.0,Eredivisie,0.0,0.0
+Ajax Amsterdam,Gerónimo Rulli,30.0,Goalkeeper,Villarreal,Winter,8.0,Eredivisie,2022,0.0,0.0,Primera Division,0.0,0.5378494078984494
+AZ Alkmaar,Djordje Mihailovic,24.0,Attacking Midfield,Montréal,Winter,6.0,Eredivisie,2022,0.0,0.0,,0.0,0.0
+AZ Alkmaar,Sven Mijnans,22.0,Attacking Midfield,Sparta R.,Winter,2.5,Eredivisie,2022,0.0,0.0,,0.0,0.0
+AZ Alkmaar,Mathew Ryan,30.0,Goalkeeper,FC Copenhagen,Winter,0.5,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Feyenoord Rotterdam,Neraysho Kasanwirjo,20.0,Centre-Back,FC Groningen,Winter,2.0,Eredivisie,2022,0.0,0.0848910498258916,Eredivisie,0.0,0.1684637644633931
+FC Groningen,Johan Hove,22.0,Central Midfield,Strømsgodset,Winter,1.03,Eredivisie,2022,0.0848910498258916,0.0,,0.1684637644633931,0.0
+SC Heerenveen,Daniel Karlsbakk,19.0,Centre-Forward,Viking FK,Winter,2.5,Eredivisie,2022,0.0,0.0,,0.0,0.0
+SC Heerenveen,Osame Sahraoui,21.0,Left Winger,Vålerenga,Winter,1.7,Eredivisie,2022,0.0,0.0,,0.0,0.0
+Bayern Munich,Matthijs de Ligt,22.0,Centre-Back,Juventus,Summer,67.0,1 Bundesliga,2022,1.0,0.4623986578635078,Serie A,0.971130632264834,0.6559170432162352
+Bayern Munich,Sadio Mané,30.0,Left Winger,Liverpool,Summer,32.0,1 Bundesliga,2022,1.0,0.7500363328132466,Premier League,0.971130632264834,0.7896278731118712
+Bayern Munich,Mathys Tel,17.0,Centre-Forward,Stade Rennais,Summer,20.0,1 Bundesliga,2022,1.0,0.0,Ligue 1,0.971130632264834,0.0
+Bayern Munich,Ryan Gravenberch,20.0,Central Midfield,Ajax,Summer,18.5,1 Bundesliga,2022,1.0,0.4021522321558092,,0.971130632264834,0.6830752758165654
+Borussia Dortmund,Sébastien Haller,28.0,Centre-Forward,Ajax,Summer,31.0,1 Bundesliga,2022,0.7146823160130107,0.4021522321558092,,0.6818448152576279,0.6830752758165654
+Borussia Dortmund,Karim Adeyemi,20.0,Centre-Forward,RB Salzburg,Summer,30.0,1 Bundesliga,2022,0.7146823160130107,0.0,,0.6818448152576279,0.0
+Borussia Dortmund,Nico Schlotterbeck,22.0,Centre-Back,SC Freiburg,Summer,20.0,1 Bundesliga,2022,0.7146823160130107,0.3615834208185752,1 Bundesliga,0.6818448152576279,0.2839610852002533
+Borussia Dortmund,Anthony Modeste,34.0,Centre-Forward,1. FC Köln,Summer,5.1,1 Bundesliga,2022,0.7146823160130107,0.0,1 Bundesliga,0.6818448152576279,0.0
+Borussia Dortmund,Salih Özcan,24.0,Defensive Midfield,1. FC Köln,Summer,5.0,1 Bundesliga,2022,0.7146823160130107,0.0,1 Bundesliga,0.6818448152576279,0.0
+Bayer 04 Leverkusen,Adam Hlozek,19.0,Left Winger,Sparta Prague,Summer,13.0,1 Bundesliga,2022,0.5036479322012842,0.0,,0.5274627475625653,0.0
+RB Leipzig,David Raum,24.0,Left-Back,TSG Hoffenheim,Summer,26.0,1 Bundesliga,2022,0.6117274534581802,0.0,1 Bundesliga,0.5127898411512548,0.0
+RB Leipzig,Timo Werner,26.0,Centre-Forward,Chelsea,Summer,20.0,1 Bundesliga,2022,0.6117274534581802,0.5045105753108674,Premier League,0.5127898411512548,0.6350576351379168
+RB Leipzig,Xaver Schlager,24.0,Central Midfield,VfL Wolfsburg,Summer,12.0,1 Bundesliga,2022,0.6117274534581802,0.3025479109597152,1 Bundesliga,0.5127898411512548,0.4102593441194858
+1.FC Union Berlin,Jordan,26.0,Centre-Forward,BSC Young Boys,Summer,6.0,1 Bundesliga,2022,0.3095688070647116,0.0,,0.2362615177518444,0.0
+1.FC Union Berlin,Jamie Leweling,21.0,Second Striker,Greuther Fürth,Summer,4.0,1 Bundesliga,2022,0.3095688070647116,0.0,1 Bundesliga,0.2362615177518444,0.0
+1.FC Union Berlin,Morten Thorsby,26.0,Central Midfield,Sampdoria,Summer,3.0,1 Bundesliga,2022,0.3095688070647116,0.1033732533832674,Serie A,0.2362615177518444,0.1746218761916511
+SC Freiburg,Ritsu Doan,24.0,Right Winger,PSV Eindhoven,Summer,8.5,1 Bundesliga,2022,0.3615834208185752,0.0,Eredivisie,0.2839610852002533,0.0
+SC Freiburg,Daniel-Kofi Kyereh,26.0,Attacking Midfield,FC St. Pauli,Summer,4.5,1 Bundesliga,2022,0.3615834208185752,0.0,,0.2839610852002533,0.0
+SC Freiburg,Merlin Röhl,20.0,Central Midfield,FC Ingolstadt,Summer,2.9,1 Bundesliga,2022,0.3615834208185752,0.0,1 Bundesliga,0.2839610852002533,0.0
+1. FC Köln,Luca Kilian,22.0,Centre-Back,1.FSV Mainz 05,Summer,2.0,1 Bundesliga,2022,0.0,0.0,1 Bundesliga,0.0,0.0
+1. FC Köln,Sargis Adamyan,29.0,Centre-Forward,TSG Hoffenheim,Summer,1.5,1 Bundesliga,2022,0.0,0.0,1 Bundesliga,0.0,0.0
+1. FC Köln,Eric Martel,20.0,Defensive Midfield,RB Leipzig,Summer,1.2,1 Bundesliga,2022,0.0,0.6117274534581802,1 Bundesliga,0.0,0.5127898411512548
+1. FC Köln,Steffen Tigges,23.0,Centre-Forward,Bor. Dortmund,Summer,1.2,1 Bundesliga,2022,0.0,0.7146823160130107,,0.0,0.0
+1. FC Köln,Nikola Soldo,21.0,Centre-Back,NK Lokomotiva,Summer,0.5,1 Bundesliga,2022,0.0,0.0,,0.0,0.0
+1. FC Köln,Denis Huseinbasic,20.0,Central Midfield,K. Offenbach,Summer,0.05,1 Bundesliga,2022,0.0,0.0,,0.0,0.0
+1.FSV Mainz 05,Angelo Fulgini,25.0,Attacking Midfield,Angers SCO,Summer,6.0,1 Bundesliga,2022,0.0,0.0,Ligue 1,0.0,0.0
+1.FSV Mainz 05,Maxim Leitsch,24.0,Centre-Back,VfL Bochum,Summer,3.5,1 Bundesliga,2022,0.0,0.0,1 Bundesliga,0.0,0.0
+1.FSV Mainz 05,Marcus Ingvartsen,26.0,Centre-Forward,Union Berlin,Summer,2.3,1 Bundesliga,2022,0.0,0.3095688070647116,1 Bundesliga,0.0,0.2362615177518444
+1.FSV Mainz 05,Delano Burgzorg,23.0,Left Winger,Heracles Almelo,Summer,2.0,1 Bundesliga,2022,0.0,0.0,Eredivisie,0.0,0.0
+1.FSV Mainz 05,Dominik Kohr,28.0,Central Midfield,E. Frankfurt,Summer,1.5,1 Bundesliga,2022,0.0,0.0,,0.0,0.0
+TSG 1899 Hoffenheim,Stanley Nsoki,23.0,Centre-Back,Club Brugge,Summer,12.0,1 Bundesliga,2022,0.0,0.1040459346730163,,0.0,0.3617993723874599
+TSG 1899 Hoffenheim,Ozan Kabak,22.0,Centre-Back,FC Schalke 04,Summer,5.0,1 Bundesliga,2022,0.0,0.2349476078359774,1 Bundesliga,0.0,0.357456593200263
+TSG 1899 Hoffenheim,Muhammed Damar,18.0,Attacking Midfield,Frankfurt U19,Summer,0.5,1 Bundesliga,2022,0.0,0.0,,0.0,0.0
+Borussia Mönchengladbach,Nathan Ngoumou,22.0,Right Winger,Toulouse,Summer,8.0,1 Bundesliga,2022,0.2644134448944373,0.0,Ligue 1,0.4138474271908681,0.0
+Borussia Mönchengladbach,Ko Itakura,25.0,Centre-Back,Man City,Summer,5.0,1 Bundesliga,2022,0.2644134448944373,0.0,,0.4138474271908681,0.0
+Borussia Mönchengladbach,Oscar Fraulo,18.0,Central Midfield,FC Midtjylland,Summer,2.0,1 Bundesliga,2022,0.2644134448944373,0.0346984106733485,,0.4138474271908681,0.2537360260951629
+Eintracht Frankfurt,Jens Petter Hauge,22.0,Right Winger,AC Milan,Summer,10.0,1 Bundesliga,2022,0.5152999965219968,0.4017329554274536,Serie A,0.4421151783336949,0.4904309514245398
+Eintracht Frankfurt,Lucas Alario,29.0,Centre-Forward,Bay. Leverkusen,Summer,6.0,1 Bundesliga,2022,0.5152999965219968,0.5036479322012842,,0.4421151783336949,0.0
+Eintracht Frankfurt,Mario Götze,30.0,Attacking Midfield,PSV Eindhoven,Summer,4.0,1 Bundesliga,2022,0.5152999965219968,0.0,Eredivisie,0.4421151783336949,0.0
+Eintracht Frankfurt,Kristijan Jakic,25.0,Defensive Midfield,Dinamo Zagreb,Summer,3.5,1 Bundesliga,2022,0.5152999965219968,0.0,,0.4421151783336949,0.0
+Eintracht Frankfurt,Hrvoje Smolcic,21.0,Centre-Back,HNK Rijeka,Summer,2.5,1 Bundesliga,2022,0.5152999965219968,0.0,,0.4421151783336949,0.0
+VfL Wolfsburg,Jakub Kaminski,20.0,Left Winger,Lech Poznan,Summer,10.0,1 Bundesliga,2022,0.3025479109597152,0.0,,0.4102593441194858,0.0
+VfL Wolfsburg,Mattias Svanberg,23.0,Central Midfield,Bologna,Summer,9.0,1 Bundesliga,2022,0.3025479109597152,0.0,,0.4102593441194858,0.0
+VfL Wolfsburg,Bartol Franjic,22.0,Defensive Midfield,Dinamo Zagreb,Summer,7.5,1 Bundesliga,2022,0.3025479109597152,0.0,,0.4102593441194858,0.0
+VfL Wolfsburg,Patrick Wimmer,21.0,Right Winger,Arm. Bielefeld,Summer,5.0,1 Bundesliga,2022,0.3025479109597152,0.0,,0.4102593441194858,0.0
+VfL Wolfsburg,Kilian Fischer,21.0,Right-Back,1.FC Nuremberg,Summer,2.5,1 Bundesliga,2022,0.3025479109597152,0.0,1 Bundesliga,0.4102593441194858,0.0
+VfL Wolfsburg,Dzenan Pejcinovic,17.0,Centre-Forward,FC Augsburg U19,Summer,1.25,1 Bundesliga,2022,0.3025479109597152,0.2160116142179481,1 Bundesliga,0.4102593441194858,0.2650571076151561
+VfL Bochum,Philipp Förster,27.0,Attacking Midfield,VfB Stuttgart,Summer,0.5,1 Bundesliga,2022,0.0,0.2642947999182224,1 Bundesliga,0.0,0.2464332685252073
+VfL Bochum,Konstantinos Stafylidis,28.0,Left-Back,TSG Hoffenheim,Summer,0.25,1 Bundesliga,2022,0.0,0.0,1 Bundesliga,0.0,0.0
+FC Augsburg,Arne Maier,23.0,Central Midfield,Hertha BSC,Summer,5.0,1 Bundesliga,2022,0.2160116142179481,0.0,1 Bundesliga,0.2650571076151561,0.0
+FC Augsburg,Elvis Rexhbecaj,24.0,Central Midfield,VfL Wolfsburg,Summer,1.7,1 Bundesliga,2022,0.2160116142179481,0.3025479109597152,1 Bundesliga,0.2650571076151561,0.4102593441194858
+VfB Stuttgart,Josha Vagnoman,21.0,Right-Back,Hamburger SV,Summer,3.5,1 Bundesliga,2022,0.2642947999182224,0.0,1 Bundesliga,0.2464332685252073,0.0
+VfB Stuttgart,Konstantinos Mavropanos,24.0,Centre-Back,Arsenal,Summer,3.2,1 Bundesliga,2022,0.2642947999182224,0.4149595909851346,Premier League,0.2464332685252073,0.6673599159186423
+VfB Stuttgart,Luca Pfeiffer,25.0,Centre-Forward,FC Midtjylland,Summer,2.85,1 Bundesliga,2022,0.2642947999182224,0.0346984106733485,,0.2464332685252073,0.2537360260951629
+VfB Stuttgart,Juan José Perea,22.0,Centre-Forward,PAS Giannina,Summer,2.4,1 Bundesliga,2022,0.2642947999182224,0.0,,0.2464332685252073,0.0
+VfB Stuttgart,Hiroki Ito,23.0,Centre-Back,Júbilo Iwata,Summer,0.4,1 Bundesliga,2022,0.2642947999182224,0.0,,0.2464332685252073,0.0
+Hertha BSC,Wilfried Kanga,24.0,Centre-Forward,BSC Young Boys,Summer,4.0,1 Bundesliga,2022,0.0,0.0,,0.0,0.0
+Hertha BSC,Jessic Ngankam,21.0,attack,Greuther Fürth,Summer,2.0,1 Bundesliga,2022,0.0,0.0,1 Bundesliga,0.0,0.0
+Hertha BSC,Agustín Rogel,24.0,Centre-Back,Estudiantes,Summer,0.4,1 Bundesliga,2022,0.0,0.0,,0.0,0.0
+FC Schalke 04,Thomas Ouwejan,25.0,Left-Back,AZ Alkmaar,Summer,2.0,1 Bundesliga,2022,0.2349476078359774,0.0,Eredivisie,0.357456593200263,0.0
+FC Schalke 04,Sebastian Polter,31.0,Centre-Forward,VfL Bochum,Summer,1.5,1 Bundesliga,2022,0.2349476078359774,0.0,1 Bundesliga,0.357456593200263,0.0
+FC Schalke 04,Rodrigo Zalazar,22.0,Attacking Midfield,E. Frankfurt,Summer,1.5,1 Bundesliga,2022,0.2349476078359774,0.0,,0.357456593200263,0.0
+FC Schalke 04,Tobias Mohr,26.0,Left Winger,1.FC Heidenheim,Summer,1.1,1 Bundesliga,2022,0.2349476078359774,0.0,,0.357456593200263,0.0
+FC Schalke 04,Marvin Pieringer,22.0,Centre-Forward,SC Freiburg II,Summer,0.5,1 Bundesliga,2022,0.2349476078359774,0.3615834208185752,1 Bundesliga,0.357456593200263,0.2839610852002533
+FC Schalke 04,Florent Mollet,30.0,Attacking Midfield,Montpellier,Summer,0.5,1 Bundesliga,2022,0.2349476078359774,0.0,Ligue 1,0.357456593200263,0.0
+FC Schalke 04,Justin Heekeren,21.0,Goalkeeper,RW Oberhausen,Summer,0.18,1 Bundesliga,2022,0.2349476078359774,0.0,,0.357456593200263,0.0
+SV Werder Bremen,Jens Stage,25.0,Central Midfield,FC Copenhagen,Summer,4.0,1 Bundesliga,2022,0.0,0.0,,0.0,0.0
+Bayern Munich,Yann Sommer,34.0,Goalkeeper,Bor. M'gladbach,Winter,8.0,1 Bundesliga,2022,1.0,0.0,,0.971130632264834,0.0
+Borussia Dortmund,Julien Duranville,16.0,Right Winger,RSC Anderlecht,Winter,8.5,1 Bundesliga,2022,0.7146823160130107,0.0,,0.6818448152576279,0.2827590168159121
+Borussia Dortmund,Julian Ryerson,25.0,Right-Back,Union Berlin,Winter,5.0,1 Bundesliga,2022,0.7146823160130107,0.3095688070647116,1 Bundesliga,0.6818448152576279,0.2362615177518444
+Bayer 04 Leverkusen,Gustavo Puerta,19.0,Central Midfield,Bogotá FC,Winter,2.0,1 Bundesliga,2022,0.5036479322012842,0.0,,0.5274627475625653,0.0
+Bayer 04 Leverkusen,Noah Mbamba,18.0,Defensive Midfield,Club Brugge,Winter,0.1,1 Bundesliga,2022,0.5036479322012842,0.1040459346730163,,0.5274627475625653,0.3617993723874599
+1.FC Union Berlin,Josip Juranovic,27.0,Right-Back,Celtic,Winter,8.55,1 Bundesliga,2022,0.3095688070647116,0.1473653323692366,,0.2362615177518444,0.4992814950925504
+1.FC Union Berlin,Aïssa Laïdouni,26.0,Central Midfield,Ferencváros,Winter,2.6,1 Bundesliga,2022,0.3095688070647116,0.0,,0.2362615177518444,0.0
+1.FSV Mainz 05,Ludovic Ajorque,28.0,Centre-Forward,R. Strasbourg,Winter,6.0,1 Bundesliga,2022,0.0,0.0841549998091139,,0.0,0.2210035892475844
+1.FSV Mainz 05,Andreas Hanche-Olsen,25.0,Centre-Back,KAA Gent,Winter,2.5,1 Bundesliga,2022,0.0,0.0,,0.0,0.0
+TSG 1899 Hoffenheim,John Anthony Brooks,29.0,Centre-Back,Benfica,Winter,0.3,1 Bundesliga,2022,0.0,0.0,Liga Nos,0.0,0.0
+Borussia Mönchengladbach,Jonas Omlin,29.0,Goalkeeper,Montpellier,Winter,9.0,1 Bundesliga,2022,0.2644134448944373,0.0,Ligue 1,0.4138474271908681,0.0
+Eintracht Frankfurt,Paxten Aaronson,19.0,Attacking Midfield,Philadelphia,Winter,4.0,1 Bundesliga,2022,0.5152999965219968,0.0,,0.4421151783336949,0.0
+Eintracht Frankfurt,Simon Simoni,18.0,Goalkeeper,FK Dinamo,Winter,0.6,1 Bundesliga,2022,0.5152999965219968,0.0,,0.4421151783336949,0.0
+VfL Wolfsburg,Nicolas Cozza,24.0,Left-Back,Montpellier,Winter,0.5,1 Bundesliga,2022,0.3025479109597152,0.0,Ligue 1,0.4102593441194858,0.0
+VfL Bochum,Moritz Broschinski,22.0,Centre-Forward,B. Dortmund II,Winter,0.135,1 Bundesliga,2022,0.0,0.0,,0.0,0.0
+FC Augsburg,Dion Beljo,20.0,Centre-Forward,NK Osijek,Winter,3.0,1 Bundesliga,2022,0.2160116142179481,0.0,,0.2650571076151561,0.0
+FC Augsburg,David Colina,22.0,Left-Back,Hajduk Split,Winter,0.65,1 Bundesliga,2022,0.2160116142179481,0.0,,0.2650571076151561,0.0
+FC Augsburg,Irvin Cardona,25.0,Centre-Forward,Stade Brestois,Winter,0.5,1 Bundesliga,2022,0.2160116142179481,0.0,Ligue 1,0.2650571076151561,0.0
+FC Augsburg,Arne Engels,19.0,Central Midfield,Club NXT,Winter,0.1,1 Bundesliga,2022,0.2160116142179481,0.0,,0.2650571076151561,0.0
+VfB Stuttgart,Gil Dias,26.0,Right Winger,Benfica,Winter,1.0,1 Bundesliga,2022,0.2642947999182224,0.0,Liga Nos,0.2464332685252073,0.0
+VfB Stuttgart,Genki Haraguchi,31.0,Attacking Midfield,Union Berlin,Winter,1.0,1 Bundesliga,2022,0.2642947999182224,0.3095688070647116,1 Bundesliga,0.2464332685252073,0.2362615177518444
+Hertha BSC,Florian Niederlechner,32.0,Centre-Forward,FC Augsburg,Winter,0.8,1 Bundesliga,2022,0.0,0.2160116142179481,1 Bundesliga,0.0,0.2650571076151561
+Hertha BSC,Tolga Cigerci,30.0,Defensive Midfield,Ankaragücü,Winter,0.35,1 Bundesliga,2022,0.0,0.0,,0.0,0.0
+AC Milan,Charles De Ketelaere,21.0,Attacking Midfield,Club Brugge,Summer,32.0,Serie A,2022,0.4017329554274536,0.1040459346730163,,0.4904309514245398,0.3617993723874599
+AC Milan,Malick Thiaw,21.0,Centre-Back,FC Schalke 04,Summer,7.0,Serie A,2022,0.4017329554274536,0.2349476078359774,1 Bundesliga,0.4904309514245398,0.357456593200263
+AC Milan,Junior Messias,31.0,Right Winger,Crotone,Summer,4.5,Serie A,2022,0.4017329554274536,0.0,Serie A,0.4904309514245398,0.0
+AC Milan,Alessandro Florenzi,31.0,Right-Back,AS Roma,Summer,2.7,Serie A,2022,0.4017329554274536,0.3588368342953894,Serie A,0.4904309514245398,0.5292433813648545
+Inter Milan,Joaquín Correa,27.0,Second Striker,Lazio,Summer,23.6,Serie A,2022,0.0,0.2595617701433297,,0.0,0.3609262119082721
+SSC Napoli,Min-jae Kim,25.0,Centre-Back,Fenerbahce,Summer,18.05,Serie A,2022,0.0,0.0505588848718084,,0.0,0.4017067908849758
+SSC Napoli,André Zambo Anguissa,26.0,Defensive Midfield,Fulham,Summer,15.0,Serie A,2022,0.0,0.0,,0.0,0.0
+SSC Napoli,Mathías Olivera,24.0,Left-Back,Getafe,Summer,11.0,Serie A,2022,0.0,0.0,,0.0,0.1659531376226571
+SSC Napoli,Khvicha Kvaratskhelia,21.0,Left Winger,Dinamo Batumi,Summer,10.0,Serie A,2022,0.0,0.0,,0.0,0.0
+SSC Napoli,Leo Östigard,22.0,Centre-Back,Brighton,Summer,5.0,Serie A,2022,0.0,0.0,,0.0,0.0
+Juventus FC,Bremer,25.0,Centre-Back,Torino,Summer,41.0,Serie A,2022,0.4623986578635078,0.185412250833023,,0.6559170432162352,0.2180500445768075
+Juventus FC,Federico Chiesa,24.0,Right Winger,Fiorentina,Summer,40.0,Serie A,2022,0.4623986578635078,0.1961237544780986,Serie A,0.6559170432162352,0.3964675186512334
+Juventus FC,Filip Kostic,29.0,Left Midfield,E. Frankfurt,Summer,12.0,Serie A,2022,0.4623986578635078,0.0,,0.6559170432162352,0.0
+Juventus FC,Andrea Cambiaso,22.0,Left-Back,Genoa,Summer,8.5,Serie A,2022,0.4623986578635078,0.0,,0.6559170432162352,0.0
+SS Lazio,Luís Maximiano,23.0,Goalkeeper,Granada CF,Summer,10.1,Serie A,2022,0.0,0.0,Primera Division,0.0,0.0976571495549945
+SS Lazio,Marcos Antônio,22.0,Central Midfield,Shakhtar D.,Summer,7.5,Serie A,2022,0.0,0.0,,0.0,0.0
+SS Lazio,Mattia Zaccagni,27.0,Attacking Midfield,Hellas Verona,Summer,7.1,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+SS Lazio,Nicolò Casale,24.0,Centre-Back,Hellas Verona,Summer,7.0,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+SS Lazio,Mario Gila,21.0,Centre-Back,RM Castilla,Summer,6.0,Serie A,2022,0.0,0.0,,0.0,0.0
+SS Lazio,Ivan Provedel,28.0,Goalkeeper,Spezia Calcio,Summer,2.0,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+AS Roma,Zeki Celik,25.0,Right-Back,LOSC Lille,Summer,7.0,Serie A,2022,0.3588368342953894,0.0,Ligue 1,0.5292433813648545,0.0
+ACF Fiorentina,Dodô,23.0,Right-Back,Shakhtar D.,Summer,14.5,Serie A,2022,0.1961237544780986,0.0,,0.3964675186512334,0.0
+ACF Fiorentina,Rolando Mandragora,25.0,Defensive Midfield,Juventus,Summer,8.2,Serie A,2022,0.1961237544780986,0.4623986578635078,Serie A,0.3964675186512334,0.6559170432162352
+Atalanta BC,Jérémie Boga,25.0,Left Winger,Sassuolo,Summer,22.0,Serie A,2022,0.2369550473338529,0.1813398374223273,Serie A,0.4268871287106309,0.2501645911767107
+Atalanta BC,Éderson,22.0,Central Midfield,Salernitana,Summer,21.0,Serie A,2022,0.2369550473338529,0.0,,0.4268871287106309,0.0
+Atalanta BC,Merih Demiral,24.0,Centre-Back,Juventus,Summer,20.0,Serie A,2022,0.2369550473338529,0.4623986578635078,Serie A,0.4268871287106309,0.6559170432162352
+Atalanta BC,Rasmus Höjlund,19.0,Centre-Forward,Sturm Graz,Summer,17.0,Serie A,2022,0.2369550473338529,0.0,,0.4268871287106309,0.0
+Atalanta BC,Brandon Soppy,20.0,Right-Back,Udinese Calcio,Summer,9.0,Serie A,2022,0.2369550473338529,0.0,Serie A,0.4268871287106309,0.0
+Atalanta BC,Ademola Lookman,24.0,Left Winger,RB Leipzig,Summer,9.0,Serie A,2022,0.2369550473338529,0.6117274534581802,1 Bundesliga,0.4268871287106309,0.5127898411512548
+Hellas Verona,Giovanni Simeone,26.0,Centre-Forward,Cagliari Calcio,Summer,10.5,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+Hellas Verona,Thomas Henry,27.0,Centre-Forward,Venezia,Summer,5.0,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+Hellas Verona,Gianluca Caprari,28.0,Second Striker,Sampdoria,Summer,5.0,Serie A,2022,0.0,0.1033732533832674,Serie A,0.0,0.1746218761916511
+Hellas Verona,Juan Cabal,21.0,Centre-Back,Atl. Nacional,Summer,4.0,Serie A,2022,0.0,0.0,,0.0,0.0
+Hellas Verona,Martin Hongla,24.0,Defensive Midfield,Royal Antwerp,Summer,3.7,Serie A,2022,0.0,0.0,,0.0,0.0
+Hellas Verona,Josh Doig,20.0,Left-Back,Hibernian FC,Summer,3.6,Serie A,2022,0.0,0.0,,0.0,0.1634033220341412
+Hellas Verona,Isak Hien,23.0,Centre-Back,Djurgården,Summer,3.2,Serie A,2022,0.0,0.0,,0.0,0.0
+Hellas Verona,Lorenzo Montipò,26.0,Goalkeeper,Benevento,Summer,1.0,Serie A,2022,0.0,0.0,,0.0,0.0
+Hellas Verona,Ajdin Hrustic,26.0,Attacking Midfield,E. Frankfurt,Summer,0.5,Serie A,2022,0.0,0.0,,0.0,0.0
+Hellas Verona,Daniele Ghilardi,19.0,Centre-Back,Fiorentina,Summer,0.5,Serie A,2022,0.0,0.1961237544780986,Serie A,0.0,0.3964675186512334
+Torino FC,Perr Schuurs,22.0,Centre-Back,Ajax,Summer,9.0,Serie A,2022,0.185412250833023,0.4021522321558092,,0.0,0.6830752758165654
+Torino FC,Samuele Ricci,20.0,Defensive Midfield,FC Empoli,Summer,8.5,Serie A,2022,0.185412250833023,0.0,Serie A,0.0,0.0
+Torino FC,Pietro Pellegri,21.0,Centre-Forward,Monaco,Summer,5.0,Serie A,2022,0.185412250833023,0.2091499497585124,,0.0,0.0
+Torino FC,Emirhan Ilkhan,18.0,Central Midfield,Besiktas,Summer,4.5,Serie A,2022,0.185412250833023,0.0,,0.0,0.352613911247977
+Torino FC,Brian Bayeye,22.0,Right Midfield,Catanzaro,Summer,0.75,Serie A,2022,0.185412250833023,0.0,,0.0,0.0
+Torino FC,Etrit Berisha,33.0,Goalkeeper,SPAL,Summer,0.3,Serie A,2022,0.185412250833023,0.0,Serie A,0.0,0.0
+US Sassuolo,Agustín Álvarez,21.0,Centre-Forward,Peñarol,Summer,12.0,Serie A,2022,0.1813398374223273,0.0,,0.2501645911767107,0.0
+US Sassuolo,Kristian Thorstvedt,23.0,Attacking Midfield,KRC Genk,Summer,10.0,Serie A,2022,0.1813398374223273,0.0,,0.2501645911767107,0.0
+US Sassuolo,Armand Laurienté,23.0,Right Winger,FC Lorient,Summer,10.0,Serie A,2022,0.1813398374223273,0.0,Ligue 1,0.2501645911767107,0.0
+US Sassuolo,Matheus Henrique,24.0,Central Midfield,Grêmio,Summer,8.0,Serie A,2022,0.1813398374223273,0.0,,0.2501645911767107,0.0
+US Sassuolo,Emil Konradsen Ceide,20.0,Left Winger,Rosenborg,Summer,3.0,Serie A,2022,0.1813398374223273,0.0,,0.2501645911767107,0.0
+US Sassuolo,Abdou Harroui,24.0,Central Midfield,Sparta R.,Summer,3.0,Serie A,2022,0.1813398374223273,0.0,,0.2501645911767107,0.0
+US Sassuolo,Riccardo Ciervo,20.0,Left Winger,AS Roma,Summer,2.0,Serie A,2022,0.1813398374223273,0.3588368342953894,Serie A,0.2501645911767107,0.5292433813648545
+Udinese Calcio,Hassane Kamara,28.0,Left-Back,Watford,Summer,19.0,Serie A,2022,0.0,0.0,Premier League,0.0,0.0
+Udinese Calcio,Beto,24.0,Centre-Forward,Portimonense,Summer,7.0,Serie A,2022,0.0,0.0,Liga Nos,0.0,0.0
+Udinese Calcio,Adam Masina,28.0,Left-Back,Watford,Summer,5.0,Serie A,2022,0.0,0.0,Premier League,0.0,0.0
+Udinese Calcio,Enzo Ebosse,23.0,Left-Back,Angers SCO,Summer,4.0,Serie A,2022,0.0,0.0,Ligue 1,0.0,0.0
+Udinese Calcio,Destiny Udogie,19.0,Left-Back,Hellas Verona,Summer,4.0,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+Udinese Calcio,Jaka Bijol,23.0,Centre-Back,CSKA Moscow,Summer,4.0,Serie A,2022,0.0,0.0258940449574468,Premier Liga,0.0,0.2730475795901375
+Udinese Calcio,Leonardo Buta,20.0,Left-Back,Braga B,Summer,2.0,Serie A,2022,0.0,0.0,,0.0,0.0
+Udinese Calcio,Kingsley Ehizibue,27.0,Right-Back,1. FC Köln,Summer,1.5,Serie A,2022,0.0,0.0,1 Bundesliga,0.0,0.0
+Bologna FC 1909,Joshua Zirkzee,21.0,Centre-Forward,Bayern Munich,Summer,8.5,Serie A,2022,0.0,1.0,1 Bundesliga,0.0,0.971130632264834
+Bologna FC 1909,Jhon Lucumí,24.0,Centre-Back,KRC Genk,Summer,8.0,Serie A,2022,0.0,0.0,,0.0,0.0
+Bologna FC 1909,Arthur Theate,22.0,Centre-Back,KV Oostende,Summer,6.0,Serie A,2022,0.0,0.0,,0.0,0.1626898894731485
+Bologna FC 1909,Michel Aebischer,25.0,Central Midfield,BSC Young Boys,Summer,4.0,Serie A,2022,0.0,0.0,,0.0,0.0
+Bologna FC 1909,Lewis Ferguson,22.0,Central Midfield,Aberdeen FC,Summer,3.5,Serie A,2022,0.0,0.0,,0.0,0.1758802878985292
+Bologna FC 1909,Joaquín Sosa,20.0,Centre-Back,Nacional,Summer,1.7,Serie A,2022,0.0,0.0,Liga Nos,0.0,0.0
+Bologna FC 1909,Matteo Angeli,19.0,Centre-Back,Imolese,Summer,0.3,Serie A,2022,0.0,0.0,,0.0,0.0
+FC Empoli,Guglielmo Vicario,25.0,Goalkeeper,Cagliari Calcio,Summer,8.5,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+FC Empoli,Liberato Cacace,21.0,Left-Back,Sint-Truiden,Summer,3.0,Serie A,2022,0.0,0.0,,0.0,0.0
+FC Empoli,Petar Stojanovic,26.0,Right-Back,Dinamo Zagreb,Summer,1.2,Serie A,2022,0.0,0.0,,0.0,0.0
+UC Sampdoria,Francesco Caputo,34.0,Centre-Forward,Sassuolo,Summer,3.5,Serie A,2022,0.1033732533832674,0.1813398374223273,Serie A,0.1746218761916511,0.2501645911767107
+UC Sampdoria,Marco Delle Monache,17.0,Left Winger,Pescara,Summer,1.5,Serie A,2022,0.1033732533832674,0.0,,0.1746218761916511,0.0
+UC Sampdoria,Abdelhamid Sabiri,25.0,Attacking Midfield,Ascoli,Summer,1.0,Serie A,2022,0.1033732533832674,0.0,,0.1746218761916511,0.0
+Spezia Calcio,Kevin Agudelo,23.0,Right Winger,Genoa,Summer,2.7,Serie A,2022,0.0,0.0,,0.0,0.0
+Spezia Calcio,Bartlomiej Dragowski,24.0,Goalkeeper,Fiorentina,Summer,2.0,Serie A,2022,0.0,0.1961237544780986,Serie A,0.0,0.3964675186512334
+Spezia Calcio,Arkadiusz Reca,27.0,Left-Back,Atalanta BC,Summer,2.0,Serie A,2022,0.0,0.2369550473338529,Serie A,0.0,0.4268871287106309
+Spezia Calcio,Mehdi Bourabia,30.0,Central Midfield,Sassuolo,Summer,1.5,Serie A,2022,0.0,0.1813398374223273,Serie A,0.0,0.2501645911767107
+US Salernitana 1919,Matteo Lovato,22.0,Centre-Back,Atalanta BC,Summer,7.0,Serie A,2022,0.0,0.2369550473338529,Serie A,0.0,0.4268871287106309
+US Salernitana 1919,Federico Bonazzoli,25.0,Centre-Forward,Sampdoria,Summer,5.0,Serie A,2022,0.0,0.1033732533832674,Serie A,0.0,0.1746218761916511
+US Salernitana 1919,Domagoj Bradaric,22.0,Left-Back,LOSC Lille,Summer,5.0,Serie A,2022,0.0,0.0,Ligue 1,0.0,0.0
+US Salernitana 1919,Flavius Daniliuc,21.0,Centre-Back,OGC Nice,Summer,5.0,Serie A,2022,0.0,0.0,Ligue 1,0.0,0.0
+US Salernitana 1919,Giulio Maggiore,24.0,Central Midfield,Spezia Calcio,Summer,4.5,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+US Salernitana 1919,Emil Bohinen,23.0,Central Midfield,CSKA Moscow,Summer,3.25,Serie A,2022,0.0,0.0258940449574468,Premier Liga,0.0,0.2730475795901375
+US Salernitana 1919,Mamadou Coulibaly,23.0,Central Midfield,Udinese Calcio,Summer,3.0,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+US Salernitana 1919,Mikael,23.0,Centre-Forward,Sport Recife,Summer,2.73,Serie A,2022,0.0,0.0,,0.0,0.0
+US Salernitana 1919,Diego Valencia,22.0,Centre-Forward,U. Católica,Summer,2.5,Serie A,2022,0.0,0.0,,0.0,0.0
+US Salernitana 1919,Dylan Bronn,27.0,Centre-Back,FC Metz,Summer,1.0,Serie A,2022,0.0,0.0,Ligue 1,0.0,0.0
+US Salernitana 1919,Pawel Jaroszynski,27.0,Left-Back,Genoa,Summer,1.0,Serie A,2022,0.0,0.0,,0.0,0.0
+US Salernitana 1919,Pasquale Mazzocchi,26.0,Right-Back,Venezia,Summer,1.0,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+US Salernitana 1919,Grigoris Kastanos,24.0,Central Midfield,Juve Next Gen,Summer,0.3,Serie A,2022,0.0,0.0,,0.0,0.0
+US Lecce,Daniel Samek,18.0,Defensive Midfield,Slavia Prague,Summer,2.0,Serie A,2022,0.0,0.0,,0.0,0.0
+US Lecce,Lameck Banda,21.0,Right Winger,M. Petah Tikva,Summer,2.0,Serie A,2022,0.0,0.0,,0.0,0.0
+US Lecce,Joel Voelkerling Persson,19.0,Centre-Forward,Roma U19,Summer,0.8,Serie A,2022,0.0,0.0,,0.0,0.0
+US Lecce,Federico Di Francesco,28.0,Left Winger,SPAL,Summer,0.5,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+US Lecce,Federico Baschirotto,25.0,Right-Back,Ascoli,Summer,0.35,Serie A,2022,0.0,0.0,,0.0,0.0
+US Cremonese,Cyriel Dessers,27.0,Centre-Forward,KRC Genk,Summer,6.5,Serie A,2022,0.0,0.0,,0.0,0.0
+US Cremonese,Felix Afena-Gyan,19.0,Centre-Forward,AS Roma,Summer,6.0,Serie A,2022,0.0,0.3588368342953894,Serie A,0.0,0.5292433813648545
+US Cremonese,Charles Pickel,25.0,Defensive Midfield,Famalicão,Summer,3.8,Serie A,2022,0.0,0.0,Liga Nos,0.0,0.0
+US Cremonese,Emanuel Aiwu,21.0,Centre-Back,Rapid Vienna,Summer,3.5,Serie A,2022,0.0,0.0,,0.0,0.0
+US Cremonese,Giacomo Quagliata,22.0,Left-Back,Heracles Almelo,Summer,2.0,Serie A,2022,0.0,0.0,Eredivisie,0.0,0.0
+US Cremonese,Luka Lochoshvili,24.0,Centre-Back,Wolfsberger AC,Summer,1.6,Serie A,2022,0.0,0.0,,0.0,0.0
+US Cremonese,Frank Tsadjout,22.0,Centre-Forward,AC Milan,Summer,0.85,Serie A,2022,0.0,0.4017329554274536,Serie A,0.0,0.4904309514245398
+US Cremonese,Tommaso Milanese,19.0,Central Midfield,AS Roma,Summer,0.75,Serie A,2022,0.0,0.3588368342953894,Serie A,0.0,0.5292433813648545
+US Cremonese,Joshua Tenkorang,22.0,Central Midfield,Campobasso,Summer,0.2,Serie A,2022,0.0,0.0,,0.0,0.0
+AC Monza,Michele Di Gregorio,24.0,Goalkeeper,Inter,Summer,4.0,Serie A,2022,0.0,0.0,,0.0,0.0
+AC Monza,Andrea Carboni,21.0,Centre-Back,Cagliari Calcio,Summer,4.0,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+AC Monza,Leonardo Mancuso,30.0,Centre-Forward,FC Empoli,Summer,3.0,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+AC Monza,Pedro Pereira,24.0,Right-Back,Benfica,Summer,2.5,Serie A,2022,0.0,0.0,Liga Nos,0.0,0.0
+AC Monza,Valentin Antov,21.0,Centre-Back,CSKA-Sofia,Summer,2.0,Serie A,2022,0.0,0.0,,0.0,0.0
+AC Monza,Samuele Birindelli,22.0,Right-Back,Pisa,Summer,1.5,Serie A,2022,0.0,0.0,,0.0,0.0
+AC Monza,Alessandro Sorrentino,20.0,Goalkeeper,Pescara,Summer,1.0,Serie A,2022,0.0,0.0,,0.0,0.0
+AC Milan,Devis Vásquez,24.0,Goalkeeper,Guaraní,Winter,0.47,Serie A,2022,0.4017329554274536,0.0,,0.4904309514245398,0.0
+ACF Fiorentina,Antonin Barak,28.0,Attacking Midfield,Hellas Verona,Winter,8.5,Serie A,2022,0.1961237544780986,0.0,Serie A,0.3964675186512334,0.0
+ACF Fiorentina,Abdelhamid Sabiri,26.0,Attacking Midfield,Sampdoria,Winter,2.5,Serie A,2022,0.1961237544780986,0.1033732533832674,Serie A,0.3964675186512334,0.1746218761916511
+ACF Fiorentina,Josip Brekalo,24.0,Left Winger,VfL Wolfsburg,Winter,1.5,Serie A,2022,0.1961237544780986,0.3025479109597152,1 Bundesliga,0.3964675186512334,0.4102593441194858
+Hellas Verona,Mateusz Praszelik,22.0,Attacking Midfield,Slask Wroclaw,Winter,2.0,Serie A,2022,0.0,0.0,,0.0,0.0
+Udinese Calcio,Matheus Martins,19.0,Left Winger,Fluminense,Winter,6.0,Serie A,2022,0.0,0.0,,0.0,0.0
+Spezia Calcio,Przemyslaw Wisniewski,24.0,Centre-Back,Venezia,Winter,4.0,Serie A,2022,0.0,0.0,Serie A,0.0,0.0
+Spezia Calcio,Raimonds Krollis,21.0,Centre-Forward,Valmiera,Winter,1.5,Serie A,2022,0.0,0.0,,0.0,0.0
+Spezia Calcio,Tio Cipot,19.0,Central Midfield,NS Mura,Winter,0.7,Serie A,2022,0.0,0.0,,0.0,0.0
+US Lecce,Tommaso Cassandro,23.0,Right-Back,Cittadella,Winter,0.4,Serie A,2022,0.0,0.0,,0.0,0.0

@@ -1,0 +1,8 @@
+club_name,player_name,age,position,club_involved_name,transfer_period,fee_cleaned,league_name,season,OverallSeasonClub,OverallSeasonClub2,league_destination,Overall_club_name,Overall_club_involved
+FC Barcelona,Miralem Pjanic,30.0,Central Midfield,Juventus,Summer,60.0,Primera Division,2020,0.0657527250744353,0.1571495730450395,Serie A,0.7388617566077745,0.6559170432162352
+Manchester City,João Cancelo,25.0,Right-Back,Juventus,Summer,65.0,Premier League,2019,1.0,0.8011422314820941,Serie A,0.8009564778592996,0.6559170432162352
+Juventus FC,Danilo,28.0,Right-Back,Manchester City,Summer,37.0,Serie A,2019,0.8011422314820941,0.0,,0.6559170432162352,0.0
+Juventus FC,Arthur,24.0,Defensive Midfield,Barcelona,Summer,76.0,Serie A,2020,0.1571495730450395,0.0657527250744353,Primera Division,0.6559170432162352,0.7388617566077745
+Genoa CFC,Manolo Portanova,20.0,Central Midfield,Juventus,Winter,10.0,Serie A,2020,0.0,0.1571495730450395,Serie A,0.0,0.6559170432162352
+Genoa CFC,Elia Petrelli,19.0,Centre-Forward,Juventus,Winter,8.0,Serie A,2020,0.0,0.1571495730450395,Serie A,0.0,0.0
+Juventus FC,Nicolò Rovella,19.0,Defensive Midfield,Genoa,Winter,23.3,Serie A,2020,0.1571495730450395,0.0,Serie A,0.6559170432162352,0.0

@@ -1,0 +1,1404 @@
+age,Valore Reale,Valore Predetto,club_name,player_name,position,club_involved_name,season,Differenza
+21.0,0.3,1.2221122,Spezia Calcio,Emil Holm,Right-Back,SönderjyskE,2021/2022,0.9221121999999999
+23.0,0.5,12.167343,SSC Napoli,Leonardo Candellone,Centre-Forward,Torino,2020/2021,11.667343
+34.0,1.5,3.2999141,Real Betis Balompié,Joaquín,Right Winger,Fiorentina,2015/2016,1.7999141
+23.0,7.0,11.313368,Southampton FC,Oriol Romeu,Defensive Midfield,Chelsea,2015/2016,4.3133680000000005
+33.0,11.8,6.596943,AS Roma,Rui Patrício,Goalkeeper,Wolves,2021/2022,-5.203057000000001
+30.0,7.5,5.8147407,Olympique Lyon,Marcelo,Centre-Back,Besiktas,2017/2018,-1.6852593000000002
+28.0,1.0,1.2553666,Hellas Verona,Eros Pisano,Right-Back,US Palermo,2015/2016,0.2553666000000001
+27.0,0.8,3.212099,Vitória Guimarães SC,Davidson,Left Winger,Chaves,2018/2019,2.4120989999999995
+29.0,13.5,12.336812,Aston Villa,Álex Moreno,Left-Back,Real Betis,2022/2023,-1.1631879999999999
+24.0,6.0,24.892189,Paris Saint-Germain,Gregory van der Wiel,Right-Back,Ajax,2012/2013,18.892189
+27.0,0.7,1.7859462,CA Osasuna,Oriol Riera,Centre-Forward,Alcorcón,2013/2014,1.0859462
+17.0,0.335,4.0996423,Norwich City,Daniel Adshead,Central Midfield,Rochdale,2019/2020,3.7646423
+24.0,38.4,12.280725,Aston Villa,Emiliano Buendía,Right Winger,Norwich,2021/2022,-26.119275
+24.0,2.8,7.1545258,Stoke City,Marko Arnautovic,Centre-Forward,Werder Bremen,2013/2014,4.3545258
+24.0,13.0,10.763529,Watford FC,Gerard Deulofeu,Centre-Forward,Barcelona,2018/2019,-2.236471
+21.0,2.0,2.0853052,US Lecce,Lameck Banda,Right Winger,M. Petah Tikva,2022/2023,0.08530520000000008
+23.0,3.0,2.085809,Angers SCO,Souleyman Doumbia,Left-Back,Stade Rennais,2020/2021,-0.9141910000000002
+20.0,5.0,8.298803,Ajax Amsterdam,Davinson Sánchez,Centre-Back,Atl. Nacional,2016/2017,3.2988029999999995
+28.0,0.75,2.657301,Krylya Sovetov Samara,Amar Rahmanovic,Attacking Midfield,Konyaspor,2022/2023,1.907301
+25.0,14.5,8.749833,Brighton & Hove Albion,José Izquierdo,Left Winger,Club Brugge,2017/2018,-5.750166999999999
+22.0,20.0,10.0729885,Olympique Lyon,Bruno Guimarães,Defensive Midfield,Athletico-PR,2019/2020,-9.9270115
+22.0,0.9,3.9778762,AZ Alkmaar,Sam Beukema,Centre-Back,Go Ahead Eagles,2021/2022,3.0778762
+23.0,10.0,10.993173,Brentford FC,Frank Onyeka,Central Midfield,FC Midtjylland,2021/2022,0.9931730000000005
+20.0,0.12,2.1016767,Eintracht Frankfurt,Yanni Regäsel,Right-Back,Hertha BSC,2015/2016,1.9816767
+21.0,38.0,16.963558,AC Milan,André Silva,Centre-Forward,FC Porto,2017/2018,-21.036442
+22.0,0.25,3.053164,FK Rostov,Aleksey Mironov,Central Midfield,Loko-Kazanka M.,2022/2023,2.803164
+25.0,0.25,1.5973216,Levante UD,Diego Mariño,Goalkeeper,Real Valladolid,2015/2016,1.3473216
+20.0,0.666,2.206442,Udinese Calcio,Francisco Sierralta,Centre-Back,Granada CF,2017/2018,1.540442
+27.0,2.8,7.772806,Borussia Mönchengladbach,Michael Lang,Right-Back,FC Basel,2018/2019,4.972806
+24.0,1.2,7.95133,Inter Milan,Rene Krhin,Defensive Midfield,Bologna,2014/2015,6.751329999999999
+20.0,2.0,4.684037,Newcastle United,Ayoze Pérez,Second Striker,CD Tenerife,2014/2015,2.684037
+27.0,2.17,1.9038312,VfB Stuttgart,Kevin Großkreutz,Right-Back,Galatasaray,2015/2016,-0.2661688
+24.0,5.0,6.195663,Swansea City,Jefferson Montero,Left Winger,Monarcas Morelia,2014/2015,1.1956629999999997
+23.0,15.0,4.580085,Olympique Lyon,Romain Faivre,Right Midfield,Stade Brestois,2021/2022,-10.419915
+18.0,0.035,2.4490998,Rubin Kazan,Georgi Makhatadze,Central Midfield,Loko Moscow II,2016/2017,2.4140998
+27.0,0.5,2.5011764,SD Eibar,Takashi Inui,Left Winger,E. Frankfurt,2015/2016,2.0011764
+26.0,18.0,30.410866,FC Barcelona,Ivan Rakitic,Central Midfield,Sevilla FC,2014/2015,12.410865999999999
+24.0,7.0,2.1998634,FC Porto,Wilson Manafá,Right-Back,Portimonense,2018/2019,-4.8001366
+25.0,9.0,5.5902414,LOSC Lille,Kévin Malcuit,Right-Back,Saint-Étienne,2017/2018,-3.4097586
+22.0,1.4,9.872674,Juventus FC,Mame Thiam,Left Winger,Virtus Lanciano,2015/2016,8.472674
+24.0,9.0,5.510439,FK Krasnodar,Tonny Vilhena,Central Midfield,Feyenoord,2019/2020,-3.489561
+19.0,1.6,6.410948,VfL Wolfsburg,Francisco Rodríguez,Attacking Midfield,FC Zürich,2015/2016,4.810948
+29.0,3.96,6.6802483,Hull City,Dame N'Doye,Centre-Forward,Loko Moscow,2014/2015,2.7202482999999997
+23.0,0.35,0.0011332699,Twente Enschede FC,Cuco Martina,Right-Back,RKC Waalwijk,2013/2014,-0.34886673009999997
+21.0,2.5,1.274753,Sporting CP,Lumor,Left-Back,Portimonense,2017/2018,-1.225247
+24.0,1.0,3.573895,FC Crotone,Ante Budimir,Centre-Forward,FC St. Pauli,2016/2017,2.573895
+21.0,8.0,25.873117,Arsenal FC,Nuno Tavares,Left-Back,Benfica,2021/2022,17.873117
+30.0,3.5,4.792789,Watford FC,Valon Behrami,Defensive Midfield,Hamburger SV,2015/2016,1.292789
+26.0,14.0,9.230036,Valencia CF,Francis Coquelin,Defensive Midfield,Arsenal,2017/2018,-4.769964
+27.0,2.2,3.9603705,RCD Mallorca,Ante Budimir,Centre-Forward,Crotone,2019/2020,1.7603704999999996
+21.0,15.0,13.238286,AS Monaco,Youssouf Fofana,Central Midfield,R. Strasbourg,2019/2020,-1.7617139999999996
+31.0,0.1,1.0821267,AC Siena,Francesco Valiani,Central Midfield,Parma,2012/2013,0.9821267000000001
+28.0,0.4,2.6155813,Delfino Pescara 1936,Ferdinando Sforzini,Centre-Forward,Grosseto,2012/2013,2.2155813
+19.0,0.5,2.1800325,Vitesse Arnhem,Mukhtar Ali,Defensive Midfield,Chelsea U23,2017/2018,1.6800324999999998
+25.0,2.4,1.0356158,Hellas Verona,Alejandro González,Centre-Back,Peñarol,2013/2014,-1.3643842
+22.0,0.25,1.8460201,Venezia FC,David Schnegg,Left-Back,LASK,2021/2022,1.5960201
+20.0,2.2,7.024778,Brighton & Hove Albion,Anders Dreyer,Right Winger,Esbjerg fB,2018/2019,4.824778
+25.0,23.1,17.066086,West Ham United,Saïd Benrahma,Left Winger,Brentford,2020/2021,-6.033914000000003
+21.0,0.3,2.0604281,FK Rostov,Nika Kacharava,Centre-Forward,Tskhinvali,2015/2016,1.7604281000000002
+23.0,3.5,0.73174787,TSG 1899 Hoffenheim,Pavel Kaderabek,Right-Back,Sparta Prague,2015/2016,-2.76825213
+19.0,2.8,2.7510164,Hannover 96,Leonardo Bittencourt,Attacking Midfield,Bor. Dortmund,2013/2014,-0.04898359999999968
+23.0,14.0,24.107983,FC Barcelona,Jordi Alba,Left-Back,Valencia,2012/2013,10.107983
+19.0,0.02,0.20464006,Parma FC,Marijan Coric,Goalkeeper,Istra 1961 U19,2014/2015,0.18464006000000002
+23.0,30.0,20.98333,West Ham United,Nikola Vlasic,Attacking Midfield,CSKA Moscow,2021/2022,-9.016670000000001
+22.0,22.0,12.924236,VfL Wolfsburg,Kevin De Bruyne,Attacking Midfield,Chelsea,2013/2014,-9.075764
+32.0,3.0,1.7411312,Bologna FC 1909,Marko Arnautovic,Centre-Forward,SH Port,2021/2022,-1.2588688
+22.0,15.0,14.412139,RB Leipzig,Bruma,Left Winger,Galatasaray,2017/2018,-0.5878610000000002
+23.0,2.5,1.5894878,FK Krasnodar,Igor Smolnikov,Right-Back,Rostov,2012/2013,-0.9105122000000001
+22.0,1.0,3.0194476,FC Metz,Warren Tchimbembé,Right Winger,Troyes,2020/2021,2.0194476
+33.0,1.4,3.3230352,Aston Villa,Joleon Lescott,Centre-Back,West Brom,2015/2016,1.9230352000000002
+26.0,11.0,10.338947,FC Internazionale,Fredy Guarín,Central Midfield,FC Porto,2012/2013,-0.6610530000000008
+20.0,3.5,2.8434541,Dijon FCO,Mounir Chouiar,Left Winger,Lens,2019/2020,-0.6565458999999998
+21.0,1.0,1.2911319,1.FC Nuremberg,Ondrej Petrak,Defensive Midfield,Slavia Prague,2013/2014,0.2911319000000001
+25.0,5.0,5.081401,Levante UD,Rúben Vezo,Centre-Back,Valencia,2019/2020,0.08140099999999961
+26.0,8.8,7.3683558,Swansea City,Alberto Paloschi,Centre-Forward,Chievo Verona,2015/2016,-1.431644200000001
+23.0,5.0,5.4472804,SSC Napoli,Rafael,Goalkeeper,Santos FC,2013/2014,0.44728040000000036
+22.0,20.0,16.572742,Leicester City,Boubakary Soumaré,Defensive Midfield,LOSC Lille,2021/2022,-3.4272579999999984
+21.0,2.0,3.7913406,Eintracht Frankfurt,Ragnar Ache,Centre-Forward,Sparta R.,2020/2021,1.7913405999999998
+18.0,5.0,4.210595,Olympique Lyon,Lenny Pintor,Left Winger,Stade Brestois,2018/2019,-0.7894050000000004
+21.0,0.5,1.0897354,Montpellier HSC,Jean Deza,Left Winger,U. San Martín,2014/2015,0.5897353999999999
+25.0,7.35,6.8540807,AS Roma,Mapou Yanga-Mbiwa,Centre-Back,Newcastle,2014/2015,-0.49591929999999973
+29.0,5.0,10.044784,AS Monaco,Jérémy Toulalan,Defensive Midfield,Málaga CF,2013/2014,5.044784
+27.0,13.0,26.045301,FC Barcelona,Jasper Cillessen,Goalkeeper,Ajax,2016/2017,13.045300999999998
+26.0,5.8,7.4310083,Burnley FC,Ashley Westwood,Defensive Midfield,Aston Villa,2016/2017,1.6310083000000004
+24.0,3.5,3.9350393,Dinamo Moscow,Nikolay Komlichenko,Centre-Forward,Mlada Boleslav,2019/2020,0.43503930000000013
+24.0,20.5,13.855013,Nottingham Forest,Taiwo Awoniyi,Centre-Forward,Union Berlin,2022/2023,-6.644987
+24.0,3.8,2.435982,Bologna FC 1909,Ladislav Krejci,Left Midfield,Sparta Prague,2016/2017,-1.3640179999999997
+25.0,12.6,12.575329,Tottenham Hotspur,Hugo Lloris,Goalkeeper,Olympique Lyon,2012/2013,-0.024670999999999665
+18.0,18.0,19.669859,Chelsea FC,Carney Chukwuemeka,Central Midfield,Aston Villa,2022/2023,1.6698589999999989
+25.0,4.0,4.27386,ACF Fiorentina,Milan Badelj,Defensive Midfield,Hamburger SV,2014/2015,0.27386
+26.0,6.0,4.869114,Getafe CF,Pedro León,Right Winger,Real Madrid,2013/2014,-1.1308860000000003
+30.0,2.0,6.960426,UC Sampdoria,Lorenzo Tonelli,Centre-Back,SSC Napoli,2020/2021,4.960426
+21.0,2.0,3.8856869,UC Sampdoria,Stefano Beltrame,Attacking Midfield,Juventus,2014/2015,1.8856869
+19.0,9.0,4.8197303,Borussia Mönchengladbach,Kouadio Koné,Central Midfield,Toulouse,2020/2021,-4.1802697
+24.0,6.0,7.449516,LOSC Lille,Léo Jardim,Goalkeeper,Rio Ave FC,2019/2020,1.449516
+23.0,2.0,4.012732,SC Freiburg,Lucas Höler,Centre-Forward,SV Sandhausen,2017/2018,2.0127319999999997
+22.0,4.0,2.35747,Sporting CP,Marcos Rojo,Centre-Back,Spartak Moscow,2012/2013,-1.6425299999999998
+31.0,1.0,3.1621192,VfB Stuttgart,Genki Haraguchi,Attacking Midfield,Union Berlin,2022/2023,2.1621192
+27.0,12.0,6.5472064,Olympique Marseille,Pau López,Goalkeeper,AS Roma,2022/2023,-5.4527936
+24.0,6.0,14.4908285,Newcastle United,Daryl Janmaat,Centre-Back,Feyenoord,2014/2015,8.4908285
+28.0,1.2,1.8642875,Genoa CFC,Francesco Renzetti,Left-Back,Cesena,2016/2017,0.6642875000000001
+25.0,8.0,21.84859,Juventus FC,Martín Cáceres,Centre-Back,Sevilla FC,2012/2013,13.848590000000002
+19.0,0.075,0.50693995,Parma FC,Giuliano Laezza,Centre-Back,Arzanese,2013/2014,0.43193995
+26.0,1.0,1.9194411,US Salernitana 1919,Pasquale Mazzocchi,Right-Back,Venezia,2022/2023,0.9194411
+26.0,4.5,2.0251427,Hamburger SV,Nicolai Müller,Attacking Midfield,1.FSV Mainz 05,2014/2015,-2.4748573
+21.0,0.4,5.5144715,Rio Ave FC,Esmaël Gonçalves,Centre-Forward,OGC Nice,2012/2013,5.1144715
+22.0,1.25,3.6775684,Stade Brestois 29,Charlison Benschop,Centre-Forward,AZ Alkmaar,2012/2013,2.4275684
+27.0,0.35,1.3106948,Amkar Perm,Thomas Phibel,Centre-Back,Widzew Lodz,2013/2014,0.9606948000000001
+26.0,1.0,3.0749195,Athletic Bilbao,Cristian Ganea,Left-Back,FC Viitorul,2018/2019,2.0749195
+23.0,2.3,1.908719,US Palermo,Simon Makienok,Centre-Forward,Bröndby IF,2014/2015,-0.39128099999999977
+26.0,16.3,7.7397065,Swansea City,Sam Clucas,Central Midfield,Hull City,2017/2018,-8.5602935
+21.0,4.0,5.8208475,Feyenoord Rotterdam,Santiago Giménez,Centre-Forward,CD Cruz Azul,2022/2023,1.8208475000000002
+27.0,2.0,6.9864707,AS Saint-Étienne,Nolan Roux,Centre-Forward,LOSC Lille,2015/2016,4.9864707
+25.0,14.0,9.145958,Southampton FC,Dusan Tadić,Left Winger,Twente FC,2014/2015,-4.854042
+25.0,4.0,10.692155,Swansea City,Jack Cork,Defensive Midfield,Southampton,2014/2015,6.692155
+18.0,0.07,3.5420723,CSKA Moscow,Lassana N'Diaye,Centre-Forward,Guidars FC,2018/2019,3.4720723000000002
+31.0,1.8,3.5647137,US Sassuolo,Alessandro Matri,Centre-Forward,AC Milan,2016/2017,1.7647137
+20.0,64.0,29.187666,Chelsea FC,Christian Pulisic,Right Winger,Bor. Dortmund,2018/2019,-34.812334
+21.0,4.0,6.4060183,AC Milan,Giacomo Beretta,Centre-Forward,Genoa,2013/2014,2.4060183000000004
+26.0,35.0,11.775596,West Ham United,Nayef Aguerd,Centre-Back,Stade Rennais,2022/2023,-23.224404
+23.0,1.9,2.3212419,Cádiz CF,Brian Ocampo,Right Winger,Nacional,2022/2023,0.42124190000000006
+22.0,0.225,2.211073,EA Guingamp,Lebogang Phiri,Central Midfield,Bröndby IF,2017/2018,1.9860729999999998
+24.0,4.9,14.306619,Tottenham Hotspur,Kieran Trippier,Right-Back,Burnley,2015/2016,9.406619
+27.0,0.4,2.5143528,Vitesse Arnhem,Tomas Hajek,Centre-Back,Viktoria Plzen,2019/2020,2.1143528000000003
+18.0,0.3,2.1810813,Spartak Moscow,Nail Umyarov,Defensive Midfield,Chertanovo,2018/2019,1.8810812999999997
+30.0,22.5,14.141582,AC Milan,Nikola Kalinic,Centre-Forward,Fiorentina,2018/2019,-8.358418
+21.0,3.4,1.6767741,Parma FC,Alessandro Iacobucci,Goalkeeper,Siena,2012/2013,-1.7232258999999999
+23.0,14.0,6.967785,ACF Fiorentina,Arthur Cabral,Centre-Forward,FC Basel,2021/2022,-7.032215
+19.0,0.15,2.5330176,Rubin Kazan,Rifat Zhemaletdinov,Attacking Midfield,Loko Moscow II,2016/2017,2.3830176
+20.0,22.7,13.0606,AFC Bournemouth,Ilya Zabarnyi,Centre-Back,Dynamo Kyiv,2022/2023,-9.639399999999998
+25.0,5.5,1.0669554,Dinamo Moscow,Alexander Büttner,Left-Back,Man Utd,2014/2015,-4.4330446
+30.0,4.0,3.4309797,Benevento Calcio,Gianluca Lapadula,Centre-Forward,Genoa,2020/2021,-0.5690203
+23.0,2.75,1.865559,Sporting CP,Josip Misic,Central Midfield,HNK Rijeka,2017/2018,-0.884441
+30.0,4.5,2.2039351,US Sassuolo,Federico Peluso,Left-Back,Juventus,2014/2015,-2.2960649
+26.0,0.3,0.040400993,NEC Nijmegen,Lasse Nielsen,Centre-Back,Aalborg BK,2013/2014,-0.259599007
+21.0,0.4,2.1511877,GD Estoril Praia,Léo Bonatini,Centre-Forward,Cruzeiro,2015/2016,1.7511877
+26.0,1.0,1.7926208,Hellas Verona,Lorenzo Montipò,Goalkeeper,Benevento,2022/2023,0.7926207999999999
+22.0,10.0,11.740241,Huddersfield Town,Adama Diakhaby,Left Winger,Monaco,2018/2019,1.7402409999999993
+29.0,4.8,3.4300795,VfL Wolfsburg,Naldo,Centre-Back,Werder Bremen,2012/2013,-1.3699204999999997
+20.0,0.2,0.339758,Deportivo de La Coruña,Saúl García,Left-Back,Racing,2014/2015,0.139758
+18.0,0.35,2.2646894,FC Metz,Boubacar Traoré,Central Midfield,AS Bamako,2019/2020,1.9146893999999999
+18.0,11.0,5.2993693,Brighton & Hove Albion,Kacper Kozlowski,Central Midfield,Pogon Szczecin,2021/2022,-5.7006307
+24.0,2.25,7.2856817,Watford FC,Ken Sema,Left Midfield,Östersund,2018/2019,5.0356817
+21.0,12.0,8.768039,AS Roma,Adem Ljajic,Attacking Midfield,Fiorentina,2013/2014,-3.231961
+29.0,0.8,1.2004665,Kuban Krasnodar (-2018),Stanislav Manolev,Right Winger,Dinamo Moscow,2014/2015,0.40046650000000006
+32.0,0.2,0.48584533,Hellas Verona,Francesco Benussi,Goalkeeper,Udinese Calcio,2014/2015,0.28584533
+24.0,3.5,3.7711558,Celta de Vigo,Gabriel Fernández,Centre-Forward,Peñarol,2018/2019,0.27115579999999984
+20.0,0.435,2.5456963,FK Orenburg,Danila Khotulev,Centre-Back,Zenit 2 S-Pb,2022/2023,2.1106963
+26.0,8.0,4.2906585,Athletic Bilbao,Beñat Etxebarria,Central Midfield,Real Betis,2013/2014,-3.7093415
+23.0,1.5,1.8652514,Montpellier HSC,Lukas Pokorny,Centre-Back,Slovan Liberec,2016/2017,0.3652514
+25.0,0.5,3.339302,SM Caen,Florian Raspentino,Centre-Forward,Marseille,2014/2015,2.839302
+23.0,4.0,4.566771,Stade Reims,Anastasios Donis,Centre-Forward,VfB Stuttgart,2020/2021,0.5667710000000001
+24.0,2.5,2.4203691,Hannover 96,Josip Elez,Centre-Back,HNK Rijeka,2018/2019,-0.07963090000000017
+20.0,5.0,4.387958,Olympique Marseille,Karim Rekik,Centre-Back,Man City,2015/2016,-0.6120419999999998
+18.0,1.0,2.157525,Real Sociedad,David Concha,Right Winger,Racing,2015/2016,1.1575250000000001
+29.0,12.0,4.7578044,FK Krasnodar,Rémy Cabella,Attacking Midfield,Saint-Étienne,2019/2020,-7.2421956
+27.0,1.15,2.976361,Deportivo Alavés,Mamadou Sylla,Centre-Forward,Girona,2021/2022,1.826361
+25.0,0.25,1.965119,Genoa CFC,Enis Nadarevic,Left Winger,Varese,2012/2013,1.715119
+31.0,5.6,6.3497715,Wolverhampton Wanderers,João Moutinho,Central Midfield,Monaco,2018/2019,0.7497715000000005
+24.0,21.0,10.202919,AC Milan,Andrea Bertolacci,Central Midfield,AS Roma,2015/2016,-10.797081
+23.0,1.5,1.879798,FC Ingolstadt 04,Elias Kachunga,Right Winger,SC Paderborn,2015/2016,0.3797980000000001
+24.0,1.5,2.6302164,FC Porto,Hyun-jun Suk,Centre-Forward,Vitória Setúbal,2015/2016,1.1302164000000001
+18.0,31.1,9.1285095,Inter Milan,Alessandro Bastoni,Centre-Back,Atalanta BC,2017/2018,-21.9714905
+21.0,0.26,1.9802104,FK Ufa,Artem Golubev,Defensive Midfield,Krasnodar,2020/2021,1.7202104
+23.0,0.3,1.9282688,Excelsior Rotterdam,Elías Már Ómarsson,Centre-Forward,IFK Göteborg,2018/2019,1.6282687999999998
+23.0,1.5,6.6155367,SS Lazio,Moritz Leitner,Central Midfield,Bor. Dortmund,2016/2017,5.1155367
+20.0,30.0,22.778934,Paris Saint-Germain,Gonçalo Guedes,Left Winger,Benfica,2016/2017,-7.221066
+28.0,7.0,5.9136252,LOSC Lille,Benjamin André,Defensive Midfield,Stade Rennais,2019/2020,-1.0863747999999998
+22.0,4.0,1.8610185,Stade Reims,Ghislain Konan,Left-Back,Vit. Guimarães,2018/2019,-2.1389815
+23.0,14.0,6.2783675,TSG 1899 Hoffenheim,Diadié Samassékou,Defensive Midfield,RB Salzburg,2019/2020,-7.7216325
+20.0,8.0,8.25559,LOSC Lille,Sven Botman,Centre-Back,Ajax U21,2020/2021,0.25558999999999976
+23.0,4.0,2.5543523,FC Porto,Zaidu,Left-Back,Santa Clara,2020/2021,-1.4456476999999999
+31.0,2.0,1.3389064,AJ Auxerre,Nuno Da Costa,Centre-Forward,Nottm Forest,2022/2023,-0.6610936000000001
+29.0,0.2,1.4069144,Málaga CF,Cenk Gönen,Goalkeeper,Galatasaray,2017/2018,1.2069144
+23.0,7.5,2.0330303,Sporting CP,Marcus Edwards,Right Winger,Vit. Guimarães,2021/2022,-5.4669697
+22.0,1.0,5.836237,Eintracht Frankfurt,Andersson Ordóñez,Centre-Back,Barcelona SC,2016/2017,4.836237
+29.0,10.0,12.795981,Zenit St. Petersburg,Yaroslav Rakitskyi,Centre-Back,Shakhtar D.,2018/2019,2.7959809999999994
+25.0,7.0,11.527891,Brighton & Hove Albion,Deniz Undav,Centre-Forward,Union SG,2021/2022,4.527891
+24.0,84.7,31.023878,Manchester United,Romelu Lukaku,Centre-Forward,Everton,2017/2018,-53.67612200000001
+27.0,2.5,5.426282,Leicester City,Danny Simpson,Right-Back,QPR,2014/2015,2.9262819999999996
+30.0,2.6,3.724468,ACF Fiorentina,José María Basanta,Centre-Back,Monterrey,2014/2015,1.1244679999999998
+23.0,2.7,4.975234,Bologna FC 1909,Lorenzo Crisetig,Defensive Midfield,Inter,2016/2017,2.275234
+26.0,21.0,7.223434,Sevilla FC,Quincy Promes,Left Winger,Spartak Moscow,2018/2019,-13.776565999999999
+29.0,10.0,8.258433,Athletic Bilbao,Raúl García,Centre-Forward,Atlético Madrid,2015/2016,-1.7415669999999999
+20.0,0.019,3.3213453,FK Orenburg,Ivan Lapshov,Centre-Back,Loko-Kazanka M.,2019/2020,3.3023453
+26.0,7.0,5.408911,AS Roma,Iago Falque,Right Winger,Genoa,2015/2016,-1.5910890000000002
+25.0,25.0,23.855368,Everton FC,André Gomes,Central Midfield,Barcelona,2019/2020,-1.1446320000000014
+25.0,17.0,9.459447,West Bromwich Albion,Salomón Rondón,Centre-Forward,Zenit S-Pb,2015/2016,-7.540552999999999
+32.0,3.0,2.4412787,VfB Stuttgart,Mario Gómez,Centre-Forward,VfL Wolfsburg,2017/2018,-0.5587213000000002
+24.0,1.75,3.4893038,Vitória Guimarães SC,Guillermo Celis,Defensive Midfield,Benfica,2017/2018,1.7393038
+25.0,0.6,5.690837,FK Rostov,Kamil Agalarov,Defensive Midfield,Anzhi,2013/2014,5.0908370000000005
+31.0,0.6,0.34505975,Rio Ave FC,Jhonatan,Goalkeeper,Vit. Guimarães,2022/2023,-0.25494025
+16.0,0.5,1.3294853,Krylya Sovetov Samara,Sergey Pinyaev,Left Winger,Chertanovo,2021/2022,0.8294853
+23.0,3.2,3.9915648,FC Porto,Toni Martínez,Centre-Forward,Famalicão,2020/2021,0.7915647999999997
+31.0,1.5,1.1555483,Levante UD,Coke,Right-Back,FC Schalke 04,2018/2019,-0.3444517
+20.0,0.035,1.8993353,Krylya Sovetov Samara,Leonid Gerchikov,Right Winger,Dolgoprudnyi,2021/2022,1.8643353
+32.0,2.7,10.078062,Atlético de Madrid,Daniel Wass,Central Midfield,Valencia,2021/2022,7.378061999999999
+20.0,2.1,7.4766536,SL Benfica,Alejandro Grimaldo,Left-Back,Barcelona B,2015/2016,5.376653599999999
+28.0,3.2,7.9087467,West Ham United,James Collins,Centre-Back,Aston Villa,2012/2013,4.7087467
+21.0,1.0,1.5824653,Parma FC,Daniele Casiraghi,Attacking Midfield,Lecce,2014/2015,0.5824653
+24.0,4.1,2.3188686,FC Toulouse,Veljko Birmancevic,Left Winger,Malmö FF,2022/2023,-1.7811313999999996
+29.0,2.8,9.45756,AS Roma,Ervin Zukanovic,Centre-Back,Sampdoria,2016/2017,6.657560000000001
+19.0,1.75,4.6130347,Parma FC,Raman Chibsah,Central Midfield,Juventus U19,2012/2013,2.8630347
+22.0,4.84,1.9560112,Sporting CP,Alan Ruiz,Central Midfield,San Lorenzo,2016/2017,-2.8839888
+19.0,2.66,5.061417,SL Benfica,Pedro Pereira,Right Midfield,Sampdoria,2016/2017,2.4014169999999995
+27.0,1.5,3.1394775,RC Strasbourg Alsace,Jonas Martin,Defensive Midfield,Real Betis,2017/2018,1.6394775
+22.0,19.0,26.12952,Juventus FC,Mattia Caldara,Centre-Back,Atalanta BC,2016/2017,7.129519999999999
+19.0,5.5,4.3167043,Brighton & Hove Albion,Michal Karbownik,Right-Back,Legia Warszawa,2020/2021,-1.1832957000000004
+22.0,14.1,20.93287,Tottenham Hotspur,Clinton N'Jie,Right Winger,Olympique Lyon,2015/2016,6.8328700000000016
+22.0,20.0,8.354819,UC Sampdoria,Emil Audero,Goalkeeper,Juventus,2019/2020,-11.645181
+35.0,1.7,18.709532,Manchester United,Lee Grant,Goalkeeper,Stoke City,2018/2019,17.009532
+22.0,0.5,2.7992806,Fortuna Düsseldorf,Mathis Bolly,Left Winger,Lillestrøm,2012/2013,2.2992806
+25.0,2.5,3.7467713,ACF Fiorentina,Maximiliano Olivera,Left-Back,Peñarol,2017/2018,1.2467712999999998
+23.0,0.2,2.8807602,Krylya Sovetov Samara,Maksim Karpov,Centre-Back,Zenit 2 S-Pb,2018/2019,2.6807602
+21.0,34.0,8.232677,SL Benfica,Darwin Núñez,Centre-Forward,UD Almería,2020/2021,-25.767322999999998
+21.0,0.093,3.3590477,Parma Calcio 1913,Walid Cheddira,Centre-Forward,Sangiustese,2019/2020,3.2660477
+22.0,8.25,12.926155,Inter Milan,Gianluca Caprari,Second Striker,Pescara,2016/2017,4.676155
+21.0,10.0,7.5012326,SSC Napoli,Khvicha Kvaratskhelia,Left Winger,Dinamo Batumi,2022/2023,-2.4987674
+25.0,1.5,4.2157187,FC Crotone,Jacopo Petriccione,Defensive Midfield,Lecce,2020/2021,2.7157187
+33.0,14.0,16.661985,Arsenal FC,Petr Cech,Goalkeeper,Chelsea,2015/2016,2.6619850000000014
+23.0,45.0,16.002779,Wolverhampton Wanderers,Matheus Nunes,Central Midfield,Sporting CP,2022/2023,-28.997221
+22.0,0.6,5.2356453,SL Benfica,Chiquinho,Attacking Midfield,Coimbra,2018/2019,4.6356453
+21.0,3.0,1.804892,Torino FC,Josef Martínez,Centre-Forward,BSC Young Boys,2014/2015,-1.195108
+21.0,40.0,12.271688,Valencia CF,Gonçalo Guedes,Left Winger,Paris SG,2018/2019,-27.728312000000003
+26.0,8.5,8.900891,Hull City,Shane Long,Centre-Forward,West Brom,2013/2014,0.40089099999999966
+25.0,62.5,34.53693,Liverpool FC,Alisson,Goalkeeper,AS Roma,2018/2019,-27.963070000000002
+18.0,0.068,3.1005368,Queens Park Rangers,Ryan Manning,Left-Back,Galway United,2014/2015,3.0325368
+26.0,0.3,2.1404622,FK Khimki,Cristian Tassano,Centre-Back,Santa Clara,2022/2023,1.8404622
+22.0,2.0,2.015444,SM Caen,Alexander Djiku,Centre-Back,SC Bastia,2017/2018,0.015444000000000013
+18.0,5.0,8.109039,Real Madrid,Jesús Vallejo,Centre-Back,Real Zaragoza,2015/2016,3.109038999999999
+31.0,7.0,7.231832,Leicester City,Gökhan Inler,Defensive Midfield,SSC Napoli,2015/2016,0.23183199999999982
+19.0,1.0,9.165284,FC Barcelona,Jean-Clair Todibo,Centre-Back,Toulouse,2018/2019,8.165284
+27.0,0.8,7.4209113,ACF Fiorentina,Mounir El Hamdaoui,Centre-Forward,Ajax U21,2012/2013,6.6209113
+22.0,4.0,4.62692,Venezia FC,Michaël Cuisance,Central Midfield,Bayern Munich,2021/2022,0.6269200000000001
+19.0,2.0,9.007507,Juventus FC,Matheus Pereira,Central Midfield,Empoli,2017/2018,7.007507
+23.0,1.5,2.8650782,Montpellier HSC,Gaëtan Charbonnier,Centre-Forward,Angers SCO,2012/2013,1.3650782000000001
+28.0,39.25,23.010607,Bayern Munich,Arturo Vidal,Central Midfield,Juventus,2015/2016,-16.239393
+28.0,1.95,6.3849072,Torino FC,Ricardo Rodríguez,Centre-Back,AC Milan,2020/2021,4.4349072
+22.0,2.0,2.1237898,Cádiz CF,Tomás Alarcón,Defensive Midfield,O'Higgins,2021/2022,0.12378979999999995
+21.0,5.25,8.215548,AC Milan,Alexis Saelemaekers,Right Winger,RSC Anderlecht,2020/2021,2.965548
+23.0,10.0,7.5268917,Borussia Mönchengladbach,Álvaro Domínguez,Centre-Back,Atlético Madrid,2012/2013,-2.4731083
+23.0,4.0,3.3548865,Hertha BSC,Omar Alderete,Centre-Back,FC Basel,2020/2021,-0.6451134999999999
+24.0,12.0,4.057014,Zenit St. Petersburg,Claudinho,Attacking Midfield,RB Bragantino,2021/2022,-7.942986
+26.0,8.0,4.489007,Zenit St. Petersburg,Cristian Ansaldi,Left-Back,Rubin Kazan,2013/2014,-3.510993
+26.0,0.5,1.5671471,SV Darmstadt 98,Mario Vrancic,Central Midfield,SC Paderborn,2015/2016,1.0671471
+24.0,30.0,19.51094,AS Monaco,Gelson Martins,Right Winger,Atlético Madrid,2019/2020,-10.489059999999998
+18.0,9.8,20.654379,Wolverhampton Wanderers,Ki-Jana Hoever,Right-Back,Liverpool U23,2020/2021,10.854378999999998
+21.0,11.0,5.566617,Olympique Lyon,Amin Sarr,Centre-Forward,Heerenveen,2022/2023,-5.433383
+19.0,1.5,2.034327,CSKA Moscow,Igor Diveev,Centre-Back,Ufa,2019/2020,0.5343270000000002
+21.0,2.25,7.0934978,Atalanta BC,Marco Varnier,Centre-Back,Cittadella,2019/2020,4.8434978
+28.0,3.5,4.6017427,Real Betis Balompié,Sergio León,Centre-Forward,CA Osasuna,2017/2018,1.1017427
+28.0,2.2,2.7657747,Montpellier HSC,Giovanni Sio,Centre-Forward,Stade Rennais,2017/2018,0.5657747
+19.0,0.76,2.5782433,Juventus FC,Nazzareno Belfasti,Left-Back,Modena,2013/2014,1.8182433
+23.0,2.75,6.156309,Crystal Palace,Jaroslaw Jach,Centre-Back,Zaglebie Lubin,2017/2018,3.4063090000000003
+31.0,30.0,14.080314,Newcastle United,Kieran Trippier,Right-Back,Atlético Madrid,2021/2022,-15.919686
+27.0,6.2,8.433637,Newcastle United,Mathieu Debuchy,Right-Back,LOSC Lille,2012/2013,2.233636999999999
+27.0,0.35,2.0382216,Akhmat Grozny,Milos Satara,Centre-Back,Soligorsk,2022/2023,1.6882215999999999
+24.0,0.9,2.740041,FC Crotone,Federico Ceccherini,Centre-Back,AS Livorno,2016/2017,1.8400410000000003
+36.0,2.0,10.672167,AS Monaco,Naldo,Centre-Back,FC Schalke 04,2018/2019,8.672167
+26.0,1.14,6.748639,Crystal Palace,Fraizer Campbell,Centre-Forward,Cardiff,2014/2015,5.608639
+21.0,1.8,2.302286,Bologna FC 1909,Ádám Nagy,Defensive Midfield,Ferencváros,2016/2017,0.502286
+22.0,7.57,7.0060396,Queens Park Rangers,Jordon Mutch,Central Midfield,Cardiff,2014/2015,-0.5639604
+27.0,2.0,8.656492,Montpellier HSC,Jordan Ferri,Central Midfield,Olympique Lyon,2019/2020,6.656492
+24.0,3.0,2.7427227,TSG 1899 Hoffenheim,Kevin Vogt,Centre-Back,1. FC Köln,2016/2017,-0.25727730000000015
+24.0,5.0,10.883967,West Ham United,Diafra Sakho,Centre-Forward,FC Metz,2014/2015,5.883967
+26.0,4.5,4.8958287,Olympique Marseille,Luan Peres,Centre-Back,Santos FC,2021/2022,0.39582870000000003
+27.0,4.0,3.590498,Celta de Vigo,Franco Cervi,Left Winger,Benfica,2021/2022,-0.4095019999999998
+20.0,0.02,3.245642,US Sassuolo,Pietro Cianci,Centre-Forward,Andria,2016/2017,3.225642
+24.0,6.0,4.5934443,Real Sociedad,Willian José,Centre-Forward,Maldonado,2016/2017,-1.4065557000000002
+29.0,0.85,3.1107478,PSV Eindhoven,Stijn Schaars,Defensive Midfield,Sporting CP,2013/2014,2.2607478
+24.0,15.0,27.911617,Paris Saint-Germain,Renato Sanches,Central Midfield,LOSC Lille,2022/2023,12.911617
+25.0,1.5,3.0652804,FC Porto,Fernando Andrade,Second Striker,Santa Clara,2018/2019,1.5652803999999998
+29.0,0.6,1.7861918,Levante UD,Mitchell Langerak,Goalkeeper,VfB Stuttgart,2017/2018,1.1861918
+23.0,2.1,6.2680464,Crystal Palace,Barry Bannan,Central Midfield,Aston Villa,2013/2014,4.1680464
+31.0,2.6,15.315296,Nottingham Forest,Willy Boly,Centre-Back,Wolves,2022/2023,12.715296
+24.0,0.2,2.2190013,FC Famalicão,Enea Mihaj,Centre-Back,PAOK Salonika,2022/2023,2.0190012999999998
+20.0,1.5,3.2321742,VfB Stuttgart,Joshua Kimmich,Defensive Midfield,RB Leipzig,2015/2016,1.7321742000000002
+29.0,12.0,11.88949,AS Monaco,Nacer Chadli,Left Winger,West Brom,2018/2019,-0.11050999999999966
+25.0,3.25,4.736787,SS Lazio,Mattia Sprocati,Right Winger,Salernitana,2018/2019,1.4867869999999996
+24.0,0.3,0.56421345,Levante UD,Toño García,Left-Back,Recr. Huelva,2014/2015,0.26421345
+32.0,3.0,3.2381825,Olympique Marseille,Steve Mandanda,Goalkeeper,Crystal Palace,2017/2018,0.23818250000000019
+28.0,3.8,7.2645326,Wigan Athletic,Arouna Koné,Centre-Forward,Levante,2012/2013,3.4645326
+28.0,24.0,5.750201,Athletic Bilbao,Yuri Berchiche,Left-Back,Paris SG,2018/2019,-18.249799
+20.0,6.0,5.806357,Real Betis Balompié,Emerson Royal,Right-Back,Barcelona,2018/2019,-0.1936429999999998
+27.0,67.8,31.754622,Manchester City,Riyad Mahrez,Right Winger,Leicester,2018/2019,-36.045378
+25.0,4.0,5.0816517,FK Krasnodar,Stanislav Kritsyuk,Goalkeeper,SC Braga,2016/2017,1.0816517
+22.0,0.6,2.6519632,SV Darmstadt 98,Patrick Banggaard,Centre-Back,FC Midtjylland,2016/2017,2.0519632
+21.0,2.5,6.821266,VfL Wolfsburg,Kilian Fischer,Right-Back,1.FC Nuremberg,2022/2023,4.321266
+23.0,0.2,2.7701519,FK Orenburg,Kirill Kaplenko,Defensive Midfield,Zenit 2 S-Pb,2022/2023,2.5701519
+20.0,2.5,0.4305175,Sporting CP,Jonathan Silva,Left-Back,Estudiantes,2014/2015,-2.0694825
+23.0,4.3,2.3325007,Torino FC,Davide Zappacosta,Right-Back,Atalanta BC,2015/2016,-1.9674992999999996
+29.0,15.0,14.15551,Leicester City,Vicente Iborra,Central Midfield,Sevilla FC,2017/2018,-0.8444900000000004
+23.0,1.4,7.3560424,Reading FC,Nick Blackman,Centre-Forward,Sheff Utd,2012/2013,5.956042399999999
+27.0,8.5,19.01426,Chelsea FC,Demba Ba,Centre-Forward,Newcastle,2012/2013,10.51426
+19.0,6.0,1.8212613,Udinese Calcio,Matheus Martins,Left Winger,Fluminense,2022/2023,-4.1787387
+17.0,0.253,0.26045737,Granada CF,Francisco Sierralta,Centre-Back,U. Católica,2014/2015,0.007457370000000019
+28.0,6.0,13.399742,Valencia CF,Denis Cheryshev,Left Winger,Villarreal,2019/2020,7.399742
+20.0,4.0,3.0759907,CSKA Moscow,Ivan Oblyakov,Central Midfield,Ufa,2018/2019,-0.9240092999999998
+21.0,2.5,2.2340055,TSG 1899 Hoffenheim,Afriyie Acquah,Central Midfield,US Palermo,2012/2013,-0.26599450000000013
+21.0,55.0,22.605843,FC Barcelona,Ferran Torres,Left Winger,Man City,2021/2022,-32.394157
+19.0,0.8,3.4705896,AS Saint-Étienne,Alexandros Katranis,Left-Back,Atromitos Athen,2017/2018,2.6705895999999996
+20.0,2.5,2.573893,Genoa CFC,Kevin Agudelo,Right Winger,Atlético Huila,2019/2020,0.07389299999999999
+24.0,3.6,5.3183193,Stoke City,Erik Pieters,Left-Back,PSV Eindhoven,2013/2014,1.7183192999999997
+25.0,10.2,9.62845,West Ham United,Jordan Hugill,Centre-Forward,Preston,2017/2018,-0.5715499999999984
+22.0,25.0,42.933247,Paris Saint-Germain,Layvin Kurzawa,Left-Back,Monaco,2015/2016,17.933247
+19.0,0.36,9.831696,Newcastle United,Ivan Toney,Centre-Forward,Northampton,2015/2016,9.471696000000001
+19.0,5.5,3.0813642,Olympique Marseille,Isaak Touré,Centre-Back,AC Le Havre,2022/2023,-2.4186358
+24.0,1.3,5.695228,Burnley FC,Nick Pope,Goalkeeper,Charlton,2016/2017,4.395228
+26.0,0.5,2.3713639,Levante UD,Jesús Fernández,Goalkeeper,Real Madrid,2014/2015,1.8713639
+26.0,1.0,4.052911,SD Huesca,Pablo Insua,Centre-Back,FC Schalke 04,2020/2021,3.052911
+20.0,1.2,2.1851726,FK Krasnodar,Olakunle Olusegun,Left Winger,Botev Plovdiv,2022/2023,0.9851726000000001
+21.0,1.0,1.3531929,Udinese Calcio,Alexandre Coeff,Centre-Back,Lens,2013/2014,0.35319290000000003
+30.0,2.0,2.014223,Bologna FC 1909,Sebastien De Maio,Centre-Back,RSC Anderlecht,2017/2018,0.014222999999999875
+26.0,15.0,4.6697245,AS Roma,Radja Nainggolan,Central Midfield,Cagliari Calcio,2014/2015,-10.330275499999999
+27.0,2.5,1.8302053,1.FSV Mainz 05,Jonas Lössl,Goalkeeper,Guingamp,2016/2017,-0.6697947
+30.0,11.0,9.232633,AS Roma,Edin Dzeko,Centre-Forward,Man City,2016/2017,-1.7673670000000001
+21.0,19.0,7.665713,Olympique Marseille,Duje Caleta-Car,Centre-Back,RB Salzburg,2018/2019,-11.334287
+23.0,40.0,13.020202,AS Roma,Tammy Abraham,Centre-Forward,Chelsea,2021/2022,-26.979798000000002
+23.0,2.0,2.5226097,Levante UD,Erick Cabaco,Centre-Back,Nacional,2018/2019,0.5226096999999998
+22.0,8.8,21.413225,Chelsea FC,César Azpilicueta,Right-Back,Marseille,2012/2013,12.613225
+31.0,2.5,5.577511,West Ham United,Alou Diarra,Defensive Midfield,Marseille,2012/2013,3.0775110000000003
+28.0,1.3,2.344317,FC Augsburg,Nikola Djurdjic,Centre-Forward,Greuther Fürth,2014/2015,1.0443170000000002
+26.0,0.3,1.2584342,SM Caen,Damien Da Silva,Centre-Back,Clermont Foot,2014/2015,0.9584341999999999
+28.0,15.0,21.917727,Arsenal FC,Mathieu Debuchy,Right-Back,Newcastle,2014/2015,6.917726999999999
+23.0,30.0,15.2820635,Tottenham Hotspur,Sergio Reguilón,Left-Back,Real Madrid,2020/2021,-14.7179365
+29.0,12.0,22.370739,Juventus FC,Filip Kostic,Left Midfield,E. Frankfurt,2022/2023,10.370739
+24.0,8.0,6.5125804,Bayer 04 Leverkusen,Admir Mehmedi,Second Striker,SC Freiburg,2015/2016,-1.4874196
+19.0,2.5,4.995202,ACF Fiorentina,Marko Bakic,Central Midfield,Torino,2013/2014,2.495202
+22.0,30.0,13.45192,AS Monaco,Keita Baldé,Centre-Forward,Lazio,2017/2018,-16.54808
+18.0,1.2,1.808391,Dynamo Moscow,Milan Majstorovic,Centre-Back,Vojvodina U19,2022/2023,0.6083910000000001
+20.0,1.1,1.9722899,FC Groningen,Jörgen Strand Larsen,Centre-Forward,Sarpsborg 08,2020/2021,0.8722899
+24.0,3.5,7.897273,Hellas Verona,Pawel Dawidowicz,Centre-Back,Benfica,2019/2020,4.397273
+24.0,2.0,1.4997305,FC Girondins Bordeaux,Pablo,Centre-Back,Ponte Preta,2015/2016,-0.5002694999999999
+23.0,5.5,7.7284617,Norwich City,Leroy Fer,Defensive Midfield,Twente FC,2013/2014,2.2284617000000004
+25.0,20.7,19.229895,West Ham United,Maxwel Cornet,Left Winger,Burnley,2022/2023,-1.4701050000000002
+22.0,10.0,24.95015,Paris Saint-Germain,Serge Aurier,Right-Back,Toulouse,2015/2016,14.95015
+20.0,3.8,1.912902,Sporting CP,Idrissa Doumbia,Defensive Midfield,Akhmat Grozny,2018/2019,-1.8870979999999997
+19.0,4.1,1.7889861,FC Famalicão,Manuel Ugarte,Defensive Midfield,CA Fénix,2020/2021,-2.3110139
+21.0,3.0,2.565277,Lokomotiv Moscow,Lucas Fasson,Centre-Back,Athletico-PR,2022/2023,-0.43472299999999997
+30.0,1.2,1.94096,SL Benfica,Eliseu,Left-Back,Málaga CF,2014/2015,0.7409600000000001
+27.0,7.6,4.9240737,Stade Rennais FC,Edouard Mendy,Goalkeeper,Stade Reims,2019/2020,-2.6759262999999995
+25.0,4.5,5.269578,Zenit St. Petersburg,Mateo Cassierra,Centre-Forward,Sochi,2022/2023,0.7695780000000001
+32.0,3.5,10.875774,Aston Villa,Robin Olsen,Goalkeeper,AS Roma,2022/2023,7.375774
+28.0,1.0,2.8196838,1.FC Union Berlin,Frederik Rönnow,Goalkeeper,E. Frankfurt,2021/2022,1.8196838
+21.0,3.5,5.4043794,Lokomotiv Moscow,Wilson Isidor,Centre-Forward,Monaco,2021/2022,1.9043793999999998
+20.0,3.8,4.1820445,Ajax Amsterdam,Mike van der Hoorn,Centre-Back,FC Utrecht,2013/2014,0.3820445000000001
+18.0,5.8,9.956188,Leeds United,Darko Gyabi,Central Midfield,Man City U21,2022/2023,4.156187999999999
+30.0,2.5,1.1419624,Udinese Calcio,Marco Silvestri,Goalkeeper,Hellas Verona,2021/2022,-1.3580376
+27.0,4.0,3.3736148,Athletic Bilbao,Kike Sola,Centre-Forward,CA Osasuna,2013/2014,-0.6263852000000001
+24.0,4.1,2.9779556,FC Sochi,Victorien Angban,Central Midfield,FC Metz,2021/2022,-1.1220443999999996
+19.0,2.2,3.2451153,Angers SCO,Ousmane Camara,Centre-Back,Paris FC,2022/2023,1.0451153
+19.0,1.5,6.163422,VfL Wolfsburg,Kaylen Hinds,Second Striker,Arsenal U23,2017/2018,4.663422
+26.0,0.2,2.1076958,Krylya Sovetov Samara,Glenn Bijl,Right-Back,FC Emmen,2021/2022,1.9076958000000002
+31.0,2.0,4.341002,Sevilla FC,Beto,Goalkeeper,SC Braga,2013/2014,2.3410019999999996
+21.0,25.0,12.533074,Leicester City,James Maddison,Attacking Midfield,Norwich,2018/2019,-12.466926
+24.0,12.5,4.1834793,Spartak Moscow,Fernando,Defensive Midfield,Sampdoria,2016/2017,-8.3165207
+20.0,0.25,1.9107157,FC Nizhniy Novgorod,Ibrokhimkhalil Yuldoshev,Left-Back,Pakhtakor,2021/2022,1.6607157
+34.0,1.7,7.034418,Inter Milan,Ashley Young,Left-Back,Man Utd,2019/2020,5.334417999999999
+19.0,2.5,3.5456488,Atalanta BC,Bryan Cabezas,Left Winger,Independiente,2016/2017,1.0456488
+21.0,1.0,4.043579,Ajax Amsterdam,Jay Gorter,Goalkeeper,Go Ahead Eagles,2021/2022,3.0435790000000003
+27.0,3.0,3.2949586,Zenit St. Petersburg,Yohan Mollo,Right Winger,KS Samara,2016/2017,0.2949586000000002
+22.0,1.0,1.8457516,Akhmat Grozny,Ismael Silva,Central Midfield,Kalmar FF,2017/2018,0.8457516
+21.0,0.18,4.289804,SS Lazio,Fabio Maistro,Central Midfield,Rieti,2019/2020,4.1098040000000005
+25.0,0.75,2.0717843,Stade Rennais FC,Ermir Lenjani,Left-Back,FC St. Gallen,2014/2015,1.3217843
+25.0,3.0,8.234407,LOSC Lille,Reinildo Mandava,Left-Back,B SAD,2019/2020,5.234406999999999
+18.0,0.48,1.8780588,Cagliari Calcio,Kwang-song Han,Centre-Forward,ISM Academy,2016/2017,1.3980588
+24.0,2.0,5.060533,FC Augsburg,Jeong-ho Hong,Centre-Back,Jeju United,2013/2014,3.0605330000000004
+19.0,4.0,5.0322995,AS Monaco,Thomas Lemar,Attacking Midfield,SM Caen,2015/2016,1.0322994999999997
+27.0,5.6,6.65247,Sheffield United,Luke Freeman,Attacking Midfield,QPR,2019/2020,1.0524700000000005
+21.0,12.0,4.121164,OGC Nice,Alexis Beka Beka,Defensive Midfield,Loko Moscow,2022/2023,-7.878836
+20.0,1.9,4.2172627,Atalanta BC,Gianluca Mancini,Centre-Back,Perugia,2016/2017,2.3172627
+22.0,9.0,6.929281,Torino FC,Perr Schuurs,Centre-Back,Ajax,2022/2023,-2.0707190000000004
+28.0,1.0,1.5179436,Dynamo Moscow,Guillermo Varela,Right-Back,FC Copenhagen,2021/2022,0.5179436
+26.0,5.8,8.180836,Hull City,Tom Huddlestone,Defensive Midfield,Spurs,2013/2014,2.3808359999999995
+16.0,20.0,11.407916,AS Monaco,Willem Geubbels,Left Winger,Olympique Lyon,2018/2019,-8.592084
+23.0,1.82,20.941008,Arsenal FC,Auston Trusty,Centre-Back,Colorado,2021/2022,19.121008
+20.0,2.0,5.8554945,Feyenoord Rotterdam,Neraysho Kasanwirjo,Centre-Back,FC Groningen,2022/2023,3.8554945
+21.0,8.1,2.4080074,SV Werder Bremen,Milot Rashica,Right Winger,Vitesse,2017/2018,-5.6919926
+25.0,30.0,27.052572,Borussia Dortmund,André Schürrle,Left Winger,VfL Wolfsburg,2016/2017,-2.9474279999999986
+20.0,35.0,29.214828,Chelsea FC,Noni Madueke,Right Winger,PSV Eindhoven,2022/2023,-5.785171999999999
+21.0,31.0,12.422816,FC Barcelona,Arthur,Defensive Midfield,Grêmio,2018/2019,-18.577184000000003
+29.0,8.5,4.893971,Spartak Moscow,Quincy Promes,Left Winger,Ajax,2020/2021,-3.6060290000000004
+20.0,1.2,0.7337256,FC Groningen,Isak Dybvik Määttä,Left-Back,Aalesund,2022/2023,-0.4662744
+21.0,2.0,1.8843421,Bologna FC 1909,Riccardo Casini,Defensive Midfield,Parma,2013/2014,-0.11565789999999998
+28.0,0.25,6.9475894,Real Valladolid CF,Jawad El Yamiq,Centre-Back,Genoa,2020/2021,6.6975894
+20.0,4.0,3.2786064,UC Sampdoria,Dawid Kownacki,Centre-Forward,Lech Poznan,2017/2018,-0.7213935999999999
+18.0,2.0,1.1381654,AZ Alkmaar,Milos Kerkez,Left-Back,Milan U19,2021/2022,-0.8618345999999999
+21.0,1.5,3.6406276,Udinese Calcio,Cristo González,Centre-Forward,RM Castilla,2019/2020,2.1406276
+18.0,0.5,0.4230222,Parma FC,Filip Jankovic,Central Midfield,Red Star U19,2013/2014,-0.07697779999999999
+22.0,11.0,6.825443,Olympique Marseille,Leonardo Balerdi,Centre-Back,Bor. Dortmund,2021/2022,-4.174557
+18.0,3.2,29.512333,ACF Fiorentina,Dušan Vlahović,Centre-Forward,Partizan,2018/2019,26.312333000000002
+26.0,8.9,6.260666,Levante UD,Nikola Vukcevic,Defensive Midfield,SC Braga,2018/2019,-2.6393340000000007
+26.0,3.5,8.993157,Stoke City,Michael Kightly,Left Winger,Wolves,2012/2013,5.493157
+27.0,9.3,9.414089,Watford FC,Tom Cleverley,Central Midfield,Everton,2017/2018,0.11408899999999988
+23.0,80.0,26.381,Chelsea FC,Kepa Arrizabalaga,Goalkeeper,Athletic,2018/2019,-53.619
+18.0,0.6,6.7104387,AS Saint-Étienne,Neal Maupay,Centre-Forward,OGC Nice,2015/2016,6.1104387000000004
+22.0,1.65,2.8772829,Amiens SC,Alexis Blin,Defensive Midfield,Toulouse,2019/2020,1.2272829
+22.0,0.75,4.096553,Torino FC,Brian Bayeye,Right Midfield,Catanzaro,2022/2023,3.346553
+24.0,12.0,26.065504,Paris Saint-Germain,Nordi Mukiele,Right-Back,RB Leipzig,2022/2023,14.065504
+28.0,2.0,3.4352612,SS Lazio,Ivan Provedel,Goalkeeper,Spezia Calcio,2022/2023,1.4352611999999998
+21.0,5.8,15.326719,Torino FC,Bremer,Centre-Back,Atlético-MG,2018/2019,9.526719
+23.0,1.04,5.05937,Atalanta BC,Hans Hateboer,Right-Back,FC Groningen,2016/2017,4.01937
+26.0,1.5,1.9326683,Cagliari Calcio,Matías Cabrera,midfield,Nacional,2012/2013,0.4326683
+22.0,17.8,7.5449677,Crystal Palace,Eberechi Eze,Attacking Midfield,QPR,2020/2021,-10.2550323
+26.0,8.8,5.5969853,Crystal Palace,James McArthur,Central Midfield,Wigan,2014/2015,-3.2030147000000007
+22.0,0.65,2.6082137,Gil Vicente FC,Gabriel Pereira,Centre-Back,Vilafranquense,2022/2023,1.9582137
+23.0,10.6,10.617846,AC Milan,Léo Duarte,Centre-Back,Flamengo,2019/2020,0.017846000000000473
+24.0,19.4,12.678594,Stoke City,Kevin Wimmer,Centre-Back,Spurs,2017/2018,-6.721405999999998
+25.0,5.0,3.287033,Villarreal CF,Tomás Pina,Central Midfield,RCD Mallorca,2013/2014,-1.712967
+22.0,20.0,5.1625376,FC Porto,David Carmo,Centre-Back,SC Braga,2022/2023,-14.8374624
+24.0,8.25,4.632358,FC Nantes,Anthony Limbombe,Left Winger,Club Brugge,2018/2019,-3.617642
+25.0,9.0,4.4635706,ACF Fiorentina,Josip Ilicic,Second Striker,US Palermo,2013/2014,-4.5364294
+31.0,1.5,3.570089,Anzhi Makhachkala ( -2022),Benoît Angbwa,Right-Back,KS Samara,2013/2014,2.070089
+24.0,1.9,2.1336071,Juventus FC,Vincenzo Fiorillo,Goalkeeper,Sampdoria,2014/2015,0.23360709999999996
+25.0,8.0,5.109169,RCD Espanyol Barcelona,César Montes,Centre-Back,Monterrey,2022/2023,-2.8908310000000004
+26.0,29.5,15.461914,AS Roma,Leonardo Spinazzola,Left-Back,Juventus,2019/2020,-14.038086
+25.0,1.0,2.4902527,UC Sampdoria,Abdelhamid Sabiri,Attacking Midfield,Ascoli,2022/2023,1.4902527
+25.0,0.2,3.0378428,AZ Alkmaar,Yves De Winter,Goalkeeper,De Graafschap,2012/2013,2.8378427999999998
+24.0,4.0,10.7408085,Liverpool FC,Oussama Assaidi,Left Winger,Heerenveen,2012/2013,6.7408085
+23.0,5.4,2.2888541,Anzhi Makhachkala ( -2022),Ewerton,Centre-Back,Coimbra-MG,2012/2013,-3.1111459000000004
+26.0,1.2,5.161058,Empoli FC,Omar El Kaddouri,Attacking Midfield,SSC Napoli,2016/2017,3.9610579999999995
+20.0,7.0,3.851099,FC Porto,Éder Militão,Centre-Back,São Paulo,2018/2019,-3.148901
+25.0,2.7,4.763491,RCD Espanyol Barcelona,Cristhian Stuani,Centre-Forward,Reggina,2012/2013,2.063491
+24.0,60.0,29.52026,Bayern Munich,Leroy Sané,Left Winger,Man City,2020/2021,-30.47974
+25.0,1.0,2.8074565,Nîmes Olympique,Haris Duljevic,Left Winger,Dynamo Dresden,2019/2020,1.8074564999999998
+26.0,0.5,2.128981,FC Sochi,Artem Meshchaninov,Centre-Back,Baltika,2022/2023,1.628981
+26.0,14.0,17.096277,Leicester City,Rachid Ghezzal,Right Winger,Monaco,2018/2019,3.0962770000000006
+21.0,2.65,0.81116027,FC Toulouse,Dominik Furman,Central Midfield,Legia Warszawa,2013/2014,-1.83883973
+32.0,2.0,1.96653,Genoa CFC,Felipe Caicedo,Centre-Forward,Lazio,2021/2022,-0.03347000000000011
+32.0,3.0,1.4474629,SD Huesca,Enric Gallego,Centre-Forward,Extremadura,2018/2019,-1.5525371
+22.0,0.35,2.2190013,RC Lens,Lukasz Poreba,Defensive Midfield,Zaglebie Lubin,2022/2023,1.8690012999999999
+23.0,2.0,2.23759,FC Lorient,Cafú,Central Midfield,Vit. Guimarães,2016/2017,0.23758999999999997
+27.0,0.2,1.8304273,FK Orenburg,Denis Popovic,Attacking Midfield,Wisla Kraków,2016/2017,1.6304273
+21.0,2.3,1.5625721,UC Sampdoria,Alessandro De Vitis,Defensive Midfield,Parma,2013/2014,-0.7374278999999999
+26.0,20.0,8.786241,Villarreal CF,Gerard Moreno,Centre-Forward,Espanyol,2018/2019,-11.213759
+19.0,0.21,3.6368191,Swansea City,Botti Biabi,Centre-Forward,Falkirk,2015/2016,3.4268191
+21.0,1.5,3.2960186,Empoli FC,Samuel Mraz,Centre-Forward,MSK Zilina,2018/2019,1.7960186
+26.0,3.0,2.7668304,TSG 1899 Hoffenheim,Eugen Polanski,Defensive Midfield,1.FSV Mainz 05,2012/2013,-0.2331696000000001
+27.0,1.9,2.0251427,TSG 1899 Hoffenheim,Pirmin Schwegler,Defensive Midfield,E. Frankfurt,2014/2015,0.12514270000000005
+19.0,15.5,12.5002575,Borussia Dortmund,Leonardo Balerdi,Centre-Back,Boca Juniors,2018/2019,-2.9997425
+23.0,40.0,35.611496,Manchester City,Ederson,Goalkeeper,Benfica,2017/2018,-4.3885039999999975
+22.0,6.0,3.3834453,Bologna FC 1909,Arthur Theate,Centre-Back,KV Oostende,2022/2023,-2.6165547
+20.0,0.05,4.132336,Chievo Verona,Gianluca Gaudino,Central Midfield,Bayern Munich,2017/2018,4.082336
+23.0,0.3,1.8223591,Chievo Verona,Raffaele Pucino,Right-Back,Sassuolo,2014/2015,1.5223590999999999
+23.0,3.0,5.4817343,FC Porto,Paulinho,Attacking Midfield,Portimonense,2018/2019,2.4817343000000003
+25.0,1.0,2.8852537,Real Betis Balompié,Francisco Portillo,Right Winger,Málaga CF,2015/2016,1.8852536999999998
+21.0,32.0,10.402202,AC Milan,Charles De Ketelaere,Attacking Midfield,Club Brugge,2022/2023,-21.597797999999997
+28.0,0.7,3.5119374,Dinamo Moscow,Toni Sunjic,Centre-Back,VfB Stuttgart,2017/2018,2.8119373999999997
+19.0,2.5,0.50693995,Udinese Calcio,Jádson,Central Midfield,Botafogo,2013/2014,-1.99306005
+28.0,4.0,4.7544727,VfB Stuttgart,Ron-Robert Zieler,Goalkeeper,Leicester,2017/2018,0.7544727
+29.0,3.5,8.850606,AS Saint-Étienne,Ryad Boudebouz,Attacking Midfield,Real Betis,2019/2020,5.350606000000001
+18.0,1.2,8.896139,AS Monaco,Lyle Foster,Centre-Forward,Orlando Pirates,2018/2019,7.696139
+30.0,1.0,7.014862,AC Milan,Fernando Torres,Centre-Forward,Chelsea,2014/2015,6.014862
+23.0,11.4,8.334375,Cardiff City,Josh Murphy,Left Winger,Norwich,2018/2019,-3.0656250000000007
+26.0,3.14,5.83134,ACF Fiorentina,Matías Fernández,Attacking Midfield,Sporting CP,2012/2013,2.69134
+28.0,1.5,6.4389668,Norwich City,Javier Garrido,Left-Back,Lazio,2013/2014,4.9389668
+28.0,1.0,2.6056583,Sporting CP,Douglas,Centre-Back,Trabzonspor,2016/2017,1.6056583
+24.0,1.0,0.47626516,Cagliari Calcio,Danilo Avelar,Left-Back,Karpaty,2013/2014,-0.5237348399999999
+18.0,0.61,0.4230222,Udinese Calcio,Clifford Aboagye,Central Midfield,Inter Allies,2013/2014,-0.18697779999999997
+23.0,44.7,16.139791,Liverpool FC,Diogo Jota,Left Winger,Wolves,2020/2021,-28.560209000000004
+28.0,1.0,2.976469,Torino FC,Guillermo Rodríguez,Centre-Back,Cesena,2012/2013,1.9764689999999998
+25.0,17.0,6.3239627,Real Sociedad,Asier Illarramendi,Defensive Midfield,Real Madrid,2015/2016,-10.6760373
+24.0,0.2,2.1425982,Girona FC,Jairo Izquierdo,Left-Back,Extremadura,2018/2019,1.9425982000000002
+30.0,4.0,12.070505,Leicester City,Jonny Evans,Centre-Back,West Brom,2018/2019,8.070505
+25.0,0.1,2.20577,RKC Waalwijk,Teddy Chevalier,Centre-Forward,Zulte Waregem,2012/2013,2.1057699999999997
+32.0,15.1,11.4338,Tottenham Hotspur,Fernando Llorente,Centre-Forward,Swansea,2017/2018,-3.6662
+21.0,6.5,10.127307,Huddersfield Town,Ramadan Sobhi,Left Winger,Stoke City,2018/2019,3.627307
+22.0,35.0,29.847353,Manchester United,Victor Lindelöf,Centre-Back,Benfica,2017/2018,-5.152647000000002
+29.0,10.0,2.563781,Stade Reims,Junya Ito,Right Winger,KRC Genk,2022/2023,-7.4362189999999995
+29.0,6.5,4.4433837,1. FC Köln,Sebastian Andersson,Centre-Forward,Union Berlin,2020/2021,-2.0566163
+22.0,0.25,2.7075891,Moreirense FC,Luiz Henrique,Attacking Midfield,Náutico,2019/2020,2.4575891
+28.0,0.4,3.392065,PSV Eindhoven,Eloy Room,Goalkeeper,Vitesse,2017/2018,2.992065
+27.0,0.8,2.207738,Dinamo Moscow,Abdul-Aziz Tetteh,Defensive Midfield,Lech Poznan,2017/2018,1.407738
+25.0,3.5,5.800292,AS Roma,Marquinho,Attacking Midfield,Fluminense,2012/2013,2.300292
+21.0,13.3,11.754641,Aston Villa,Ezri Konsa,Centre-Back,Brentford,2019/2020,-1.5453590000000013
+20.0,0.55,0.840563,FC Groningen,Alexander Sörloth,Centre-Forward,Rosenborg,2015/2016,0.2905629999999999
+29.0,20.0,14.929193,Borussia Dortmund,Axel Witsel,Defensive Midfield,TJ Tianhai,2018/2019,-5.070807
+21.0,3.5,7.239683,SC Braga,Galeno,Left Midfield,FC Porto,2019/2020,3.7396830000000003
+21.0,75.0,13.481651,SSC Napoli,Victor Osimhen,Centre-Forward,LOSC Lille,2020/2021,-61.518349
+19.0,0.25,7.7708774,SSC Napoli,Igor Lasicki,Centre-Back,Lubin II,2013/2014,7.5208774
+26.0,0.5,1.8092386,AZ Alkmaar,Stijn Wuytens,Centre-Back,Willem II,2015/2016,1.3092386
+28.0,5.0,8.723165,Villarreal CF,Gerónimo Rulli,Goalkeeper,Real Sociedad,2020/2021,3.723165
+27.0,23.6,16.511627,Inter Milan,Joaquín Correa,Second Striker,Lazio,2022/2023,-7.088373000000001
+24.0,6.82,10.5529585,Manchester City,Zack Steffen,Goalkeeper,Columbus Crew,2019/2020,3.7329585000000005
+21.0,1.1,3.2095773,Real Betis Balompié,Nosa Igiebor,Central Midfield,Hapoel Tel Aviv,2012/2013,2.1095772999999998
+23.0,6.0,15.4580345,West Ham United,Pedro Obiang,Central Midfield,Sampdoria,2015/2016,9.4580345
+20.0,8.0,7.119665,Everton FC,Henry Onyekuru,Left Winger,KAS Eupen,2017/2018,-0.8803349999999996
+32.0,3.5,0.4731005,Spartak Moscow,Aleksandr Samedov,Right Winger,Loko Moscow,2016/2017,-3.0268995
+24.0,1.8,1.8725003,SD Huesca,Javi Galán,Left-Back,Córdoba CF,2018/2019,0.07250029999999996
+25.0,0.215,2.1139057,FK Ufa,Vladislav Kamilov,Central Midfield,SKA Khabarovsk,2020/2021,1.8989057
+36.0,15.0,81.3155,Manchester United,Cristiano Ronaldo,Centre-Forward,Juventus,2021/2022,66.3155
+22.0,20.0,16.568394,Borussia Dortmund,Nico Schlotterbeck,Centre-Back,SC Freiburg,2022/2023,-3.4316059999999986
+22.0,7.22,5.6064215,FC Porto,Luis Díaz,Left Winger,Junior FC,2019/2020,-1.6135785
+27.0,10.0,4.9393344,Real Sociedad,Portu,Right Winger,Girona,2019/2020,-5.0606656
+21.0,5.5,3.5126834,PSV Eindhoven,Angeliño,Left-Back,Man City U23,2018/2019,-1.9873166000000002
+21.0,3.5,0.49444005,Twente Enschede FC,Hakim Ziyech,Attacking Midfield,Heerenveen,2014/2015,-3.00555995
+21.0,1.0,1.9900945,Spezia Calcio,Emil Kornvig,Central Midfield,Lyngby BK,2021/2022,0.9900945000000001
+21.0,2.0,4.5503597,FC Girondins Bordeaux,Jean Onana,Defensive Midfield,LOSC Lille,2021/2022,2.5503596999999996
+29.0,1.0,1.9727532,Celta de Vigo,Michael Krohn-Dehli,Central Midfield,Bröndby IF,2012/2013,0.9727532000000001
+22.0,1.0,5.187894,Sevilla FC,Diogo Figueiras,Right-Back,Paços Ferreira,2013/2014,4.187894
+27.0,15.0,13.492668,Atlético de Madrid,Geoffrey Kondogbia,Defensive Midfield,Valencia,2020/2021,-1.507332
+31.0,5.2,3.751158,Middlesbrough FC,Adlène Guédioura,Central Midfield,Watford,2016/2017,-1.448842
+23.0,5.3,5.5474043,ACF Fiorentina,Igor,Centre-Back,SPAL,2021/2022,0.24740430000000035
+25.0,3.5,3.9532423,Valencia CF,Lucas Orbán,Centre-Back,G. Bordeaux,2014/2015,0.4532422999999999
+19.0,10.0,4.416891,OGC Nice,Myziane Maolida,Left Winger,Olympique Lyon,2018/2019,-5.583109
+19.0,8.0,7.242199,Genoa CFC,Elia Petrelli,Centre-Forward,Juventus U23,2020/2021,-0.7578009999999997
+23.0,9.0,16.552866,Bayern Munich,Marc Roca,Defensive Midfield,Espanyol,2020/2021,7.552866000000002
+23.0,1.65,2.6657763,Vitória Guimarães SC,Sebastián Rincón,Right Winger,Tigre,2017/2018,1.0157763000000002
+27.0,0.8,1.9211873,Deportivo de La Coruña,Raúl Albentosa,Centre-Back,Derby,2016/2017,1.1211872999999999
+24.0,11.8,7.962332,Sunderland AFC,Wahbi Khazri,Centre-Forward,G. Bordeaux,2015/2016,-3.8376680000000007
+31.0,4.5,5.354993,AC Milan,Junior Messias,Right Winger,Crotone,2022/2023,0.8549930000000003
+25.0,0.5,4.4938684,Spartak Moscow,Jorrit Hendrix,Defensive Midfield,PSV Eindhoven,2020/2021,3.9938684
+28.0,4.5,8.20417,FK Krasnodar,Naldo,Centre-Back,Sporting CP,2016/2017,3.7041699999999995
+34.0,1.5,3.3542426,Villarreal CF,Javi Fuego,Defensive Midfield,Espanyol,2017/2018,1.8542426
+21.0,4.0,3.9693177,SS Lazio,Jordan Lukaku,Left-Back,KV Oostende,2016/2017,-0.03068230000000005
+22.0,2.0,2.439099,Hertha BSC,Lukas Klünter,Right-Back,1. FC Köln,2018/2019,0.43909900000000013
+23.0,5.0,5.0468698,CD Leganés,José Manuel Arnáiz,Left Winger,Barcelona B,2018/2019,0.04686979999999963
+23.0,0.6,1.0205864,PEC Zwolle,Xavier Mous,Goalkeeper,SC Cambuur,2019/2020,0.4205864
+22.0,0.575,4.0691266,Feyenoord Rotterdam,Mats Wieffer,Central Midfield,Excelsior,2022/2023,3.4941265999999995
+25.0,5.0,4.9909854,Stade Brestois 29,Steve Mounié,Centre-Forward,Huddersfield,2020/2021,-0.009014600000000428
+20.0,6.0,9.662816,FC Schalke 04,Hamza Mendyl,Left-Back,LOSC Lille,2018/2019,3.6628159999999994
+25.0,3.75,3.4547539,Sporting CP,Nuno Santos,Left Winger,Rio Ave FC,2020/2021,-0.29524609999999996
+24.0,1.1,1.5844749,FC Nantes,Lucas Lima,Left-Back,Arouca,2016/2017,0.48447489999999993
+25.0,8.5,2.1642199,FC Empoli,Guglielmo Vicario,Goalkeeper,Cagliari Calcio,2022/2023,-6.3357801
+23.0,2.35,2.1960561,Spartak Moscow,Georgiy Dzhikiya,Centre-Back,Amkar Perm,2016/2017,-0.15394390000000024
+30.0,9.5,7.313189,US Sassuolo,Vlad Chiriches,Centre-Back,SSC Napoli,2020/2021,-2.1868109999999996
+21.0,1.5,2.7797003,Spezia Calcio,Raimonds Krollis,Centre-Forward,Valmiera,2022/2023,1.2797003
+32.0,3.75,9.809652,Wolverhampton Wanderers,Craig Dawson,Centre-Back,West Ham,2022/2023,6.059652
+26.0,3.5,0.77635837,Udinese Calcio,Iván Piris,Right-Back,Maldonado,2015/2016,-2.72364163
+26.0,2.5,6.388945,AS Saint-Étienne,Gabriel Silva,Left-Back,Udinese Calcio,2017/2018,3.8889449999999997
+20.0,1.0,2.103894,Parma FC,Riccardo Casini,Defensive Midfield,Bologna U19,2012/2013,1.103894
+23.0,3.0,1.3801767,Udinese Calcio,Allan,Defensive Midfield,Granada CF,2014/2015,-1.6198233
+19.0,2.2,7.4041176,AS Monaco,Borja López,Centre-Back,Sporting Gijón,2013/2014,5.2041176
+25.0,16.9,8.804275,Burnley FC,Ben Gibson,Centre-Back,Middlesbrough,2018/2019,-8.095724999999998
+19.0,2.2,5.314455,Sevilla FC,Jairo Samperio,Left Winger,Racing,2013/2014,3.1144549999999995
+33.0,0.3,1.2533277,Torino FC,Etrit Berisha,Goalkeeper,SPAL,2022/2023,0.9533277
+28.0,12.5,12.899053,Sevilla FC,Luuk de Jong,Centre-Forward,PSV Eindhoven,2019/2020,0.3990530000000003
+19.0,2.0,4.814453,AS Roma,Gianluca Caprari,Second Striker,Pescara,2013/2014,2.8144530000000003
+23.0,0.4,1.2589327,FC Groningen,Daleho Irandust,Attacking Midfield,Häcken,2021/2022,0.8589326999999999
+27.0,3.0,3.289273,SC Braga,Cristian Borja,Left-Back,Sporting CP,2020/2021,0.2892730000000001
+20.0,1.6,3.2927182,Hellas Verona,Matteo Bianchetti,Centre-Back,Inter,2013/2014,1.6927181999999998
+24.0,23.5,10.97858,AS Roma,Pau López,Goalkeeper,Real Betis,2019/2020,-12.52142
+19.0,8.0,2.327969,Celta de Vigo,Fran Beltrán,Central Midfield,Rayo Vallecano,2018/2019,-5.6720310000000005
+22.0,5.0,6.328275,Watford FC,Maduka Okoye,Goalkeeper,Sparta R.,2021/2022,1.3282749999999997
+24.0,10.0,9.176327,Burnley FC,Josh Brownhill,Central Midfield,Bristol City,2019/2020,-0.8236729999999994
+20.0,0.25,0.81116027,Eintracht Braunschweig,Salim Khelifi,Right Midfield,Lausanne-Sport,2013/2014,0.56116027
+33.0,9.2,7.3222027,West Ham United,José Fonte,Centre-Back,Southampton,2016/2017,-1.8777972999999992
+24.0,0.05,1.908719,FK Ufa,Haris Handzic,Centre-Forward,B. Banja Luka,2014/2015,1.858719
+27.0,22.0,10.064655,Olympique Lyon,Thiago Mendes,Defensive Midfield,LOSC Lille,2019/2020,-11.935345
+24.0,0.05,2.3296094,Angers SCO,Elhadji Pape Diaw,Centre-Back,Korona Kielce,2018/2019,2.2796094
+21.0,16.7,8.470513,AS Monaco,Krépin Diatta,Right Winger,Club Brugge,2020/2021,-8.229486999999999
+20.0,7.0,2.5979302,Bologna FC 1909,Takehiro Tomiyasu,Right-Back,Sint-Truiden,2019/2020,-4.4020698
+28.0,0.6,2.6155813,FK Orenburg,Michal Duris,Centre-Forward,Viktoria Plzen,2016/2017,2.0155813
+21.0,6.5,8.487239,Sporting CP,Raphinha,Right Winger,Vit. Guimarães,2018/2019,1.9872390000000006
+21.0,2.0,11.481576,Wolverhampton Wanderers,Bendegúz Bolla,Right-Back,Fehérvár,2021/2022,9.481576
+24.0,1.5,5.8830423,SSC Napoli,Raffaele Maiello,Defensive Midfield,Crotone,2015/2016,4.3830423
+22.0,32.0,18.453703,Real Madrid,Álvaro Odriozola,Right-Back,Real Sociedad,2018/2019,-13.546297
+18.0,5.0,1.2296177,ESTAC Troyes,Metinho,Central Midfield,Fluminense,2021/2022,-3.7703823
+22.0,30.0,18.86005,Leicester City,Patson Daka,Centre-Forward,RB Salzburg,2021/2022,-11.139949999999999
+23.0,8.0,2.4203691,TSG 1899 Hoffenheim,Kasim Adams,Centre-Back,BSC Young Boys,2018/2019,-5.5796309
+29.0,1.2,1.5138048,SV Werder Bremen,Jérôme Gondorf,Central Midfield,Darmstadt 98,2017/2018,0.3138048
+24.0,0.9,15.449301,Atlético de Madrid,Nicolás Ibáñez,Centre-Forward,San Luis,2019/2020,14.549301
+23.0,75.0,37.45643,Liverpool FC,Darwin Núñez,Centre-Forward,Benfica,2022/2023,-37.54357
+25.0,0.4,1.0732343,Akhmat Grozny,Darko Todorovic,Right-Back,RB Salzburg,2022/2023,0.6732343
+29.0,1.5,2.2657294,Dijon FCO,Wesley Lautoa,Centre-Back,FC Lorient,2017/2018,0.7657294000000001
+24.0,1.0,3.3506792,Real Betis Balompié,Alin Tosca,Centre-Back,Steaua Bucharest,2016/2017,2.3506792
+19.0,4.0,0.44869858,Udinese Calcio,Lucas Evangelista,Central Midfield,São Paulo,2014/2015,-3.55130142
+22.0,1.0,1.6335932,AZ Alkmaar,Guus Hupperts,Right Winger,Roda JC,2014/2015,0.6335932
+28.0,4.5,6.9456487,LOSC Lille,Éder,Centre-Forward,Swansea,2016/2017,2.4456486999999996
+32.0,1.0,2.9599793,Atlético de Madrid,Cata Díaz,Centre-Back,Getafe,2012/2013,1.9599793
+23.0,19.1,10.947147,Sheffield United,Oliver McBurnie,Centre-Forward,Swansea,2019/2020,-8.152853000000002
+20.0,1.3,2.8561516,Hamburger SV,Luca Waldschmidt,Second Striker,E. Frankfurt,2016/2017,1.5561516
+22.0,0.05,3.2440047,Rubin Kazan,Ilya Samoshnikov,Left-Back,Torpedo Moscow,2019/2020,3.1940047000000003
+19.0,0.1,1.176823,Genoa CFC,Simone Tascone,Central Midfield,Ternana,2016/2017,1.0768229999999999
+23.0,0.9,2.8924139,SpVgg Greuther Fürth,Zoltán Stieber,Attacking Midfield,1.FSV Mainz 05,2012/2013,1.9924139000000003
+23.0,15.0,14.985203,Juventus FC,Rolando Mandragora,Defensive Midfield,Udinese Calcio,2020/2021,-0.014796999999999727
+26.0,25.0,12.392336,AS Monaco,João Moutinho,Central Midfield,FC Porto,2013/2014,-12.607664
+23.0,1.2,1.3274912,Torino FC,Salvador Ichazo,Goalkeeper,Danubio FC,2015/2016,0.12749120000000014
+17.0,10.0,9.521758,Inter Milan,Eddie Salcedo,Centre-Forward,Genoa,2019/2020,-0.47824199999999983
+27.0,28.2,9.055568,Crystal Palace,Mamadou Sakho,Centre-Back,Liverpool,2017/2018,-19.144432000000002
+23.0,3.4,10.61882,Aston Villa,Kortney Hause,Centre-Back,Wolves,2019/2020,7.218819999999999
+18.0,1.6,5.596882,Juventus FC,Andrés Tello,Central Midfield,Envigado,2015/2016,3.996882
+18.0,7.0,6.428955,Southampton FC,Juan Larios,Left-Back,Man City U21,2022/2023,-0.5710449999999998
+27.0,9.0,8.075607,AS Roma,Diego Perotti,Left Winger,Genoa,2016/2017,-0.9243930000000002
+29.0,0.1,2.3592808,Real Valladolid CF,Iván Sánchez,Right Winger,Birmingham,2022/2023,2.2592808
+26.0,3.0,5.6945114,Stade Rennais FC,Birger Meling,Left-Back,Nîmes Olympique,2021/2022,2.6945113999999997
+23.0,0.3,3.3160048,Vitória Guimarães SC,Denis Will Poha,Central Midfield,Stade Rennais,2020/2021,3.0160048
+21.0,8.0,8.690481,AC Milan,Yacine Adli,Attacking Midfield,G. Bordeaux,2021/2022,0.6904810000000001
+21.0,1.78,4.2602487,Juventus FC,Alberto Gallinetta,Goalkeeper,Parma,2013/2014,2.4802486999999998
+26.0,3.0,2.205451,FC Toulouse,Gen Shoji,Centre-Back,Kashima Antlers,2018/2019,-0.794549
+21.0,0.085,2.2018785,FK Rostov,Aleksandr Saplinov,Attacking Midfield,Baltika,2019/2020,2.1168785
+20.0,0.023,1.8993353,Krylya Sovetov Samara,Nikita Pershin,Defensive Midfield,Chertanovo,2021/2022,1.8763353
+24.0,0.4,3.1481347,Boavista FC,Yusupha Njie,Centre-Forward,FUS Rabat,2018/2019,2.7481347
+27.0,0.5,3.8703,Valenciennes FC,Anthony Le Tallec,Centre-Forward,AJ Auxerre,2012/2013,3.3703
+22.0,0.25,3.8480365,Angers SCO,Kevin Bemanga,Right Winger,Paris FC B,2020/2021,3.5980365
+21.0,1.1,9.22819,Manchester City,Ko Itakura,Defensive Midfield,Kawasaki Front.,2018/2019,8.12819
+21.0,34.0,29.206993,Manchester United,Memphis Depay,Centre-Forward,PSV Eindhoven,2015/2016,-4.793006999999999
+22.0,0.07,2.4203691,FK Orenburg,Andrea Chukanov,Attacking Midfield,Tyumen,2018/2019,2.3503691
+21.0,1.3,2.1640286,CSKA Moscow,Ilya Agapov,Centre-Back,Pari NN,2022/2023,0.8640285999999999
+21.0,1.0,4.172002,Dijon FCO,Alexandru Dobre,Left Winger,Bournemouth U21,2020/2021,3.172002
+25.0,1.5,1.9577271,SV Werder Bremen,Santiago García,Centre-Back,Rangers Talca,2014/2015,0.45772710000000005
+24.0,5.2,10.685721,Swansea City,Tom Carroll,Central Midfield,Spurs,2016/2017,5.485720999999999
+20.0,4.6,1.7120548,Málaga CF,Emanuel Cecchini,Central Midfield,Banfield,2017/2018,-2.8879452
+27.0,2.0,2.8949325,CSKA Moscow,Willyan Rocha,Centre-Back,Portimonense,2022/2023,0.8949324999999999
+20.0,16.0,9.2206545,RB Leipzig,Nordi Mukiele,Right-Back,Montpellier,2018/2019,-6.7793455
+21.0,20.0,9.337915,Valencia CF,André Gomes,Central Midfield,Benfica,2015/2016,-10.662085
+21.0,37.0,33.436993,Paris Saint-Germain,Thilo Kehrer,Centre-Back,FC Schalke 04,2018/2019,-3.563006999999999
+26.0,0.4,4.731504,Fulham FC,Elsad Zverotic,Defensive Midfield,BSC Young Boys,2013/2014,4.331504
+24.0,1.0,5.236512,Eintracht Frankfurt,Ajdin Hrustic,Central Midfield,FC Groningen,2020/2021,4.236512
+21.0,26.5,8.678055,AS Roma,Marash Kumbulla,Centre-Back,Hellas Verona,2021/2022,-17.821945
+22.0,2.0,3.1481347,Hertha BSC,Pascal Köpke,Centre-Forward,Erzgebirge Aue,2018/2019,1.1481347
+28.0,0.3,2.301691,FK Rostov,Denis Terentjev,Right-Back,Zenit S-Pb,2020/2021,2.001691
+22.0,0.1,1.8001916,SC Braga,Zé Carlos,Right-Back,Leixões,2020/2021,1.7001916
+24.0,2.0,3.0700622,Bologna FC 1909,Filip Helander,Centre-Back,Hellas Verona,2017/2018,1.0700622000000002
+21.0,6.8,6.3573647,Bayer 04 Leverkusen,Josip Drmic,Centre-Forward,1.FC Nuremberg,2014/2015,-0.44263530000000006
+20.0,3.5,3.711652,RCD Mallorca,Matthew Hoppe,Centre-Forward,FC Schalke 04,2021/2022,0.21165199999999995
+33.0,0.2,0.038529646,Willem II Tilburg,Robbin Ruiter,Goalkeeper,PSV Eindhoven,2020/2021,-0.161470354
+26.0,4.5,4.619111,AS Saint-Étienne,Mevlüt Erdinc,Centre-Forward,Stade Rennais,2013/2014,0.11911100000000019
+23.0,4.0,7.4337907,SS Lazio,Luis Alberto,Central Midfield,Liverpool,2016/2017,3.4337907000000003
+22.0,2.25,3.4882247,SV Werder Bremen,Luca Caldirola,Centre-Back,Inter,2013/2014,1.2382247
+23.0,0.025,2.6204612,Krylya Sovetov Samara,Roman Evgenjev,Centre-Back,Dynamo Moscow,2022/2023,2.5954612
+19.0,0.95,8.138774,Nottingham Forest,Brandon Aguilera,Attacking Midfield,LD Alajuelense,2022/2023,7.1887739999999996
+20.0,2.0,2.7379465,RC Strasbourg Alsace,Ibrahima Sissoko,Defensive Midfield,Stade Brestois,2018/2019,0.7379465000000001
+23.0,0.7,3.0142949,SC Freiburg,Philipp Zulechner,Centre-Forward,Grödig,2013/2014,2.3142949
+19.0,1.0,3.0519671,OGC Nice,Lucas Da Cunha,Left Winger,Stade Rennais,2020/2021,2.0519671
+25.0,24.0,17.132433,Inter Milan,Matías Vecino,Central Midfield,Fiorentina,2017/2018,-6.867567000000001
+19.0,0.1,2.2120826,FK Ufa,Kirill Folmer,Central Midfield,Spartak 2,2019/2020,2.1120826
+22.0,0.2,12.084671,Manchester City,Pablo Marí,Centre-Back,Gimnàstic,2016/2017,11.884671
+25.0,19.0,14.51323,Tottenham Hotspur,Mousa Dembélé,Central Midfield,Fulham,2012/2013,-4.48677
+24.0,1.2,2.2934835,FC Famalicão,Heriberto Tavares,Right Winger,Stade Brestois,2021/2022,1.0934834999999998
+24.0,2.0,4.0630856,1.FSV Mainz 05,Christian Clemens,Right Winger,FC Schalke 04,2016/2017,2.0630856
+26.0,4.5,5.528029,RCD Espanyol Barcelona,Edu Expósito,Central Midfield,SD Eibar,2022/2023,1.028029
+22.0,2.0,4.6543474,AS Nancy-Lorraine,Yohan Mollo,Right Winger,Granada CF,2012/2013,2.6543474
+29.0,4.5,2.7622306,SS Lazio,Marco Parolo,Central Midfield,Parma,2014/2015,-1.7377694
+19.0,2.0,2.9471016,Real Valladolid CF,Stiven Plaza,Centre-Forward,Independiente,2018/2019,0.9471015999999999
+18.0,0.058,0.97767216,Krylya Sovetov Samara,Artem Sokolov,Attacking Midfield,Khimki,2021/2022,0.91967216
+19.0,1.5,4.95173,VfB Stuttgart,Naouirou Ahamada,Defensive Midfield,Juventus U23,2021/2022,3.4517300000000004
+19.0,1.9,20.052546,Juventus FC,Mohamed Ihattaren,Attacking Midfield,PSV Eindhoven,2021/2022,18.152546
+27.0,3.0,2.8875458,Udinese Calcio,Bram Nuytinck,Centre-Back,RSC Anderlecht,2017/2018,-0.11245420000000017
+23.0,12.5,10.065395,SSC Napoli,Manolo Gabbiadini,Centre-Forward,Sampdoria,2014/2015,-2.4346049999999995
+28.0,3.0,4.969419,RC Strasbourg Alsace,Jean-Eudes Aholou,Defensive Midfield,Monaco,2022/2023,1.9694190000000003
+33.0,0.7,1.3233808,US Palermo,Alessandro Gazzi,Defensive Midfield,Torino,2016/2017,0.6233808000000001
+20.0,7.0,4.8234715,US Sassuolo,Pol Lirola,Right-Back,Juventus,2017/2018,-2.1765285
+20.0,12.0,15.595599,RB Leipzig,Hannes Wolf,Attacking Midfield,RB Salzburg,2019/2020,3.595599
+21.0,1.0,1.6859499,Parma FC,Francesco Finocchio,Right Midfield,Bologna,2013/2014,0.6859499
+20.0,2.7,3.453561,ACF Fiorentina,Rafal Wolski,Attacking Midfield,Legia Warszawa,2012/2013,0.7535609999999999
+19.0,0.5,2.6796172,SL Benfica,Hany Mukhtar,Attacking Midfield,Hertha BSC,2014/2015,2.1796172
+20.0,3.5,4.891689,VfL Wolfsburg,Micky van de Ven,Centre-Back,FC Volendam,2021/2022,1.3916890000000004
+21.0,1.8,1.5244035,FC Lorient,Jimmy Cabot,Right Midfield,Troyes,2015/2016,-0.2755965
+25.0,0.5,3.1333559,Chievo Verona,Alejandro Rodríguez,Centre-Forward,Cesena,2017/2018,2.6333559
+22.0,3.5,3.7039196,Udinese Calcio,Jean-Victor Makengo,Central Midfield,OGC Nice,2020/2021,0.20391959999999987
+20.0,11.0,8.624042,Bayer 04 Leverkusen,Jeremie Frimpong,Right-Back,Celtic,2020/2021,-2.3759580000000007
+26.0,2.5,2.2962105,SD Huesca,Serdar Gürler,Right Winger,Osmanlispor,2018/2019,-0.20378950000000007
+25.0,2.7,3.7483768,CD Leganés,Jonathan Silva,Left-Back,Sporting CP,2019/2020,1.0483767999999998
+23.0,7.0,5.045339,Genoa CFC,Francesco Cassata,Central Midfield,Sassuolo,2020/2021,-1.9546609999999998
+28.0,3.3,4.8536463,Hannover 96,Mevlüt Erdinc,Centre-Forward,Saint-Étienne,2015/2016,1.5536463000000005
+25.0,5.0,2.6537468,Granada CF,Luis Milla,Central Midfield,CD Tenerife,2020/2021,-2.3462532
+23.0,0.5,4.3428507,VfB Stuttgart,Erik Thommy,Left Midfield,FC Augsburg,2017/2018,3.8428506999999996
+23.0,1.75,9.3972,Real Madrid,Lucas Torró,Defensive Midfield,CA Osasuna,2018/2019,7.6472
+30.0,0.2,2.511624,Fortuna Düsseldorf,Stefan Reisinger,Centre-Forward,SC Freiburg,2012/2013,2.3116239999999997
+29.0,8.0,2.5769982,CA Osasuna,Ante Budimir,Centre-Forward,RCD Mallorca,2021/2022,-5.4230018
+24.0,5.0,2.0582507,Málaga CF,Keko Gontán,Right Winger,SD Eibar,2016/2017,-2.9417493
+23.0,1.2,3.3683221,FC Évian Thonon Gaillard,Daniel Wass,Central Midfield,Benfica,2012/2013,2.1683221
+24.0,8.0,2.9771502,FC Toulouse,Wesley Saïd,Left Winger,Dijon,2019/2020,-5.0228497999999995
+24.0,13.8,13.297227,Wolverhampton Wanderers,Leander Dendoncker,Defensive Midfield,RSC Anderlecht,2019/2020,-0.5027730000000012
+21.0,2.3,3.3168213,FK Rostov,Sardar Azmoun,Centre-Forward,Rubin Kazan,2016/2017,1.0168213000000002
+25.0,0.5,3.159616,Sporting CP,Luiz Phellype,Centre-Forward,Paços Ferreira,2018/2019,2.659616
+21.0,0.172,4.089385,FC Nizhniy Novgorod,Timur Suleymanov,Centre-Forward,Loko-Kazanka M.,2021/2022,3.917385
+28.0,8.5,5.99151,ACF Fiorentina,Antonin Barak,Attacking Midfield,Hellas Verona,2022/2023,-2.50849
+23.0,4.0,2.7411647,Málaga CF,Michael Santos,Centre-Forward,River Plate,2016/2017,-1.2588352999999999
+26.0,1.1,2.1924376,UC Sampdoria,Andrea Costa,Centre-Back,Reggina,2012/2013,1.0924375999999998
+24.0,11.0,12.5064,Sevilla FC,Óliver Torres,Central Midfield,FC Porto,2019/2020,1.5063999999999993
+25.0,4.2,4.584579,ACF Fiorentina,Nenad Tomović,Centre-Back,Genoa,2012/2013,0.38457899999999956
+23.0,0.2,2.1237898,US Salernitana 1919,Reda Boultam,Attacking Midfield,Triestina,2021/2022,1.9237898
+27.0,10.0,5.022,Stade Rennais FC,Alfred Gomis,Goalkeeper,Dijon,2020/2021,-4.978
+27.0,49.4,16.614828,Everton FC,Gylfi Sigurdsson,Attacking Midfield,Swansea,2017/2018,-32.785172
+19.0,18.8,12.505713,RB Leipzig,Josko Gvardiol,Centre-Back,Dinamo Zagreb,2021/2022,-6.294287000000001
+26.0,0.5,3.5514467,Vitória Guimarães SC,Paolo Hurtado,Attacking Midfield,Reading,2017/2018,3.0514467
+29.0,6.0,3.757716,Hamburger SV,Valon Behrami,Defensive Midfield,SSC Napoli,2014/2015,-2.242284
+25.0,2.0,4.1441197,Dijon FCO,Naïm Sliti,Left Winger,LOSC Lille,2018/2019,2.1441197
+20.0,38.0,27.174156,Paris Saint-Germain,Nuno Mendes,Left-Back,Sporting CP,2022/2023,-10.825844
+23.0,1.2,1.9723309,FC Metz,Fakhreddine Ben Youssef,Centre-Forward,CS Sfaxien,2014/2015,0.7723309
+26.0,4.0,2.2099931,Celta de Vigo,Javi Galán,Left-Back,SD Huesca,2021/2022,-1.7900068999999998
+19.0,0.5,1.207013,Parma FC,Mory Koné,Centre-Back,Le Mans FC,2013/2014,0.7070129999999999
+25.0,4.5,3.8503706,SL Benfica,Ljubomir Fejsa,Defensive Midfield,Olympiacos,2013/2014,-0.6496293999999998
+26.0,10.0,8.584943,Sevilla FC,Carlos Bacca,Centre-Forward,Club Brugge,2013/2014,-1.4150569999999991
+20.0,3.25,3.5490532,Feyenoord Rotterdam,Patrik Walemark,Right Winger,Häcken,2021/2022,0.2990531999999999
+26.0,22.0,12.593297,Southampton FC,Guido Carrillo,Centre-Forward,Monaco,2017/2018,-9.406703
+20.0,12.0,8.525087,Newcastle United,Chancel Mbemba,Centre-Back,RSC Anderlecht,2015/2016,-3.474913000000001
+25.0,1.6,4.480921,Torino FC,Gianluca Sansone,Centre-Forward,Sassuolo,2012/2013,2.8809210000000003
+23.0,17.0,18.800953,Leeds United,Tyler Adams,Defensive Midfield,RB Leipzig,2022/2023,1.8009529999999998
+20.0,1.0,2.87183,Feyenoord Rotterdam,Marcus Pedersen,Right-Back,Molde,2021/2022,1.87183
+31.0,0.35,0.89912957,SC Paderborn 07,Srdjan Lakic,Centre-Forward,1.FC K'lautern,2014/2015,0.5491295700000001
+25.0,2.0,5.43419,SC Freiburg,Chang-hoon Kwon,Right Winger,Dijon,2019/2020,3.43419
+29.0,1.0,2.091382,VfB Stuttgart,Karim Haggui,Centre-Back,Hannover 96,2013/2014,1.0913819999999999
+26.0,22.0,7.4176345,Valencia CF,Aymen Abdennour,Centre-Back,Monaco,2015/2016,-14.5823655
+33.0,8.0,7.1490645,West Ham United,Lukasz Fabianski,Goalkeeper,Swansea,2018/2019,-0.8509355000000003
+23.0,25.0,25.5638,Paris Saint-Germain,Jesé,Centre-Forward,Real Madrid,2016/2017,0.5638000000000005
+23.0,0.75,1.9560112,SC Braga,Lazar Rosic,Centre-Back,Vojvodina,2016/2017,1.2060112
+22.0,10.0,19.581465,Atlético de Madrid,Josuha Guilavogui,Defensive Midfield,Saint-Étienne,2013/2014,9.581465000000001
+24.0,6.32,14.938453,Newcastle United,Emmanuel Rivière,Centre-Forward,Monaco,2014/2015,8.618453
+24.0,12.8,15.906286,Leeds United,Jack Harrison,Left Winger,Man City,2021/2022,3.106285999999999
+20.0,1.0,1.7120548,SM Caen,Jan Repas,Central Midfield,NK Domzale,2017/2018,0.7120548
+19.0,8.25,5.368711,Ajax Amsterdam,Hassane Bandé,Left Winger,KV Mechelen,2018/2019,-2.8812889999999998
+21.0,8.0,6.84659,CSKA Moscow,Bruno Fuchs,Centre-Back,Internacional,2020/2021,-1.15341
+23.0,0.9,1.9560112,Genoa CFC,Anselmo,Defensive Midfield,Palmeiras,2012/2013,1.0560112
+20.0,20.0,10.078294,AS Monaco,Geoffrey Kondogbia,Defensive Midfield,Sevilla FC,2013/2014,-9.921706
+28.0,5.72,8.094629,Atalanta BC,Etrit Berisha,Goalkeeper,Lazio,2017/2018,2.3746289999999997
+24.0,0.05,1.908719,SC Paderborn 07,Viktor Maier,Centre-Forward,SV Lippstadt 08,2014/2015,1.858719
+24.0,57.37,55.857166,Manchester United,Lisandro Martínez,Centre-Back,Ajax,2022/2023,-1.512833999999998
+23.0,2.5,8.044132,ACF Fiorentina,Sebastián Cristóforo,Central Midfield,Sevilla FC,2017/2018,5.544131999999999
+24.0,3.0,7.634579,Juventus FC,Stefano Gori,Goalkeeper,AC Pisa,2020/2021,4.634579
+24.0,0.4,5.314962,Delfino Pescara 1936,Stefano Pettinari,Centre-Forward,AS Roma,2016/2017,4.914962
+20.0,0.001,3.7203374,Parma Calcio 1913,Abdou Diakhate,Central Midfield,Fiorentina U19,2018/2019,3.7193374
+22.0,0.25,1.9396061,SPAL,Lorenzo Dickmann,Right-Back,Novara,2019/2020,1.6896061
+20.0,8.5,10.779721,Bayern Munich,Joshua Kimmich,Defensive Midfield,VfB Stuttgart,2015/2016,2.2797210000000003
+19.0,0.3,2.0579581,FK Rostov,Nikolay Poyarkov,Left-Back,Loko-Kazanka M.,2019/2020,1.7579581
+28.0,11.0,5.7311816,Genoa CFC,Gianluca Lapadula,Centre-Forward,AC Milan,2018/2019,-5.2688184
+21.0,0.8,2.8471413,US Palermo,Manuel Arteaga,Centre-Forward,Zulia FC,2015/2016,2.0471413
+21.0,16.0,6.626372,Zenit St. Petersburg,Emanuel Mammana,Centre-Back,Olympique Lyon,2017/2018,-9.373628
+19.0,1.5,2.2013097,OGC Nice,Bassem Srarfi,Right Winger,Club Africain,2016/2017,0.7013096999999999
+25.0,1.2,4.568972,FC Toulouse,Tongo Doumbia,Defensive Midfield,Wolves,2014/2015,3.3689719999999994
+18.0,1.5,0.3837622,Udinese Calcio,Melker Hallberg,Central Midfield,Kalmar FF,2014/2015,-1.1162378
+28.0,11.7,9.149283,Fulham FC,Anthony Knockaert,Right Winger,Brighton,2020/2021,-2.550716999999999
+19.0,26.5,5.8280854,FC Schalke 04,Breel Embolo,Centre-Forward,FC Basel,2016/2017,-20.6719146
+23.0,40.0,7.0875134,Zenit St. Petersburg,Axel Witsel,Defensive Midfield,Benfica,2012/2013,-32.9124866
+20.0,0.012,4.0790234,FK Rostov,Aleksandr Dolgov,Centre-Forward,Loko-Kazanka M.,2019/2020,4.0670234
+28.0,21.2,16.670774,Atalanta BC,Luis Muriel,Centre-Forward,Sevilla FC,2019/2020,-4.529225999999998
+18.0,0.25,2.81947,AS Roma,Tomas Svedkauskas,Goalkeeper,Suduva,2012/2013,2.56947
+28.0,1.5,3.6792026,1.FSV Mainz 05,Dominik Kohr,Central Midfield,E. Frankfurt,2022/2023,2.1792026
+20.0,14.0,7.54033,Southampton FC,Gavin Bazunu,Goalkeeper,Man City U21,2022/2023,-6.45967
+22.0,39.0,27.181131,Chelsea FC,Michy Batshuayi,Centre-Forward,Marseille,2016/2017,-11.818869
+22.0,4.0,3.4936743,FC Lorient,Jordan Ayew,Centre-Forward,Marseille,2014/2015,-0.5063257000000001
+29.0,3.5,4.429189,Sevilla FC,Mariano,Right-Back,G. Bordeaux,2015/2016,0.929189
+24.0,0.75,2.1905966,VfB Stuttgart,Philip Heise,Left-Back,1.FC Heidenheim,2015/2016,1.4405966000000001
+25.0,0.9,1.5380663,Hellas Verona,Raphael Martinho,Left Midfield,Catania,2013/2014,0.6380663000000001
+22.0,0.55,3.2236025,FC Groningen,Género Zeefuik,Centre-Forward,PSV Eindhoven,2012/2013,2.6736025000000003
+21.0,5.0,6.673871,Real Betis Balompié,Dani Martín,Goalkeeper,Sporting Gijón,2019/2020,1.673871
+19.0,2.3,0.08089742,Udinese Calcio,Douglas Santos,Left-Back,Granada CF,2013/2014,-2.21910258
+20.0,15.25,4.6805186,Bayer 04 Leverkusen,Hakan Calhanoglu,Central Midfield,Hamburger SV,2014/2015,-10.5694814
+21.0,1.0,9.549545,SSC Napoli,Michael Folorunsho,Central Midfield,V. Francavilla,2019/2020,8.549545
+19.0,4.5,1.3089327,Udinese Calcio,Giuseppe Pezzella,Left-Back,US Palermo,2017/2018,-3.1910673000000003
+22.0,11.5,2.1970735,Spartak Moscow,Quincy Promes,Left Winger,Twente FC,2014/2015,-9.3029265
+31.0,1.5,5.629488,SSC Napoli,Emanuele Giaccherini,Left Midfield,Sunderland,2016/2017,4.129488
+22.0,0.25,2.7971385,Vitória Guimarães SC,Matheus Índio,Defensive Midfield,Trofense,2022/2023,2.5471385
+27.0,14.4,5.929592,AS Roma,Seydou Doumbia,Centre-Forward,CSKA Moscow,2014/2015,-8.470407999999999
+26.0,3.9,3.543945,Hellas Verona,Adrien Tamèze,Defensive Midfield,OGC Nice,2020/2021,-0.356055
+25.0,0.5,1.9560112,Terek Grozny,Odise Roshi,Right Winger,HNK Rijeka,2016/2017,1.4560112
+22.0,0.05,2.801214,Gil Vicente FC,Juan Manuel Boselli,Right Winger,Tondela,2022/2023,2.751214
+28.0,33.3,10.326364,AC Milan,Carlos Bacca,Centre-Forward,Sevilla FC,2015/2016,-22.973636
+26.0,9.5,7.2386365,Sevilla FC,Ganso,Attacking Midfield,São Paulo,2016/2017,-2.2613635
+22.0,86.0,29.94213,FC Barcelona,Frenkie de Jong,Central Midfield,Ajax,2019/2020,-56.05787
+20.0,1.5,6.2921753,Atalanta BC,Rubén Bentancourt,Centre-Forward,PSV U21,2013/2014,4.7921753
+20.0,10.0,5.9090977,Olympique Lyon,Pape Cheikh,Central Midfield,Celta de Vigo,2017/2018,-4.0909023
+23.0,1.25,3.4019842,Nîmes Olympique,Moussa Koné,Centre-Forward,Dynamo Dresden,2019/2020,2.1519842
+23.0,2.8,3.2186606,FC Toulouse,Christopher Jullien,Centre-Back,SC Freiburg,2016/2017,0.4186606000000004
+18.0,35.0,29.713343,Bayern Munich,Renato Sanches,Central Midfield,Benfica,2016/2017,-5.286657000000002
+20.0,8.0,20.901508,Liverpool FC,Luis Alberto,Central Midfield,Sevilla FC,2013/2014,12.901508
+23.0,6.0,3.8831565,PSV Eindhoven,Joey Veerman,Central Midfield,Heerenveen,2021/2022,-2.1168435
+23.0,0.5,1.8093182,UC Sampdoria,Mirko Eramo,Central Midfield,Crotone,2013/2014,1.3093182
+24.0,0.6,12.802389,Atalanta BC,Viktor Kovalenko,Attacking Midfield,Shakhtar D.,2020/2021,12.202389
+28.0,3.0,1.8109275,CD Leganés,Dimitrios Siovas,Centre-Back,Olympiacos,2017/2018,-1.1890725
+24.0,0.38,0.849621,Terek Grozny,Zaurbek Pliev,Left-Back,Kairat Almaty,2015/2016,0.46962099999999996
+28.0,2.5,4.6178536,Valencia CF,Dimitri Foulquier,Right-Back,Granada CF,2021/2022,2.1178536
+28.0,113.0,41.70577,Chelsea FC,Romelu Lukaku,Centre-Forward,Inter,2021/2022,-71.29423
+27.0,1.2,2.5108047,Celta de Vigo,Fabián Orellana,Right Winger,Granada CF,2012/2013,1.3108047
+25.0,1.28,4.460167,Vitória Guimarães SC,João Carlos Teixeira,Attacking Midfield,FC Porto,2018/2019,3.180167
+22.0,0.6,0.52589506,Twente Enschede FC,Kasper Kusk,Right Winger,Aalborg BK,2014/2015,-0.07410494000000001
+22.0,0.7,5.9380007,US Sassuolo,Andrea Meroni,Centre-Back,AC Pisa,2019/2020,5.2380007
+18.0,1.0,5.6943297,SV Werder Bremen,Romano Schmid,Attacking Midfield,RB Salzburg,2018/2019,4.6943297
+21.0,1.8,1.7029606,AZ Alkmaar,Alireza Jahanbakhsh,Right Winger,NEC Nijmegen,2015/2016,-0.09703940000000011
+26.0,0.5,1.7788928,Hellas Verona,Fabrizio Cacciatore,Right-Back,Sampdoria,2013/2014,1.2788928
+28.0,2.0,2.7943938,Dynamo Moscow,Nicolas Moumi Ngamaleu,Left Winger,BSC Young Boys,2022/2023,0.7943937999999999
+28.0,1.8,1.3304502,Cádiz CF,Jeremías Ledesma,Goalkeeper,Rosario Central,2021/2022,-0.4695498
+25.0,0.182,1.354627,Tom Tomsk,Pavel Nekhaychik,Left Winger,BATE Borisov,2013/2014,1.172627
+25.0,0.12,0.91481954,Roda JC Kerkrade,Ognjen Gnjatic,Defensive Midfield,Platanias,2016/2017,0.79481954
+24.0,1.5,2.6543565,Nîmes Olympique,Patrick Burner,Right-Back,OGC Nice,2020/2021,1.1543565
+23.0,0.285,1.2864002,SPAL 2013,Pa Konate,Left-Back,Malmö FF,2017/2018,1.0014002000000002
+22.0,0.3,2.910654,FK Rostov,Eldor Shomurodov,Centre-Forward,Bunyodkor,2017/2018,2.6106540000000003
+26.0,20.0,22.207798,RB Leipzig,Timo Werner,Centre-Forward,Chelsea,2022/2023,2.2077980000000004
+23.0,12.5,7.7837396,Borussia Mönchengladbach,Jannik Vestergaard,Centre-Back,Werder Bremen,2016/2017,-4.7162604
+20.0,0.8,2.6738293,US Lecce,Brayan Vera,Left-Back,Leones FC,2019/2020,1.8738293
+19.0,2.5,1.3135356,Hellas Verona,Matteo Cancellieri,Right Winger,Roma U19,2021/2022,-1.1864644
+25.0,0.2,4.0017715,SC Paderborn 07,Dennis Srbeny,Centre-Forward,Norwich,2019/2020,3.8017715
+26.0,4.9,8.302399,Swansea City,Franck Tabanou,Left-Back,Saint-Étienne,2015/2016,3.402398999999999
+22.0,0.135,2.9133964,VfL Bochum,Moritz Broschinski,Centre-Forward,B. Dortmund II,2022/2023,2.7783964
+25.0,0.25,2.1282418,FK Khimki,Lachezar Kotev,Defensive Midfield,Arda Kardzhali,2022/2023,1.8782418
+22.0,0.2,2.2190013,US Cremonese,Joshua Tenkorang,Central Midfield,Campobasso,2022/2023,2.0190012999999998
+23.0,1.0,2.3212419,Boavista FC,Ibrahima,Defensive Midfield,Moreirense,2022/2023,1.3212419
+23.0,10.5,4.2386527,SS Lazio,Denis Vavro,Centre-Back,FC Copenhagen,2019/2020,-6.2613473
+28.0,0.15,3.813688,1.FC Union Berlin,Dominique Heintz,Centre-Back,SC Freiburg,2021/2022,3.663688
+28.0,3.8,10.260153,Huddersfield Town,Laurent Depoitre,Centre-Forward,FC Porto,2017/2018,6.460153000000001
+26.0,0.7,2.5938976,FK Rostov,Miha Mevlja,Centre-Back,FC Dinamo,2016/2017,1.8938976
+18.0,1.9,2.1057138,Chelsea FC,Cristian Cuevas,Left-Back,O'Higgins,2013/2014,0.20571380000000028
+23.0,6.5,4.4915667,Chievo Verona,Alberto Paloschi,Centre-Forward,Genoa,2012/2013,-2.0084333
+24.0,12.0,6.785161,SPAL,Andrea Petagna,Centre-Forward,Atalanta BC,2019/2020,-5.214839
+23.0,2.5,2.9772542,VfB Stuttgart,Chris Führich,Right Winger,SC Paderborn,2021/2022,0.47725419999999996
+28.0,120.0,32.245995,FC Barcelona,Antoine Griezmann,Second Striker,Atlético Madrid,2019/2020,-87.754005
+24.0,1.0,2.458461,Delfino Pescara 1936,Ahmad Benali,Central Midfield,US Palermo,2016/2017,1.4584609999999998
+31.0,38.0,28.286863,Chelsea FC,Kalidou Koulibaly,Centre-Back,SSC Napoli,2022/2023,-9.713137
+23.0,2.0,1.3867766,FK Krasnodar,Aleksandr Filtsov,Goalkeeper,Loko Moscow,2013/2014,-0.6132234000000001
+24.0,1.2,2.7411647,CD Leganés,Mamadou Koné,Centre-Forward,Racing,2016/2017,1.5411647000000002
+22.0,2.0,3.0615194,LOSC Lille,Ibrahim Amadou,Defensive Midfield,AS Nancy,2015/2016,1.0615194
+22.0,0.7,1.9161164,Stade Reims,Thibault De Smet,Left-Back,Sint-Truiden,2020/2021,1.2161164
+20.0,0.5,0.6299202,FC Groningen,Mimoun Mahi,Centre-Forward,Sparta R.,2014/2015,0.12992020000000004
+18.0,0.59,6.2081275,SSC Napoli,Leandrinho,Left Winger,Ponte Preta,2016/2017,5.6181275
+24.0,4.0,2.3398306,Parma FC,Dorlan Pabón,Right Winger,Atl. Nacional,2012/2013,-1.6601694
+24.0,2.5,3.7476728,ESTAC Troyes,Rominigue Kouamé,Central Midfield,LOSC Lille,2021/2022,1.2476728000000001
+25.0,2.0,4.2988377,FC Empoli,Nicolas Haas,Central Midfield,Atalanta BC,2021/2022,2.2988377
+25.0,0.5,2.0944312,SC Heerenveen,Warner Hahn,Goalkeeper,Feyenoord,2017/2018,1.5944311999999998
+27.0,1.2,1.7008647,CA Osasuna,Miguel de las Cuevas,Right Winger,Sporting Gijón,2013/2014,0.5008646999999999
+25.0,8.0,9.308085,AC Milan,Kévin Constant,Central Midfield,Genoa,2012/2013,1.3080850000000002
+21.0,16.0,3.8151903,US Sassuolo,Hamed Junior Traorè,Attacking Midfield,FC Empoli,2021/2022,-12.1848097
+28.0,2.5,7.5080404,FC Augsburg,Florian Niederlechner,Centre-Forward,SC Freiburg,2019/2020,5.0080404
+20.0,0.3,0.053727377,Heracles Almelo,Iliass Bel Hassani,Attacking Midfield,Sparta R.,2013/2014,-0.246272623
+22.0,2.5,3.582293,Lokomotiv Moscow,Marko Rakonjac,Centre-Forward,Cukaricki,2022/2023,1.082293
+23.0,0.325,1.6364725,Willem II Tilburg,Leeroy Owusu,Right-Back,De Graafschap,2020/2021,1.3114725
+20.0,0.55,1.3404492,SC Heerenveen,Joey Veerman,Central Midfield,FC Volendam,2019/2020,0.7904491999999999
+20.0,1.5,3.1173449,Feyenoord Rotterdam,Renato Tapia,Defensive Midfield,Twente FC,2015/2016,1.6173449
+25.0,1.0,2.3712277,Dijon FCO,Alfred Gomis,Goalkeeper,SPAL,2019/2020,1.3712277
+21.0,1.0,4.7135634,Celta de Vigo,Julen Lobete,Centre-Forward,Real Sociedad B,2022/2023,3.7135634
+19.0,15.2,23.855066,Manchester City,Matija Nastasić,Centre-Back,Fiorentina,2012/2013,8.655066000000001
+20.0,25.0,8.273449,Zenit St. Petersburg,Yuri Alberto,Centre-Forward,Internacional,2021/2022,-16.726551
+28.0,8.0,4.288655,FK Krasnodar,Júnior Alonso,Centre-Back,Atlético-MG,2021/2022,-3.7113449999999997
+21.0,0.5,2.8242564,Spezia Calcio,Leandro Sanca,Right Winger,Braga B,2021/2022,2.3242564
+31.0,0.55,0.9330372,Vitesse Arnhem,Theo Janssen,Central Midfield,Ajax,2012/2013,0.38303719999999997
+29.0,40.0,15.078026,FC Barcelona,Paulinho,Central Midfield,GZ Evergrande,2017/2018,-24.921974
+22.0,0.5,2.6863437,FK Ufa,Vyacheslav Krotov,Centre-Forward,Spartak Moscow,2015/2016,2.1863437
+22.0,3.0,7.155447,Stoke City,Brek Shea,Left Midfield,Dallas,2012/2013,4.155447
+30.0,4.5,5.168639,Brighton & Hove Albion,Markus Suttner,Left-Back,FC Ingolstadt,2017/2018,0.6686389999999998
+21.0,0.4,1.3404492,PEC Zwolle,Sam Kersten,Centre-Back,FC Den Bosch,2019/2020,0.9404491999999999
+25.0,12.0,7.228874,Athletic Bilbao,Álex Berenguer,Right Winger,Torino,2020/2021,-4.771126
+28.0,12.5,13.756726,Bayer 04 Leverkusen,Sven Bender,Defensive Midfield,Bor. Dortmund,2017/2018,1.2567260000000005
+25.0,47.0,31.449154,Liverpool FC,Luis Díaz,Left Winger,FC Porto,2021/2022,-15.550846
+24.0,0.11,1.1843351,Rotor Volgograd,Igor Obukhov,Goalkeeper,SKA Khabarovsk,2020/2021,1.0743350999999999
+21.0,6.0,34.12669,Real Madrid,Casemiro,Defensive Midfield,São Paulo,2013/2014,28.126690000000004
+27.0,0.6,2.7986615,Getafe CF,Leandro Cabrera,Centre-Back,Crotone,2018/2019,2.1986615
+20.0,12.0,6.0028367,Olympique Marseille,Florian Thauvin,Right Winger,LOSC Lille,2013/2014,-5.9971633
+20.0,3.6,4.1197295,Hull City,Andrew Robertson,Left-Back,Dundee United,2014/2015,0.5197295
+21.0,0.5,2.6881328,FK Rostov,Ayaz Guliev,Central Midfield,Spartak 2,2018/2019,2.1881328
+31.0,3.75,19.786688,Manchester City,Maicon,Right-Back,Inter,2012/2013,16.036688
+21.0,5.0,4.5425153,1.FSV Mainz 05,Abdou Diallo,Centre-Back,Monaco,2017/2018,-0.4574847000000002
+25.0,3.3,1.345519,Terek Grozny,Ismail Aissati,Attacking Midfield,Antalyaspor,2013/2014,-1.954481
+26.0,5.6,6.568434,Swansea City,Leroy Fer,Defensive Midfield,QPR,2016/2017,0.9684340000000002
+23.0,2.73,3.0041559,US Salernitana 1919,Mikael,Centre-Forward,Sport Recife,2022/2023,0.27415590000000023
+21.0,0.5,0.53275806,Rayo Vallecano,Johan Mojica,Left-Back,Deportivo Cali,2014/2015,0.03275806000000003
+26.0,24.5,11.405632,Sevilla FC,Luis Muriel,Centre-Forward,Sampdoria,2017/2018,-13.094368
+27.0,0.5,2.827528,AS Nancy-Lorraine,Sergey Chernik,Goalkeeper,BATE Borisov,2016/2017,2.327528
+22.0,2.0,4.25479,Angers SCO,Baptiste Guillaume,Centre-Forward,LOSC Lille,2017/2018,2.25479
+23.0,3.0,2.4652925,FK Krasnodar,Kaio,Centre-Back,Santa Clara,2019/2020,-0.5347075000000001
+22.0,0.55,0.9901155,Twente Enschede FC,Torgeir Börven,Centre-Forward,Vålerenga,2013/2014,0.4401155
+22.0,3.2,13.213243,Eintracht Frankfurt,Haris Seferovic,Centre-Forward,Real Sociedad,2014/2015,10.013243
+25.0,2.1,1.7356888,FC Toulouse,Óscar Trejo,Attacking Midfield,Sporting Gijón,2013/2014,-0.36431120000000017
+25.0,1.5,3.6228387,RC Strasbourg Alsace,Idriss Saadi,Centre-Forward,Cardiff,2017/2018,2.1228387
+21.0,5.0,3.016496,OGC Nice,Wylan Cyprien,Central Midfield,Lens,2016/2017,-1.983504
+28.0,0.7,2.1912065,CA Osasuna,Jonás Ramalho,Centre-Back,Girona,2021/2022,1.4912064999999999
+22.0,6.5,2.0330303,US Salernitana 1919,Éderson,Central Midfield,Corinthians,2021/2022,-4.4669697
+23.0,32.0,36.582226,Real Madrid,Asier Illarramendi,Defensive Midfield,Real Sociedad,2013/2014,4.582225999999999
+21.0,18.0,25.141045,RB Leipzig,Ademola Lookman,Left Winger,Everton,2019/2020,7.141044999999998
+26.0,64.5,32.10114,Paris Saint-Germain,Edinson Cavani,Centre-Forward,SSC Napoli,2013/2014,-32.39886
+22.0,11.3,10.0499325,Newcastle United,Jacob Murphy,Right Winger,Norwich,2017/2018,-1.2500675
+22.0,3.0,3.3107128,Spezia Calcio,Dimitrios Nikolaou,Centre-Back,FC Empoli,2021/2022,0.3107128000000001
+20.0,0.7,3.4657805,Bologna FC 1909,Lassi Lappalainen,Left Winger,HJK Helsinki,2019/2020,2.7657805
+23.0,2.5,4.0536036,Rubin Kazan,In-beom Hwang,Central Midfield,Vancouver,2020/2021,1.5536035999999998
+22.0,32.0,7.25377,Olympique Marseille,Vitinha,Centre-Forward,SC Braga,2022/2023,-24.74623
+21.0,3.0,6.144671,SPAL,Igor,Centre-Back,RB Salzburg,2019/2020,3.1446709999999998
+22.0,0.35,1.5721785,PEC Zwolle,Clint Leemans,Central Midfield,VVV-Venlo,2018/2019,1.2221785
+18.0,0.25,4.1907835,Arsenal Tula,Lameck Banda,Right Winger,ZESCO United FC,2019/2020,3.9407835
+18.0,8.5,8.252891,Manchester City,Filip Stevanovic,Left Winger,Partizan,2020/2021,-0.24710900000000002
+29.0,0.5,4.5462856,SM Caen,Prince Oniangué,Defensive Midfield,Wolves,2018/2019,4.0462856
+25.0,0.3,2.2922103,SC Braga,Tiago Esgaio,Right-Back,B SAD,2021/2022,1.9922102999999998
+23.0,2.3,5.070507,SL Benfica,Guillermo Celis,Defensive Midfield,Junior FC,2016/2017,2.7705070000000003
+26.0,1.5,1.1006593,Stade Reims,Eliran Atar,Left Winger,M. Tel Aviv,2013/2014,-0.3993407
+21.0,4.0,6.384999,Stade Reims,Kaj Sierhuis,Centre-Forward,Ajax U21,2019/2020,2.3849989999999996
+19.0,3.0,17.084488,Bayern Munich,Fiete Arp,Centre-Forward,Hamburger SV,2019/2020,14.084488
+21.0,1.83,8.289978,Granada CF,Jhon Córdoba,Centre-Forward,Chiapas FC,2014/2015,6.4599779999999996
+20.0,1.5,5.2097473,FC Internazionale,Francesco Bardi,Goalkeeper,AS Livorno,2012/2013,3.7097473
+31.0,2.0,0.25322762,AC Cesena,Federico Agliardi,Goalkeeper,Bologna,2014/2015,-1.74677238
+20.0,9.0,4.9249377,VfB Stuttgart,Pablo Maffeo,Right-Back,Man City,2018/2019,-4.0750623
+19.0,7.5,2.2265255,Sporting CP,Ousmane Diomande,Centre-Back,FC Midtjylland,2022/2023,-5.2734745
+29.0,1.0,1.5758936,Cagliari Calcio,Gregory van der Wiel,Right-Back,Fenerbahce,2017/2018,0.5758935999999999
+25.0,0.75,2.2260303,SpVgg Greuther Fürth,Jeremy Dudziak,Attacking Midfield,Hamburger SV,2021/2022,1.4760303000000001
+29.0,1.5,2.8542383,Spezia Calcio,Jeroen Zoet,Goalkeeper,PSV Eindhoven,2020/2021,1.3542383
+27.0,15.0,7.4444976,Stade Rennais FC,Gaëtan Laborde,Centre-Forward,Montpellier,2021/2022,-7.5555024
+25.0,4.0,2.6989732,Bologna FC 1909,Michel Aebischer,Central Midfield,BSC Young Boys,2022/2023,-1.3010267999999998
+21.0,4.2,2.640041,Dynamo Moscow,Nicolás Marichal,Centre-Back,Nacional,2022/2023,-1.559959
+22.0,2.0,7.4031067,Stade Rennais FC,Romain Del Castillo,Right Winger,Olympique Lyon,2018/2019,5.4031067
+24.0,3.0,5.754701,AS Saint-Étienne,Léo Lacroix,Centre-Back,FC Sion,2016/2017,2.754701
+27.0,0.3,1.0563289,FC Groningen,Andraz Kirm,Central Midfield,Wisla Kraków,2012/2013,0.7563289
+21.0,60.0,45.30879,Manchester City,Erling Haaland,Centre-Forward,Bor. Dortmund,2022/2023,-14.691209999999998
+22.0,1.0,7.7109404,LOSC Lille,Junior Tallo,Centre-Forward,AS Roma,2015/2016,6.7109404
+21.0,0.75,1.6019927,AS Livorno,Saulo Decarli,Centre-Back,FC Chiasso,2013/2014,0.8519927
+21.0,0.6,3.4720337,Feyenoord Rotterdam,Harmeet Singh,Central Midfield,Vålerenga,2012/2013,2.8720337
+30.0,3.6,7.491033,Fulham FC,Bernd Leno,Goalkeeper,Arsenal,2022/2023,3.8910329999999997
+22.0,0.5,1.1871766,FC Metz,Ferjani Sassi,Central Midfield,CS Sfaxien,2014/2015,0.6871765999999999
+24.0,4.0,4.29526,Zenit St. Petersburg,Daler Kuzyaev,Central Midfield,Akhmat Grozny,2017/2018,0.29525999999999986
+29.0,12.0,7.4714265,Lokomotiv Moscow,Grzegorz Krychowiak,Defensive Midfield,Paris SG,2019/2020,-4.5285735
+20.0,1.5,5.5387926,AS Roma,Giammario Piscitella,Left Winger,Pescara,2013/2014,4.0387926
+29.0,0.6,0.8726799,FC Nantes,Oswaldo Vizcarrondo,Centre-Back,América,2013/2014,0.2726799
+27.0,11.9,5.99775,UC Sampdoria,Manolo Gabbiadini,Centre-Forward,Southampton,2018/2019,-5.90225
+21.0,0.4,4.646699,SL Benfica,Pedro Nuno,Left Winger,Coimbra,2016/2017,4.246699
+24.0,4.0,3.0041559,Hertha BSC,Wilfried Kanga,Centre-Forward,BSC Young Boys,2022/2023,-0.9958440999999998
+20.0,10.0,4.4860053,OGC Nice,Allan Saint-Maximin,Left Winger,Monaco,2017/2018,-5.5139947
+20.0,5.0,13.197279,Inter Milan,Federico Dimarco,Centre-Back,FC Sion,2018/2019,8.197279
+29.0,7.0,2.4734926,Dinamo Moscow,Mathieu Valbuena,Attacking Midfield,Marseille,2014/2015,-4.5265074
+27.0,0.25,1.7303338,Anzhi Makhachkala ( -2022),Ivan Maevskiy,Defensive Midfield,Zawisza,2015/2016,1.4803338
+25.0,4.0,3.7835646,SD Eibar,Paulo Oliveira,Centre-Back,Sporting CP,2017/2018,-0.21643539999999994
+18.0,3.0,1.0538183,Hamburger SV,Rick van Drongelen,Centre-Back,Sparta R.,2017/2018,-1.9461817
+23.0,0.5,2.6700077,Eintracht Frankfurt,Marius Wolf,Right Winger,Hannover 96,2018/2019,2.1700077
+26.0,10.5,10.673796,Queens Park Rangers,Loïc Rémy,Centre-Forward,Marseille,2012/2013,0.1737959999999994
+27.0,1.5,2.0234268,SD Eibar,Alejandro Gálvez,Centre-Back,Werder Bremen,2016/2017,0.5234268000000002
+22.0,20.0,11.458392,AC Milan,Mario Balotelli,Centre-Forward,Man City,2012/2013,-8.541608
+25.0,16.6,17.587084,Tottenham Hotspur,Pierre-Emile Höjbjerg,Central Midfield,Southampton,2020/2021,0.9870839999999994
+22.0,0.3,1.5617901,AC Cesena,Zé Eduardo,Defensive Midfield,Parma,2014/2015,1.2617901
+22.0,0.168,2.8074856,FK Rostov,Roman Tugarev,Left Winger,Loko Moscow,2020/2021,2.6394856
+18.0,1.7,4.688743,Watford FC,Ben Wilmot,Centre-Back,Stevenage,2018/2019,2.9887429999999995
+25.0,5.3,9.5870285,AC Milan,Giacomo Bonaventura,Central Midfield,Atalanta BC,2014/2015,4.287028500000001
+29.0,2.5,6.8391323,Huddersfield Town,Jonas Lössl,Goalkeeper,1.FSV Mainz 05,2018/2019,4.3391323
+25.0,2.5,3.21004,Amiens SC,Eddy Gnahoré,Central Midfield,Palermo,2019/2020,0.7100399999999998
+25.0,19.0,11.789185,AC Milan,Diego Laxalt,Left-Back,Genoa,2018/2019,-7.210815
+31.0,11.3,28.068249,Arsenal FC,Jorginho,Defensive Midfield,Chelsea,2022/2023,16.768249
+27.0,11.7,7.9050636,Ajax Amsterdam,Davy Klaassen,Attacking Midfield,Werder Bremen,2020/2021,-3.794936399999999
+27.0,6.0,6.765811,SL Benfica,Soualiho Meïté,Central Midfield,Torino,2021/2022,0.7658110000000002
+31.0,1.0,1.2300867,Cádiz CF,Rubén Alcaraz,Central Midfield,Real Valladolid,2022/2023,0.23008669999999998
+21.0,0.3,2.9529312,Villarreal CF,Aleksandar Pantic,Centre-Back,Red Star,2013/2014,2.6529312000000003
+31.0,0.75,5.578649,Spartak Moscow,João Carlos,Centre-Back,Anzhi,2013/2014,4.828649
+20.0,17.0,10.150895,AS Monaco,Myron Boadu,Centre-Forward,AZ Alkmaar,2021/2022,-6.849105
+21.0,3.5,2.4344773,RC Lens,Facundo Medina,Centre-Back,CA Talleres,2020/2021,-1.0655226999999998
+24.0,46.5,24.646723,Liverpool FC,Christian Benteke,Centre-Forward,Aston Villa,2015/2016,-21.853277
+30.0,2.0,5.2116265,Atalanta BC,Mauricio Pinilla,Centre-Forward,Genoa,2015/2016,3.2116265000000004
+27.0,6.7,8.600791,Swansea City,Éder,Centre-Forward,SC Braga,2015/2016,1.900790999999999
+19.0,1.0,5.796173,UC Sampdoria,Matteo Stoppa,Second Striker,Juventus,2020/2021,4.796173
+22.0,4.0,3.0997648,FC Lorient,Ibrahima Koné,Centre-Forward,Sarpsborg 08,2021/2022,-0.9002352
+24.0,0.25,1.7394419,Anzhi Makhachkala ( -2022),Bernard Berisha,Left Winger,KF Skënderbeu,2015/2016,1.4894419
+20.0,7.1,3.3431745,UC Sampdoria,Ronaldo Vieira,Central Midfield,Leeds,2018/2019,-3.7568254999999997
+26.0,35.0,20.87571,Real Madrid,Thibaut Courtois,Goalkeeper,Chelsea,2018/2019,-14.124289999999998
+25.0,4.0,3.7374406,Hellas Verona,Giangiacomo Magnani,Centre-Back,Sassuolo,2021/2022,-0.2625594000000002
+18.0,4.5,11.267155,AS Roma,Nicolò Zaniolo,Right Winger,Inter,2018/2019,6.767155000000001
+26.0,4.5,9.268379,SC Freiburg,Daniel-Kofi Kyereh,Attacking Midfield,FC St. Pauli,2022/2023,4.7683789999999995
+23.0,3.0,4.101504,FC Nantes,Lucas Evangelista,Central Midfield,Udinese Calcio,2018/2019,1.1015040000000003
+26.0,8.0,2.7101586,Spartak Moscow,Denis Glushakov,Central Midfield,Loko Moscow,2013/2014,-5.2898414
+23.0,5.0,7.517271,Real Sociedad,Juanmi,Left Winger,Southampton,2016/2017,2.517271
+31.0,0.6,3.6482673,Real Betis Balompié,Foued Kadir,Attacking Midfield,Marseille,2015/2016,3.0482673
+19.0,0.1,3.2170274,FC Augsburg,Arne Engels,Central Midfield,Club NXT,2022/2023,3.1170274
+21.0,1.83,5.3196087,Vitesse Arnhem,Nikolai Baden Frederiksen,Centre-Forward,Juventus U23,2021/2022,3.4896087
+18.0,0.06,1.6085576,1.FSV Mainz 05,Marin Sverko,Centre-Back,Karlsruhe U19,2016/2017,1.5485575999999999
+23.0,8.15,13.71643,Tottenham Hotspur,Nacer Chadli,Left Winger,Twente FC,2013/2014,5.56643
+19.0,8.0,3.1226752,PSV Eindhoven,Adam Maher,Defensive Midfield,AZ Alkmaar,2013/2014,-4.8773248
+24.0,1.8,2.3871248,Levante UD,Deyverson,Centre-Forward,Belenenses,2015/2016,0.5871248
+19.0,7.5,4.1622977,Bayer 04 Leverkusen,Jonathan Tah,Centre-Back,Hamburger SV,2015/2016,-3.3377023
+27.0,23.0,10.951107,Everton FC,Morgan Schneiderlin,Defensive Midfield,Man Utd,2016/2017,-12.048893
+31.0,4.5,5.525209,VfL Wolfsburg,Dante,Centre-Back,Bayern Munich,2015/2016,1.0252090000000003
+21.0,21.0,16.960133,AS Roma,Amadou Diawara,Defensive Midfield,SSC Napoli,2019/2020,-4.039867000000001
+28.0,20.0,15.080544,West Ham United,Andriy Yarmolenko,Right Winger,Bor. Dortmund,2018/2019,-4.919456
+21.0,20.0,11.653693,Nottingham Forest,Neco Williams,Right-Back,Liverpool,2022/2023,-8.346307
+23.0,3.2,5.954023,Sevilla FC,Vitolo,Left Winger,UD Las Palmas,2013/2014,2.754023
+21.0,0.3,2.7697773,FC Sochi,Moussa Sissako,Centre-Back,Standard Liège,2022/2023,2.4697773
+23.0,5.7,2.8434052,Deportivo de La Coruña,Florin Andone,Centre-Forward,Córdoba CF,2016/2017,-2.8565948000000003
+22.0,0.35,2.5079257,PEC Zwolle,Kenneth Paal,Left-Back,PSV Eindhoven,2019/2020,2.1579257
+34.0,0.5,1.7597352,Bologna FC 1909,Sergio Floccari,Centre-Forward,Sassuolo,2015/2016,1.2597352
+16.0,2.8,25.84238,Chelsea FC,Ethan Ampadu,Centre-Back,Exeter City,2017/2018,23.042379999999998
+22.0,1.0,1.923011,CF Os Belenenses,Deyverson,Centre-Forward,Benfica B,2013/2014,0.923011
+25.0,9.0,4.4840927,LOSC Lille,Thiago Mendes,Defensive Midfield,São Paulo,2017/2018,-4.5159073
+23.0,2.5,6.3080196,SL Benfica,Jhonder Cádiz,Centre-Forward,Vitória Setúbal,2019/2020,3.8080195999999997
+20.0,1.25,3.6989107,FC Toulouse,Aaron Leya Iseka,Centre-Forward,RSC Anderlecht,2018/2019,2.4489107
+23.0,1.5,1.5380663,Chievo Verona,Dejan Lazarevic,Right Winger,Genoa,2013/2014,0.03806630000000011
+22.0,8.0,9.698008,Borussia Mönchengladbach,Thorgan Hazard,Left Winger,Chelsea,2015/2016,1.6980079999999997
+19.0,13.0,9.232962,Southampton FC,Sékou Mara,Centre-Forward,G. Bordeaux,2022/2023,-3.7670379999999994
+22.0,0.7,0.56421345,US Palermo,Achraf Lazaar,Left-Back,Varese,2014/2015,-0.13578654999999995
+26.0,1.7,7.651412,Swansea City,Marvin Emnes,Centre-Forward,Middlesbrough,2014/2015,5.9514119999999995
+27.0,2.0,2.7986615,SPAL,Bartosz Salamon,Centre-Back,Cagliari Calcio,2018/2019,0.7986615000000001
+29.0,4.0,8.984468,SL Benfica,Lima,Centre-Forward,SC Braga,2012/2013,4.984468
+26.0,87.0,53.19655,Manchester United,Harry Maguire,Centre-Back,Leicester,2019/2020,-33.80345
+19.0,27.0,16.547754,Tottenham Hotspur,Ryan Sessegnon,Left Midfield,Fulham,2019/2020,-10.452245999999999
+25.0,1.9,3.3613799,Stade Rennais FC,Philipp Hosiner,Centre-Forward,Austria Vienna,2014/2015,1.4613799000000003
+22.0,5.0,3.7122579,TSG 1899 Hoffenheim,Ozan Kabak,Centre-Back,FC Schalke 04,2022/2023,-1.2877421
+28.0,0.5,4.8050694,Olympique Marseille,Samuel Gigot,Centre-Back,Spartak Moscow,2021/2022,4.3050694
+27.0,3.8,8.269335,Aston Villa,Ron Vlaar,Centre-Back,Feyenoord,2012/2013,4.469335
+20.0,2.5,6.639683,Newcastle United,Massadio Haidara,Left-Back,AS Nancy,2012/2013,4.139683
+26.0,0.115,1.4388567,FC Sochi,Artem Makarchuk,Left-Back,Baltika,2021/2022,1.3238567
+20.0,18.5,9.310242,Newcastle United,Aleksandar Mitrović,Centre-Forward,RSC Anderlecht,2015/2016,-9.189758
+24.0,3.3,2.7019491,Udinese Calcio,William Troost-Ekong,Centre-Back,Bursaspor,2018/2019,-0.5980508999999996
+29.0,4.58,7.114712,Parma Calcio 1913,Luigi Sepe,Goalkeeper,SSC Napoli,2020/2021,2.534712
+22.0,3.0,1.9359902,FK Rostov,Daniil Utkin,Central Midfield,Krasnodar,2022/2023,-1.0640098
+30.0,0.15,1.0270652,Fortuna Sittard,Ben Rienstra,Central Midfield,Kayserispor,2020/2021,0.8770652
+24.0,4.0,5.0212846,FC Augsburg,Carlos Gruezo,Defensive Midfield,Dallas,2019/2020,1.0212846000000004
+25.0,42.95,23.26633,West Ham United,Lucas Paquetá,Attacking Midfield,Olympique Lyon,2022/2023,-19.683670000000003
+26.0,22.5,16.102085,Everton FC,Cenk Tosun,Centre-Forward,Besiktas,2017/2018,-6.397915000000001
+27.0,0.1,3.0696743,Elche CF,Emiliano Rigoni,Right Winger,Zenit S-Pb,2020/2021,2.9696743
+24.0,3.0,2.6126783,FC Sochi,Elmir Nabiullin,Left-Back,Zenit S-Pb,2019/2020,-0.3873217000000002
+23.0,0.32,6.1974077,Ajax Amsterdam,Tobias Sana,Left Winger,IFK Göteborg,2012/2013,5.8774077
+21.0,7.0,2.6909826,OGC Nice,Jordan Lotomba,Right-Back,BSC Young Boys,2020/2021,-4.3090174
+23.0,30.0,68.14251,Real Madrid,Álvaro Morata,Centre-Forward,Juventus,2016/2017,38.14251
+27.0,0.3,2.463225,Hellas Verona,Davide Faraoni,Right-Back,Crotone,2019/2020,2.163225
+32.0,2.5,4.3498898,Torino FC,Cristian Ansaldi,Left-Back,Inter,2019/2020,1.8498897999999997
+29.0,2.0,1.9648982,FC Nantes,Nicolas Pallois,Centre-Back,G. Bordeaux,2017/2018,-0.03510180000000007
+19.0,1.2,0.86274284,TSG 1899 Hoffenheim,Filip Malbasic,Right Winger,Rad,2012/2013,-0.33725715999999994
+22.0,4.0,6.649643,Valencia CF,Hugo Duro,Centre-Forward,Getafe,2022/2023,2.649643
+35.0,1.0,1.3707482,SPAL 2013,Marco Borriello,Centre-Forward,Cagliari Calcio,2017/2018,0.37074819999999997
+17.0,2.5,2.412847,VfB Stuttgart,Roberto Massimo,Right Midfield,Bielefeld U19,2018/2019,-0.08715299999999981
+19.0,30.0,24.439257,Chelsea FC,Malo Gusto,Right-Back,Olympique Lyon,2022/2023,-5.560742999999999
+32.0,0.08,0.16110772,UD Almería,Diego Mariño,Goalkeeper,Sporting Gijón,2022/2023,0.08110772000000001
+26.0,3.5,9.262752,Valencia CF,Fernando Gago,Defensive Midfield,Real Madrid,2012/2013,5.762752000000001
+26.0,27.5,24.315102,Paris Saint-Germain,Grzegorz Krychowiak,Defensive Midfield,Sevilla FC,2016/2017,-3.1848980000000005
+26.0,2.5,1.8262807,Montpellier HSC,Benjamin Lecomte,Goalkeeper,FC Lorient,2017/2018,-0.6737192999999999
+25.0,2.5,2.1163816,PSV Eindhoven,Przemyslaw Tyton,Goalkeeper,Roda JC,2012/2013,-0.3836184
+35.0,0.1,0.50508595,AC Cesena,Franco Brienza,Attacking Midfield,Atalanta BC,2014/2015,0.40508595000000003
+25.0,0.3,2.0582507,Levante UD,Xavi Torres,Defensive Midfield,Málaga CF,2012/2013,1.7582506999999998
+23.0,5.0,2.4072838,FC Lorient,Alain Traoré,Attacking Midfield,AJ Auxerre,2012/2013,-2.5927162
+27.0,8.0,3.2448761,TSG 1899 Hoffenheim,Havard Nordtveit,Centre-Back,West Ham,2017/2018,-4.7551239
+27.0,1.7,2.8085814,CA Osasuna,Sergio León,Centre-Forward,Elche CF,2016/2017,1.1085814
+27.0,15.0,27.724094,Manchester United,Alex Telles,Left-Back,FC Porto,2020/2021,12.724094000000001
+20.0,5.5,1.7750224,US Palermo,Andrea Belotti,Centre-Forward,UC AlbinoLeffe,2014/2015,-3.7249776
+21.0,3.0,26.954676,Chelsea FC,Christian Atsu,Left Winger,FC Porto,2013/2014,23.954676
+20.0,7.0,3.5991306,FC Porto,Diego Reyes,Centre-Back,América,2013/2014,-3.4008694
+24.0,1.6,1.0438415,Parma FC,Andrea Rossini,Goalkeeper,Cesena,2014/2015,-0.5561585
+21.0,1.6,9.85542,West Ham United,Frederik Alves,Centre-Back,Silkeborg IF,2020/2021,8.25542
+20.0,1.5,1.3413591,Hannover 96,Marius Wolf,Right Winger,1860 Munich,2015/2016,-0.15864089999999997
+28.0,1.0,1.243112,FC Metz,Sergey Krivets,Attacking Midfield,BATE Borisov,2014/2015,0.243112
+23.0,1.0,0.5785062,FC Toulouse,François Moubandje,Left-Back,Servette FC,2013/2014,-0.42149380000000003
+22.0,1.0,1.1286803,Granada CF,Rui Silva,Goalkeeper,Nacional,2016/2017,0.12868030000000008
+32.0,1.8,4.4448557,Hellas Verona,Nikola Kalinic,Centre-Forward,Atlético Madrid,2020/2021,2.6448557
+25.0,0.5,2.015444,SM Caen,Baissama Sankoh,Defensive Midfield,Guingamp,2017/2018,1.515444
+23.0,0.4,2.2190013,Torpedo Moscow,Mario Curic,Defensive Midfield,HNK Sibenik,2022/2023,1.8190013
+28.0,6.0,6.1440487,FC Internazionale,Matías Silvestre,Centre-Back,US Palermo,2013/2014,0.14404869999999992
+20.0,15.75,28.552605,Ajax Amsterdam,Antony,Right Winger,São Paulo,2020/2021,12.802605
+21.0,7.5,6.373767,Villarreal CF,Javi Ontiveros,Left Winger,Málaga CF,2019/2020,-1.126233
+24.0,3.0,4.397186,US Sassuolo,Abdou Harroui,Central Midfield,Sparta R.,2022/2023,1.3971859999999996
+19.0,6.0,2.6893535,Bologna FC 1909,Andreas Skov Olsen,Right Midfield,Nordsjaelland,2019/2020,-3.3106465
+24.0,13.0,15.482954,Leeds United,Robin Koch,Centre-Back,SC Freiburg,2020/2021,2.4829539999999994
+22.0,2.0,1.8207704,FC Toulouse,Martin Braithwaite,Centre-Forward,Esbjerg fB,2013/2014,-0.1792296
+21.0,7.0,2.8440487,Lokomotiv Moscow,Konstantin Maradishvili,Defensive Midfield,CSKA Moscow,2021/2022,-4.1559513
+23.0,3.75,5.5866055,Aston Villa,Matthew Lowton,Right-Back,Sheff Utd,2012/2013,1.8366055000000001
+25.0,9.1,6.4067445,Huddersfield Town,Tom Ince,Right Winger,Derby,2017/2018,-2.6932554999999994
+26.0,3.2,2.1924376,UC Sampdoria,Renan,Defensive Midfield,CFR Cluj,2012/2013,-1.0075624000000003
+21.0,2.2,4.3254786,1.FSV Mainz 05,Jairo Samperio,Left Winger,Sevilla FC,2014/2015,2.1254786
+24.0,30.0,11.060796,Valencia CF,Rodrigo,Second Striker,Benfica,2015/2016,-18.939204
+24.0,2.87,2.1247382,Sporting CP,Cristiano Piccini,Right-Back,Real Betis,2017/2018,-0.7452618000000002
+19.0,1.18,6.466871,Crystal Palace,Luke Plange,Centre-Forward,Derby,2021/2022,5.2868710000000005
+24.0,1.5,3.6568632,Spartak Moscow,Aleksandr Tashaev,Right Winger,Dinamo Moscow,2018/2019,2.1568632
+20.0,7.75,2.7560503,Torino FC,Lyanco,Centre-Back,São Paulo,2017/2018,-4.9939497
+21.0,0.5,2.2115264,1.FC Nuremberg,Muhammed Ildiz,Central Midfield,Rapid Vienna,2012/2013,1.7115264
+27.0,10.5,7.7001343,Real Betis Balompié,Marc Bartra,Centre-Back,Bor. Dortmund,2017/2018,-2.7998657
+23.0,65.0,32.54853,Manchester City,Aymeric Laporte,Centre-Back,Athletic,2017/2018,-32.45147
+24.0,76.0,16.027878,Juventus FC,Arthur,Defensive Midfield,Barcelona,2020/2021,-59.972122
+19.0,8.0,5.047875,AS Monaco,Tiemoué Bakayoko,Defensive Midfield,Stade Rennais,2014/2015,-2.9521249999999997
+20.0,3.0,3.8386278,Spartak Moscow,Daniil Khlusevich,Right Midfield,Arsenal Tula,2021/2022,0.8386277999999998
+23.0,0.8,1.9931823,SC Heerenveen,Jukka Raitala,Left-Back,TSG Hoffenheim,2012/2013,1.1931823
+22.0,1.6,2.4203691,Dijon FCO,Nayef Aguerd,Centre-Back,FUS Rabat,2018/2019,0.8203690999999997
+21.0,0.5,7.4682713,Atalanta BC,Gaetano Monachello,Centre-Forward,Monaco,2015/2016,6.9682713
+22.0,0.16,1.5269834,VVV-Venlo,Kristopher Da Graca,Centre-Back,IFK Göteborg,2020/2021,1.3669834
+25.0,4.0,10.602811,Arsenal FC,David Ospina,Goalkeeper,OGC Nice,2014/2015,6.602811000000001
+29.0,3.3,3.1607976,SD Eibar,Quique González,Centre-Forward,Dep. La Coruña,2019/2020,-0.13920239999999984
+24.0,6.5,4.7518053,Torino FC,Antonio Sanabria,Centre-Forward,Real Betis,2020/2021,-1.7481947
+25.0,6.5,6.694116,West Bromwich Albion,Matt Phillips,Right Winger,QPR,2016/2017,0.19411600000000018
+28.0,4.0,10.015384,Eintracht Frankfurt,Sebastian Rode,Central Midfield,Bor. Dortmund,2019/2020,6.015383999999999
+20.0,1.0,2.733497,FK Rostov,Magnus Knudsen,Central Midfield,Lillestrøm,2021/2022,1.7334969999999998
+18.0,1.25,5.4495397,Borussia Mönchengladbach,Julio Villalba,Centre-Forward,Cerro Porteño,2016/2017,4.1995397
+31.0,0.35,0.38995898,SC Freiburg,Sascha Riether,Right-Back,Fulham,2014/2015,0.03995898000000003
+24.0,3.5,3.9044352,Hellas Verona,Mariusz Stepinski,Centre-Forward,Chievo Verona,2019/2020,0.4044352
+30.0,0.8,1.0835558,Torino FC,Cesare Bovo,Centre-Back,Genoa,2013/2014,0.2835558
+25.0,0.64,4.063541,Stade Rennais FC,Kermit Erasmus,Centre-Forward,Orlando Pirates,2015/2016,3.4235409999999997
+24.0,3.65,2.0582507,AC Siena,Luís Neto,Centre-Back,Nacional,2012/2013,-1.5917493
+25.0,0.5,12.86983,Eintracht Frankfurt,Vadim Demidov,Centre-Back,Real Sociedad,2012/2013,12.36983
+19.0,60.0,45.197933,Manchester United,Anthony Martial,Centre-Forward,Monaco,2015/2016,-14.802067000000001
+17.0,20.0,8.58957,Bayern Munich,Mathys Tel,Centre-Forward,Stade Rennais,2022/2023,-11.41043
+20.0,32.0,20.058685,Chelsea FC,Oscar,Attacking Midfield,Internacional,2012/2013,-11.941315
+21.0,0.75,3.3408566,FC Utrecht,Sébastien Haller,Centre-Forward,AJ Auxerre,2015/2016,2.5908566
+31.0,1.0,0.12355402,Krylya Sovetov Samara,Benoît Angbwa,Right-Back,Rostov,2012/2013,-0.87644598
+22.0,0.165,4.521665,SS Lazio,Andreas Karo,Centre-Back,Apol. Limassol,2019/2020,4.356665
+33.0,2.3,4.4882154,Burnley FC,Jonathan Walters,Right Winger,Stoke City,2017/2018,2.1882154
+29.0,0.25,5.1607437,SM Caen,Malik Tchokounté,Centre-Forward,Paris FC,2018/2019,4.9107437
+22.0,67.0,70.539734,Bayern Munich,Matthijs de Ligt,Centre-Back,Juventus,2022/2023,3.5397339999999957
+25.0,2.5,4.7626452,Hertha BSC,Julian Schieber,Centre-Forward,Bor. Dortmund,2014/2015,2.2626451999999997
+23.0,0.1,2.297953,NAC Breda,Menno Koch,Centre-Back,PSV Eindhoven,2017/2018,2.197953
+23.0,18.0,11.983984,Swansea City,Borja Bastón,Centre-Forward,Atlético Madrid,2016/2017,-6.0160160000000005
+20.0,3.15,5.6417165,Southampton FC,Paulo Gazzaniga,Goalkeeper,Gillingham FC,2012/2013,2.4917165000000003
+20.0,25.0,10.408967,Southampton FC,Kamaldeen Sulemana,Left Winger,Rennes,2022/2023,-14.591033
+20.0,3.15,4.8618107,AS Roma,Ismail H'Maidat,Central Midfield,Brescia,2015/2016,1.7118107000000005
+33.0,1.0,0.5071522,Ajax Amsterdam,Diederik Boer,Goalkeeper,PEC Zwolle,2014/2015,-0.49284779999999995
+25.0,15.4,10.357292,Hull City,Ryan Mason,Central Midfield,Spurs,2016/2017,-5.042708000000001
+21.0,1.5,2.8946388,Nîmes Olympique,Yassine Benrahou,Attacking Midfield,G. Bordeaux,2020/2021,1.3946388
+23.0,8.0,15.144773,Chelsea FC,Marko Marin,Attacking Midfield,Werder Bremen,2012/2013,7.144773000000001
+21.0,2.5,1.1173841,Málaga CF,Federico Ricca,Left-Back,Danubio FC,2015/2016,-1.3826159
+21.0,3.2,3.1482148,AS Saint-Étienne,Ole Selnaes,Defensive Midfield,Rosenborg,2015/2016,-0.05178520000000031
+28.0,3.5,2.2990685,Málaga CF,Nordin Amrabat,Right Winger,Galatasaray,2015/2016,-1.2009314999999998
+20.0,3.5,1.8223149,Sporting CP,Bruno Paulista,Defensive Midfield,EC Bahia,2016/2017,-1.6776851
+21.0,8.0,3.501212,FC Lorient,Terem Moffi,Centre-Forward,KV Kortrijk,2020/2021,-4.498787999999999
+21.0,13.0,18.281792,Manchester City,Sergio Gómez,Left-Back,RSC Anderlecht,2022/2023,5.281791999999999
+30.0,4.0,5.250738,Watford FC,Younès Kaboul,Centre-Back,Sunderland,2016/2017,1.2507380000000001
+22.0,1.0,3.566104,Spartak Moscow,Ayaz Guliev,Central Midfield,Rostov,2018/2019,2.566104
+29.0,35.0,25.349062,Chelsea FC,David Luiz,Centre-Back,Paris SG,2016/2017,-9.650938
+20.0,3.0,4.148066,US Sassuolo,Emil Konradsen Ceide,Left Winger,Rosenborg,2022/2023,1.148066
+19.0,15.0,31.144062,Paris Saint-Germain,Lucas Digne,Left-Back,LOSC Lille,2013/2014,16.144062
+20.0,1.5,1.8897568,UC Sampdoria,Lorenco Simic,Centre-Back,Hajduk Split,2016/2017,0.3897568
+18.0,5.5,4.411872,Eintracht Frankfurt,Evan Ndicka,Centre-Back,AJ Auxerre,2018/2019,-1.0881280000000002
+21.0,0.4,4.5703373,Olympique Marseille,Bamba Dieng,Centre-Forward,Diambars FC,2021/2022,4.1703373
+20.0,7.0,9.580313,OGC Nice,Amine Gouiri,Centre-Forward,Olympique Lyon,2020/2021,2.5803130000000003
+28.0,0.75,1.820429,SD Eibar,Yoel Rodríguez,Goalkeeper,Valencia,2017/2018,1.070429
+28.0,1.2,1.6318573,Elche CF,Johan Mojica,Left-Back,Girona,2021/2022,0.4318573000000001
+24.0,1.0,7.6120934,Sevilla FC,Pablo Sarabia,Right Winger,Getafe,2016/2017,6.6120934
+29.0,2.85,3.5961337,FC Girondins Bordeaux,Jérémy Ménez,Right Winger,AC Milan,2016/2017,0.7461337000000001
+18.0,1.5,2.3964293,RC Strasbourg Alsace,Ismaël Doukouré,Centre-Back,Valenciennes FC,2021/2022,0.8964292999999999
+28.0,35.0,12.444831,Atlético de Madrid,Jackson Martínez,Centre-Forward,FC Porto,2015/2016,-22.555169
+31.0,2.7,6.9536138,AC Milan,Alessandro Florenzi,Right-Back,AS Roma,2022/2023,4.2536138
+20.0,30.0,12.383736,Borussia Dortmund,Karim Adeyemi,Centre-Forward,RB Salzburg,2022/2023,-17.616264
+21.0,1.0,11.749121,AS Saint-Étienne,Jorginho,Left Winger,Arouca,2017/2018,10.749121
+22.0,5.0,14.301569,Juventus FC,Giangiacomo Magnani,Centre-Back,Perugia,2018/2019,9.301569
+29.0,6.0,4.8755374,Sevilla FC,Tomas Vaclik,Goalkeeper,FC Basel,2018/2019,-1.1244626000000002
+21.0,14.7,26.130249,Tottenham Hotspur,Djed Spence,Right-Back,Middlesbrough,2022/2023,11.430249
+25.0,12.0,13.4307165,Aston Villa,Marvelous Nakamba,Defensive Midfield,Club Brugge,2019/2020,1.4307165000000008
+21.0,0.28,3.539316,Benevento Calcio,Bright Gyamfi,Right-Back,Inter,2017/2018,3.259316
+21.0,0.5,2.7100167,Sporting CP,Leonardo Ruiz,Centre-Forward,Atl. Nacional,2017/2018,2.2100167
+24.0,0.25,0.6944974,Roda JC Kerkrade,Anco Jansen,attack,De Graafschap,2013/2014,0.44449740000000004
+25.0,2.4,1.355076,Genoa CFC,Jandrei,Goalkeeper,Chapecoense,2018/2019,-1.044924
+32.0,3.5,6.6534295,Sevilla FC,Ivan Rakitic,Central Midfield,Barcelona,2020/2021,3.1534294999999997
+24.0,7.0,4.3997765,SS Lazio,Nicolò Casale,Centre-Back,Hellas Verona,2022/2023,-2.6002235000000002
+21.0,7.0,2.2603817,Spartak Moscow,Ayrton Lucas,Left-Back,Fluminense,2018/2019,-4.7396183
+28.0,30.0,12.54465,Aston Villa,Lucas Digne,Left-Back,Everton,2021/2022,-17.45535
+18.0,0.7,4.5092254,AS Roma,Jonatan Lucca,Central Midfield,Inter U20,2012/2013,3.8092254
+24.0,8.0,3.0601935,Hertha BSC,Suat Serdar,Central Midfield,FC Schalke 04,2021/2022,-4.9398064999999995
+18.0,1.7,1.5019149,Bologna FC 1909,Aaron Hickey,Left-Back,Heart of Midl.,2020/2021,-0.1980850999999999
+27.0,0.5,0.7283352,FC Toulouse,Mauro Goicoechea,Goalkeeper,Arouca,2015/2016,0.22833519999999996
+26.0,2.7,8.27907,Villarreal CF,Víctor Ruiz,Centre-Back,Valencia,2015/2016,5.579070000000001
+29.0,1.5,5.367986,SL Benfica,Helton Leite,Goalkeeper,Boavista,2020/2021,3.867986
+25.0,135.0,29.996494,FC Barcelona,Philippe Coutinho,Left Winger,Liverpool,2017/2018,-105.003506
+23.0,1.7,9.382369,Bayer 04 Leverkusen,Timothy Fosu-Mensah,Right-Back,Man Utd,2020/2021,7.6823690000000004
+24.0,5.5,1.7138945,TSG 1899 Hoffenheim,Oliver Baumann,Goalkeeper,SC Freiburg,2014/2015,-3.7861054999999997
+19.0,0.05,0.73639935,Vitória Setúbal FC,Wilder Cartagena,Defensive Midfield,Alianza Lima,2013/2014,0.68639935
+21.0,15.0,10.721233,Valencia CF,Mouctar Diakhaby,Centre-Back,Olympique Lyon,2018/2019,-4.278767
+23.0,3.0,3.897921,1.FSV Mainz 05,Viktor Fischer,Left Winger,Middlesbrough,2017/2018,0.8979210000000002
+23.0,5.0,4.471999,Stade Brestois 29,Franck Honorat,Right Winger,Saint-Étienne,2020/2021,-0.5280009999999997
+28.0,6.4,16.123568,Tottenham Hotspur,Emmanuel Adebayor,Centre-Forward,Man City,2012/2013,9.723567999999998
+21.0,15.2,7.6973195,Southampton FC,Gastón Ramírez,Attacking Midfield,Bologna,2012/2013,-7.502680499999999
+21.0,1.3,1.7315556,Hannover 96,França,Defensive Midfield,Mirassol-SP,2012/2013,0.43155560000000004
+22.0,0.2,1.7199835,Fortuna Sittard,Zian Flemming,Attacking Midfield,PEC Zwolle,2020/2021,1.5199835000000002
+29.0,0.057,11.422779,Wolverhampton Wanderers,Daniel Bentley,Goalkeeper,Bristol City,2022/2023,11.365779
+23.0,2.0,1.152567,SM Caen,Andy Delort,Centre-Forward,Wigan,2015/2016,-0.8474330000000001
+27.0,1.6,4.437665,Feyenoord Rotterdam,João Carlos Teixeira,Attacking Midfield,Vit. Guimarães,2020/2021,2.837665
+29.0,0.75,2.072974,Hannover 96,Szabolcs Huszti,Left Midfield,Zenit S-Pb,2012/2013,1.3229739999999999
+29.0,8.6,6.8787465,Watford FC,José Manuel Jurado,Attacking Midfield,Spartak Moscow,2015/2016,-1.7212534999999995
+23.0,35.7,14.751706,FC Barcelona,Nélson Semedo,Right-Back,Benfica,2017/2018,-20.948294000000004
+19.0,3.8,1.825962,Stoke City,Jack Butland,Goalkeeper,Birmingham,2012/2013,-1.9740379999999997
+26.0,0.5,2.0234268,CA Osasuna,Fran Mérida,Central Midfield,SD Huesca,2016/2017,1.5234268000000002
+22.0,6.0,4.0239973,1.FSV Mainz 05,Moussa Niakhaté,Centre-Back,FC Metz,2018/2019,-1.9760026999999996
+27.0,40.0,39.323593,Chelsea FC,Hakim Ziyech,Attacking Midfield,Ajax,2020/2021,-0.6764069999999975
+23.0,8.0,8.647216,AS Roma,Alisson,Goalkeeper,Internacional,2016/2017,0.6472160000000002
+19.0,2.0,8.956339,Bayer 04 Leverkusen,Gustavo Puerta,Central Midfield,Bogotá FC,2022/2023,6.956339
+20.0,22.0,32.67606,Juventus FC,Luca Pellegrini,Left-Back,AS Roma,2019/2020,10.67606
+20.0,5.0,4.051693,1.FSV Mainz 05,Levin Öztunali,Central Midfield,Bay. Leverkusen,2016/2017,-0.9483069999999998
+29.0,13.9,7.1784744,Crystal Palace,Yohan Cabaye,Central Midfield,Paris SG,2015/2016,-6.7215256000000005
+24.0,8.5,7.024181,Valencia CF,Marcos André,Centre-Forward,Real Valladolid,2021/2022,-1.4758190000000004
+26.0,5.0,1.5509413,Brescia Calcio,Jesse Joronen,Goalkeeper,FC Copenhagen,2019/2020,-3.4490587
+21.0,20.0,3.3123276,Hertha BSC,Dodi Lukébakio,Right Winger,Watford,2019/2020,-16.6876724
+18.0,0.3,7.9289055,LOSC Lille,Isaac Lihadji,Right Winger,Marseille B,2020/2021,7.6289055
+21.0,3.4,14.894487,Newcastle United,Harrison Ashby,Right-Back,West Ham U21,2022/2023,11.494487
+30.0,5.7,5.5070677,SS Lazio,Lucas Leiva,Defensive Midfield,Liverpool,2017/2018,-0.19293229999999983
+24.0,2.2,2.798738,AZ Alkmaar,Fredrik Midtsjö,Central Midfield,Rosenborg,2017/2018,0.598738
+20.0,0.3,3.517309,SS Lazio,Francesco Orlando,Right Winger,Vicenza,2017/2018,3.217309
+22.0,37.0,21.31496,FC Barcelona,André Gomes,Central Midfield,Valencia,2016/2017,-15.68504
+24.0,3.75,6.735419,AS Roma,Michael Bradley,Central Midfield,Chievo Verona,2012/2013,2.9854190000000003
+19.0,0.3,3.2969012,FC Nantes,Jaouen Hadjam,Left-Back,Paris FC,2022/2023,2.9969012000000004
+25.0,3.5,1.51846,Hannover 96,Oliver Sorg,Right-Back,SC Freiburg,2015/2016,-1.98154
+22.0,1.0,2.435982,1.FC Nuremberg,Hiroshi Kiyotake,Left Midfield,Cerezo Osaka,2012/2013,1.435982
+20.0,0.022,2.3601174,FK Khimki,Valentin Paltsev,Left-Back,KamAZ,2022/2023,2.3381174000000002
+22.0,2.23,3.4927437,Deportivo Alavés,Ramón Miérez,Centre-Forward,Tigre,2019/2020,1.2627437000000001
+23.0,0.5,1.1995101,Real Zaragoza,José Manuel Fernández,Right-Back,Córdoba CF,2012/2013,0.6995100999999999
+23.0,0.5,3.0672877,Eintracht Frankfurt,Bastian Oczipka,Left-Back,Bay. Leverkusen,2012/2013,2.5672877
+23.0,1.5,1.4510195,ESTAC Troyes,Andreas Bruus,Right-Back,Bröndby IF,2022/2023,-0.04898050000000009
+22.0,0.6,3.8750992,1.FSV Mainz 05,Julian Koch,Defensive Midfield,Bor. Dortmund,2013/2014,3.2750992
+21.0,43.0,22.783442,Inter Milan,Achraf Hakimi,Right-Back,Real Madrid,2020/2021,-20.216558
+20.0,7.2,9.73022,West Bromwich Albion,Yuning Zhang,Centre-Forward,Vitesse,2017/2018,2.530219999999999
+21.0,18.0,4.223811,Spartak Moscow,Guus Til,Attacking Midfield,AZ Alkmaar,2019/2020,-13.776188999999999
+21.0,5.25,9.039775,Sunderland AFC,Paddy McNair,Centre-Back,Man Utd,2016/2017,3.7897750000000006
+24.0,4.0,3.1016476,OGC Nice,Pierre Lees-Melou,Central Midfield,Dijon,2017/2018,-0.8983523999999998
+21.0,4.0,7.9236135,SC Freiburg,Pascal Stenzel,Right-Back,Bor. Dortmund,2017/2018,3.9236135
+20.0,7.5,6.205417,Olympique Marseille,Giannelli Imbula,Defensive Midfield,Guingamp,2013/2014,-1.2945830000000003
+30.0,6.0,4.8545403,Real Sociedad,Héctor Moreno,Centre-Back,AS Roma,2017/2018,-1.1454597
+24.0,16.8,26.452017,Chelsea FC,Ross Barkley,Central Midfield,Everton,2017/2018,9.652017
+27.0,5.0,2.2312217,Getafe CF,Luis Milla,Central Midfield,Granada CF,2022/2023,-2.7687783
+27.0,4.5,2.8028603,Girona FC,Bernardo Espinosa,Centre-Back,Middlesbrough,2017/2018,-1.6971397000000001
+23.0,1.3,2.1577816,FC Groningen,Florian Krüger,Centre-Forward,Arm. Bielefeld,2022/2023,0.8577815999999998
+24.0,10.0,6.7278,Olympique Marseille,Luis Suárez,Centre-Forward,Granada CF,2022/2023,-3.2721999999999998
+22.0,72.0,19.743729,Atlético de Madrid,Thomas Lemar,Attacking Midfield,Monaco,2018/2019,-52.256271
+24.0,0.8,3.2535503,Eintracht Frankfurt,Bamba Anderson,Centre-Back,Bor. M'gladbach,2012/2013,2.4535503
+24.0,1.75,6.052335,Girona FC,Choco Lozano,Centre-Forward,Barcelona B,2017/2018,4.302335
+30.0,1.5,2.5324845,Olympique Lyon,Christophe Jallet,Right-Back,Paris SG,2014/2015,1.0324844999999998
+29.0,0.4,2.737843,FK Krasnodar,Ruslan Kambolov,Defensive Midfield,Rubin Kazan,2019/2020,2.337843
+26.0,0.3,3.7051382,FK Krasnodar,Evgeniy Markov,Centre-Forward,Dynamo Moscow,2020/2021,3.4051382
+25.0,12.5,10.265736,AS Monaco,Breel Embolo,Centre-Forward,Bor. M'gladbach,2022/2023,-2.2342639999999996
+21.0,80.0,39.420353,Chelsea FC,Kai Havertz,Attacking Midfield,Bay. Leverkusen,2020/2021,-40.579647
+24.0,2.8,7.543855,Southampton FC,Maya Yoshida,Centre-Back,VVV-Venlo,2012/2013,4.743855
+25.0,6.0,4.646216,TSG 1899 Hoffenheim,Eduardo Vargas,Second Striker,SSC Napoli,2015/2016,-1.353784
+24.0,13.0,13.0698595,Nottingham Forest,Orel Mangala,Central Midfield,VfB Stuttgart,2022/2023,0.06985949999999974
+25.0,10.0,3.5436795,Rubin Kazan,Rubén Rochina,Right Winger,Granada CF,2016/2017,-6.4563205
+30.0,4.0,2.929947,Levante UD,Sergio León,Centre-Forward,Real Betis,2019/2020,-1.0700530000000001
+28.0,3.2,3.2087917,Cagliari Calcio,Mauricio Pinilla,Centre-Forward,US Palermo,2012/2013,0.008791699999999736
+29.0,2.5,12.797402,Sevilla FC,Adil Rami,Centre-Back,AC Milan,2015/2016,10.297402
+24.0,3.2,9.026846,VfB Stuttgart,Konstantinos Mavropanos,Centre-Back,Arsenal,2022/2023,5.826846000000001
+28.0,90.0,30.753582,Juventus FC,Gonzalo Higuaín,Centre-Forward,SSC Napoli,2016/2017,-59.246418
+27.0,33.0,32.830406,Chelsea FC,Cesc Fàbregas,Central Midfield,Barcelona,2014/2015,-0.16959399999999647
+23.0,1.5,1.0352968,Getafe CF,Sergio Escudero,Left-Back,FC Schalke 04,2013/2014,-0.4647032
+24.0,2.0,4.8463693,Zenit St. Petersburg,Denis Terentjev,Right-Back,Rostov,2017/2018,2.8463693
+28.0,0.63,6.7614765,Burnley FC,Stephen Ward,Left-Back,Wolves,2014/2015,6.1314765
+24.0,1.5,2.3212419,FK Krasnodar,João Batxi,Right Midfield,Chaves,2022/2023,0.8212419
+27.0,5.8,9.379668,Sunderland AFC,Danny Graham,Centre-Forward,Swansea,2012/2013,3.5796680000000007
+24.0,12.9,7.906765,Everton FC,Ramiro Funes Mori,Centre-Back,River Plate,2015/2016,-4.993235
+24.0,1.2,3.2144077,Eintracht Frankfurt,Taleb Tawatha,Left-Back,Maccabi Haifa,2016/2017,2.0144077000000005
+23.0,0.15,1.8196462,Parma FC,Alessandro Ligi,Centre-Back,Crotone,2013/2014,1.6696462
+24.0,2.2,4.3040957,Torino FC,Joel Obi,Central Midfield,Inter,2015/2016,2.1040957000000002
+21.0,1.5,2.7962132,CSKA Moscow,Emil Bohinen,Central Midfield,Stabæk Fotball,2020/2021,1.2962132
+24.0,5.5,4.5880737,TSG 1899 Hoffenheim,Eren Derdiyok,Centre-Forward,Bay. Leverkusen,2012/2013,-0.9119263000000002
+25.0,0.46,0.3609454,FC Groningen,Martijn van der Laan,Centre-Back,SC Cambuur,2014/2015,-0.09905459999999999
+20.0,0.86,7.124645,Brighton & Hove Albion,Billy Arce,Left Winger,Independiente,2018/2019,6.264645
+24.0,4.5,4.851759,FC Metz,Kévin N'Doram,Defensive Midfield,Monaco,2020/2021,0.3517590000000004
+19.0,0.5,0.5885231,Udinese Calcio,Wojciech Pawlowski,Goalkeeper,Lechia Gdansk,2012/2013,0.08852309999999997
+24.0,1.2,1.7692918,EA Guingamp,Nicolas Benezet,Left Winger,Évian,2015/2016,0.5692918
+24.0,4.0,2.7075891,Stade Reims,Björn Engels,Centre-Back,Olympiacos,2019/2020,-1.2924109000000001
+30.0,2.5,2.579669,Hellas Verona,Samuel Di Carmine,Centre-Forward,Perugia,2019/2020,0.07966899999999999
+25.0,42.5,31.857773,Arsenal FC,Alexis Sánchez,Centre-Forward,Barcelona,2014/2015,-10.642226999999998
+20.0,0.6,0.373921,SC Heerenveen,Milan van Ewijk,Right-Back,ADO Den Haag,2021/2022,-0.22607899999999997
+32.0,1.0,1.2382087,SD Huesca,Dimitrios Siovas,Centre-Back,CD Leganés,2020/2021,0.23820869999999994
+21.0,0.23,2.3915536,Krylya Sovetov Samara,Danil Lipovoy,Left Midfield,Dynamo Moscow,2021/2022,2.1615536
+20.0,1.4,2.3889136,Hannover 96,Florent Muslija,Attacking Midfield,Karlsruher SC,2018/2019,0.9889136000000001
+20.0,14.8,8.165035,AFC Bournemouth,Lloyd Kelly,Centre-Back,Bristol City,2019/2020,-6.634965000000001
+19.0,8.0,2.740078,ACF Fiorentina,Alban Lafont,Goalkeeper,Toulouse,2018/2019,-5.2599219999999995
+23.0,20.0,14.030138,Arsenal FC,Danny Welbeck,Centre-Forward,Man Utd,2014/2015,-5.969861999999999
+22.0,1.1,2.958891,Real Valladolid CF,Joaquín Fernández,Centre-Back,UD Almería,2018/2019,1.8588909999999998
+22.0,0.85,5.685507,US Cremonese,Frank Tsadjout,Centre-Forward,AC Milan,2022/2023,4.835507000000001
+21.0,50.0,38.20944,Real Madrid,Éder Militão,Centre-Back,FC Porto,2019/2020,-11.79056
+25.0,1.0,9.352937,Sunderland AFC,Jan Kirchhoff,Centre-Back,Bayern Munich,2015/2016,8.352937
+26.0,10.7,11.629815,Newcastle United,Yoshinori Muto,Centre-Forward,1.FSV Mainz 05,2018/2019,0.9298150000000014
+21.0,1.0,6.509138,Granada CF,Yan Eteki,Central Midfield,Sevilla FC,2019/2020,5.509138
+30.0,0.44,2.5428233,Parma Calcio 1913,Vincent Laurini,Right-Back,Fiorentina,2019/2020,2.1028233
+30.0,3.5,5.334127,Real Betis Balompié,Germán Pezzella,Centre-Back,Fiorentina,2021/2022,1.8341269999999996
+30.0,30.5,23.535793,Borussia Dortmund,Mats Hummels,Centre-Back,Bayern Munich,2019/2020,-6.964206999999998
+21.0,2.0,7.9296317,PSV Eindhoven,Olivier Boscagli,Centre-Back,OGC Nice,2019/2020,5.9296317
+28.0,0.8,4.7574334,Málaga CF,Bakary Koné,Centre-Back,Olympique Lyon,2016/2017,3.9574334
+20.0,1.2,2.961388,AZ Alkmaar,Henri Weigelt,Centre-Back,Arm. Bielefeld,2018/2019,1.761388
+21.0,1.8,5.9178066,Sevilla FC,Giorgi Aburjania,Defensive Midfield,Gimnàstic,2016/2017,4.1178066
+31.0,3.5,3.887222,Torino FC,Fabio Quagliarella,Centre-Forward,Juventus,2014/2015,0.38722199999999996
+23.0,16.3,11.563626,Crystal Palace,Odsonne Edouard,Centre-Forward,Celtic,2021/2022,-4.736374000000001
+24.0,5.0,2.3897595,Hannover 96,Joselu,Centre-Forward,TSG Hoffenheim,2014/2015,-2.6102405
+20.0,1.3,0.078801304,FC Groningen,Simon Tibbling,Central Midfield,Djurgården,2014/2015,-1.221198696
+25.0,8.0,10.311903,Borussia Dortmund,Shinji Kagawa,Attacking Midfield,Man Utd,2014/2015,2.311902999999999
+23.0,0.7,1.2908827,EA Guingamp,Younousse Sankharé,Central Midfield,Dijon,2013/2014,0.5908827000000001
+22.0,19.0,4.3875327,Stade Rennais FC,Arthur Theate,Centre-Back,Bologna,2022/2023,-14.612467299999999
+28.0,7.5,7.896613,Sunderland AFC,Emanuele Giaccherini,Left Midfield,Juventus,2013/2014,0.3966130000000003
+25.0,4.0,1.5894878,FK Krasnodar,Vladislav Ignatjev,Right-Back,Loko Moscow,2012/2013,-2.4105122000000003
+30.0,3.0,3.5770545,Sporting CP,Seydou Doumbia,Centre-Forward,AS Roma,2017/2018,0.5770545
+25.0,4.5,2.458461,Cagliari Calcio,Artur Ionita,Central Midfield,Hellas Verona,2016/2017,-2.041539
+22.0,10.0,7.98834,Ajax Amsterdam,Owen Wijndal,Left-Back,AZ Alkmaar,2022/2023,-2.01166
+20.0,2.2,2.8671184,1.FC Nuremberg,Josip Drmic,Centre-Forward,FC Zürich,2013/2014,0.6671183999999997
+21.0,13.1,3.1224785,Olympique Lyon,Sergi Darder,Central Midfield,Málaga CF,2015/2016,-9.9775215
+19.0,0.05,0.6385953,FC Augsburg,Max Reinthaler,Centre-Back,Rydaholms GoIF,2014/2015,0.5885952999999999
+25.0,2.0,6.756157,Deportivo Alavés,Rubén Sobrino,Centre-Forward,Man City,2017/2018,4.756157
+18.0,1.2,3.3270328,Delfino Pescara 1936,Gianluca Caprari,Second Striker,AS Roma,2012/2013,2.1270328000000003
+25.0,10.0,17.593697,Southampton FC,Duje Caleta-Car,Centre-Back,Marseille,2022/2023,7.593696999999999
+28.0,7.8,8.568364,Hull City,Nikica Jelavic,Centre-Forward,Everton,2013/2014,0.7683640000000009
+24.0,6.0,5.203147,Feyenoord Rotterdam,Ridgeciano Haps,Left-Back,AZ Alkmaar,2017/2018,-0.7968529999999996
+28.0,0.1,3.1752162,US Lecce,Biagio Meccariello,Centre-Back,Brescia,2019/2020,3.0752162
+25.0,3.0,6.672989,VfL Wolfsburg,Felix Klaus,Right Winger,Hannover 96,2018/2019,3.6729890000000003
+26.0,1.1,6.789976,FC Schalke 04,Tobias Mohr,Left Winger,1.FC Heidenheim,2022/2023,5.689976
+27.0,35.0,24.29811,Bayern Munich,Mats Hummels,Centre-Back,Bor. Dortmund,2016/2017,-10.701889999999999
+22.0,1.5,1.8652514,Dijon FCO,Chang-hoon Kwon,Right Winger,Suwon Bluewings,2016/2017,0.3652514
+23.0,9.5,7.9430065,Atalanta BC,Bryan Cristante,Defensive Midfield,Benfica,2018/2019,-1.5569935
+23.0,1.5,0.56421345,Hannover 96,Miiko Albornoz,Left-Back,Malmö FF,2014/2015,-0.93578655
+23.0,6.4,9.695695,Bologna FC 1909,Simone Verdi,Attacking Midfield,AC Milan,2016/2017,3.2956950000000003
+24.0,10.1,10.5820675,Swansea City,Gylfi Sigurdsson,Attacking Midfield,Spurs,2014/2015,0.4820675000000012
+33.0,0.45,0.40927404,Vitesse Arnhem,Remko Pasveer,Goalkeeper,PSV Eindhoven,2017/2018,-0.040725960000000005
+27.0,1.0,5.797704,Atalanta BC,Michele Canini,Centre-Back,Genoa,2012/2013,4.797704
+27.0,14.0,13.371078,Atlético de Madrid,Alessio Cerci,Right Winger,Torino,2014/2015,-0.6289219999999993
+22.0,5.0,3.1341496,Celta de Vigo,Mathias Jensen,Central Midfield,Nordsjaelland,2018/2019,-1.8658503999999998
+25.0,4.0,5.833689,Ajax Amsterdam,Nicolás Tagliafico,Left-Back,Independiente,2017/2018,1.8336889999999997
+26.0,2.0,2.088966,FC Girondins Bordeaux,Stian Gregersen,Centre-Back,Molde,2021/2022,0.0889660000000001
+28.0,3.0,7.5491357,Brighton & Hove Albion,Ezequiel Schelotto,Right-Back,Sporting CP,2017/2018,4.5491357
+26.0,1.5,6.586534,Norwich City,Alexander Tettey,Defensive Midfield,Stade Rennais,2012/2013,5.086534
+20.0,1.1,2.3442867,SC Freiburg,Felix Klaus,Right Winger,Greuther Fürth,2013/2014,1.2442867
+19.0,9.5,1.0876259,CSKA Moscow,Vitinho,Left Winger,Botafogo,2013/2014,-8.412374100000001
+28.0,15.0,7.17198,Queens Park Rangers,Christopher Samba,Centre-Back,Anzhi,2012/2013,-7.82802
+25.0,32.0,11.256288,Bayer 04 Leverkusen,Kerem Demirbay,Central Midfield,TSG Hoffenheim,2019/2020,-20.743712000000002
+23.0,22.0,13.064584,Atlético de Madrid,Gelson Martins,Right Winger,Sporting CP,2018/2019,-8.935416
+29.0,3.0,3.5640936,Spartak Moscow,Kim Källström,Central Midfield,Olympique Lyon,2012/2013,0.5640936000000001
+33.0,5.0,2.662556,FC Girondins Bordeaux,Laurent Koscielny,Centre-Back,Arsenal,2019/2020,-2.337444
+23.0,0.5,2.1821175,SC Heerenveen,Runar Espejord,Centre-Forward,Tromsø IL,2019/2020,1.6821175
+25.0,5.0,2.936833,Olympique Marseille,Romain Alessandrini,Right Winger,Stade Rennais,2014/2015,-2.063167
+21.0,3.0,9.456231,AS Monaco,Samuel Grandsir,Right Winger,Troyes,2018/2019,6.456231000000001
+22.0,0.34,4.9867597,Rubin Kazan,Vladislav Panteleev,Attacking Midfield,Spartak 2,2018/2019,4.6467597000000005
+22.0,0.15,3.5708504,SL Benfica,Pedro Rebocho,Left-Back,Moreirense,2017/2018,3.4208504
+20.0,0.04,1.7315556,CD Nacional,Ali Ghazal,Centre-Back,Wadi Degla U23,2012/2013,1.6915556
+25.0,10.6,12.289333,Liverpool FC,Simon Mignolet,Goalkeeper,Sunderland,2013/2014,1.6893329999999995
+22.0,5.75,4.7522125,Parma FC,Ishak Belfodil,Centre-Forward,Inter,2014/2015,-0.9977875000000003
+18.0,1.0,3.4582171,VfB Stuttgart,Carlos Gruezo,Defensive Midfield,Barcelona SC,2013/2014,2.4582171
+21.0,6.0,8.483164,AS Roma,Ante Coric,Attacking Midfield,Dinamo Zagreb,2018/2019,2.4831640000000004
+22.0,13.0,6.693681,VfL Wolfsburg,Yannick Gerhardt,Central Midfield,1. FC Köln,2016/2017,-6.306319
+25.0,3.5,4.4775176,Real Betis Balompié,Felipe Gutiérrez,Central Midfield,Twente FC,2016/2017,0.9775175999999997
+21.0,1.6,2.8683922,FC Augsburg,Shawn Parker,Centre-Forward,1.FSV Mainz 05,2014/2015,1.2683922
+24.0,3.5,4.7582536,Stade Reims,Andreaw Gravillon,Centre-Back,Inter,2022/2023,1.2582535999999998
+21.0,0.1,4.8657837,SL Benfica,Diego Lopes,Central Midfield,Rio Ave FC,2015/2016,4.7657837
+18.0,1.5,3.0465577,Torino FC,Vitalie Damascan,Centre-Forward,FC Sheriff,2017/2018,1.5465577000000001
+33.0,0.6,1.9540113,Chievo Verona,Antonio Floro Flores,Centre-Forward,Sassuolo,2016/2017,1.3540112999999998
+24.0,1.5,8.709646,SL Benfica,Gil Dias,Left Midfield,Monaco,2021/2022,7.209645999999999
+28.0,20.0,28.145298,Chelsea FC,Filipe Luís,Left-Back,Atlético Madrid,2014/2015,8.145298
+22.0,1.0,4.455616,Spartak Moscow,Georgi Tigiev,Left-Back,Anzhi,2017/2018,3.455616
+21.0,8.0,6.0799904,Olympique Lyon,Tanguy Ndombélé,Central Midfield,Amiens SC,2018/2019,-1.9200096000000002
+25.0,4.9,4.9676967,Crystal Palace,Alex McCarthy,Goalkeeper,QPR,2015/2016,0.06769669999999994
+26.0,0.95,1.6645874,FC Ingolstadt 04,Martin Hansen,Goalkeeper,ADO Den Haag,2016/2017,0.7145874000000001
+22.0,5.5,7.76063,Valencia CF,Manu Vallejo,Second Striker,Cádiz CF,2019/2020,2.26063
+30.0,0.23,0.33328515,Málaga CF,Marcos Angeleri,Centre-Back,Estudiantes,2013/2014,0.10328514999999996
+20.0,0.2,2.799652,US Sassuolo,Leonardo Sernicola,Left-Back,Ternana,2018/2019,2.599652
+31.0,0.98,2.976239,Villarreal CF,Kiko Femenía,Right-Back,Watford,2022/2023,1.996239
+21.0,0.6,2.2620952,Torino FC,Samuel Gustafson,Defensive Midfield,Häcken,2016/2017,1.6620952
+24.0,18.0,15.24169,RB Leipzig,Angeliño,Left-Back,Man City,2021/2022,-2.75831
+23.0,7.35,4.9280357,FC Porto,Alex Telles,Left-Back,Galatasaray,2016/2017,-2.4219643
+27.0,2.0,2.6983216,Benevento Calcio,Samuel Armenteros,Centre-Forward,Heracles Almelo,2017/2018,0.6983215999999999
+19.0,4.1,4.615586,Olympique Lyon,Jean-Philippe Mateta,Centre-Forward,LB Châteauroux,2016/2017,0.5155860000000008
+22.0,20.0,6.5096707,FC Porto,Óliver Torres,Central Midfield,Atlético Madrid,2017/2018,-13.490329299999999
+25.0,13.5,5.7066913,Zenit St. Petersburg,Douglas Santos,Left-Back,Hamburger SV,2019/2020,-7.7933087
+26.0,0.8,3.771312,Feyenoord Rotterdam,Lex Immers,Attacking Midfield,ADO Den Haag,2012/2013,2.971312
+29.0,26.65,13.583934,AS Roma,Steven Nzonzi,Defensive Midfield,Sevilla FC,2018/2019,-13.066066
+19.0,5.5,3.3711228,ACF Fiorentina,Nikola Milenković,Centre-Back,Partizan,2017/2018,-2.1288772
+21.0,0.5,9.448254,Swansea City,Alejandro Pozuelo,Attacking Midfield,Real Betis,2013/2014,8.948254
+23.0,0.75,11.88632,SSC Napoli,Franco Ferrari,Centre-Forward,Genoa,2019/2020,11.13632
+23.0,8.0,12.285741,Inter Milan,Jeison Murillo,Centre-Back,Granada CF,2015/2016,4.285741
+28.0,6.0,0.63821447,Real Madrid,Kiko Casilla,Goalkeeper,Espanyol,2015/2016,-5.36178553
+21.0,0.1,2.553394,NEC Nijmegen,Joey Sleegers,Left Winger,Feyenoord,2015/2016,2.453394
+19.0,2.24,8.490375,Swansea City,Matt Grimes,Central Midfield,Exeter City,2014/2015,6.250375
+27.0,0.6,2.8578975,Getafe CF,Bruno González,Centre-Back,Real Betis,2017/2018,2.2578975
+22.0,2.0,3.2864408,SC Freiburg,Janik Haberer,Central Midfield,TSG Hoffenheim,2016/2017,1.2864407999999998
+16.0,17.5,10.720612,FC Barcelona,Pedri,Central Midfield,UD Las Palmas,2019/2020,-6.779388000000001
+22.0,2.35,5.262256,Crystal Palace,Jack Hunt,Right-Back,Huddersfield,2013/2014,2.9122559999999997
+24.0,10.0,11.160493,Brentford FC,Yoane Wissa,Left Winger,FC Lorient,2021/2022,1.1604930000000007
+30.0,1.3,2.7094777,SC Freiburg,Jérôme Gondorf,Central Midfield,Werder Bremen,2018/2019,1.4094776999999998
+18.0,2.65,0.7037558,Cagliari Calcio,Caio Rangel,Right Winger,Flamengo,2014/2015,-1.9462441999999998
+24.0,7.0,12.389519,Atlético de Madrid,Jonny Otto,Left-Back,Celta de Vigo,2018/2019,5.389519
+20.0,11.0,10.08673,Manchester City,Máximo Perrone,Defensive Midfield,Vélez Sarsfield,2022/2023,-0.9132700000000007
+33.0,8.8,8.188579,Aston Villa,Tom Heaton,Goalkeeper,Burnley,2019/2020,-0.611421
+20.0,3.5,4.0366693,US Sassuolo,Luca Mazzitelli,Central Midfield,AS Roma,2015/2016,0.5366692999999998
+30.0,38.0,12.414053,Inter Milan,Radja Nainggolan,Central Midfield,AS Roma,2018/2019,-25.585947
+24.0,1.25,4.28764,Hellas Verona,Bruno Zuculini,Defensive Midfield,Man City,2017/2018,3.0376399999999997
+26.0,32.0,23.806028,Juventus FC,Miralem Pjanic,Central Midfield,AS Roma,2015/2016,-8.193971999999999
+24.0,20.0,27.831112,Liverpool FC,Mario Balotelli,Centre-Forward,AC Milan,2014/2015,7.831112000000001
+25.0,17.0,27.783237,FC Barcelona,Aleix Vidal,Right-Back,Sevilla FC,2015/2016,10.783237
+19.0,0.1,3.4372976,Eintracht Frankfurt,Diant Ramaj,Goalkeeper,1.FC Heidenheim,2021/2022,3.3372976
+23.0,1.96,1.6596514,Elche CF,Lautaro Blanco,Left-Back,Rosario Central,2022/2023,-0.30034859999999997
+25.0,3.5,3.82522,Feyenoord Rotterdam,Marko Vejinović,Central Midfield,Vitesse,2015/2016,0.32521999999999984
+18.0,0.02,6.0524473,AC Milan,Matteo Pessina,Attacking Midfield,Monza,2015/2016,6.0324473
+24.0,3.5,2.8772829,Angers SCO,Sada Thioub,Right Winger,Nîmes Olympique,2019/2020,-0.6227171
+30.0,9.0,34.360153,Manchester United,Bastian Schweinsteiger,Central Midfield,Bayern Munich,2015/2016,25.360152999999997
+21.0,12.0,12.280599,Borussia Dortmund,Mahmoud Dahoud,Central Midfield,Bor. M'gladbach,2017/2018,0.2805990000000005
+21.0,1.3,3.1099195,AC Siena,Mattia Destro,Centre-Forward,Genoa,2012/2013,1.8099195000000001
+23.0,32.0,30.14785,Paris Saint-Germain,Abdou Diallo,Centre-Back,Bor. Dortmund,2019/2020,-1.8521500000000017
+18.0,1.5,0.14144167,TSG 1899 Hoffenheim,Bruno Nazário,Attacking Midfield,Tombense,2013/2014,-1.35855833
+25.0,21.0,11.229157,SSC Napoli,Nikola Maksimovic,Centre-Back,Torino,2017/2018,-9.770843
+29.0,4.0,3.4021926,Athletic Bilbao,Ibai Gómez,Right Winger,Alavés,2018/2019,-0.5978074000000002
+28.0,12.5,11.539024,AC Milan,Giampaolo Pazzini,Centre-Forward,Inter,2012/2013,-0.9609760000000005
+23.0,0.5,2.7702818,Elche CF,Tete Morente,Left Winger,Málaga CF,2020/2021,2.2702818
+22.0,1.2,2.6442964,CD Nacional,Djaniny,Centre-Forward,Benfica,2013/2014,1.4442964
+20.0,4.7,4.9232726,US Sassuolo,Mert Müldür,Right-Back,Rapid Vienna,2019/2020,0.2232725999999996
+28.0,22.0,30.95745,Atlético de Madrid,Kieran Trippier,Right-Back,Spurs,2019/2020,8.957450000000001
+30.0,13.0,19.648275,Juventus FC,Hernanes,Attacking Midfield,Inter,2015/2016,6.648275000000002
+24.0,0.6,1.644462,FC Utrecht,Sander van de Streek,Attacking Midfield,SC Cambuur,2017/2018,1.0444620000000002
+23.0,15.0,8.59028,AS Roma,Konstantinos Manolas,Centre-Back,Olympiacos,2014/2015,-6.40972
+22.0,2.8,3.21004,Parma Calcio 1913,José Machín,Central Midfield,Pescara,2019/2020,0.41003999999999996
+22.0,2.8,1.9674922,Terek Grozny,Facundo Píriz,Defensive Midfield,Nacional,2012/2013,-0.8325077999999999
+20.0,0.3,3.5443206,VfL Wolfsburg,Kevin Pannewitz,Defensive Midfield,Hansa Rostock,2012/2013,3.2443206
+27.0,2.5,3.892104,Stade Rennais FC,Ola Toivonen,Attacking Midfield,PSV Eindhoven,2013/2014,1.3921039999999998
+22.0,36.0,11.658128,Inter Milan,Geoffrey Kondogbia,Defensive Midfield,Monaco,2015/2016,-24.341872000000002
+21.0,2.5,2.9727004,FC Toulouse,Thijs Dallinga,Centre-Forward,Excelsior,2022/2023,0.4727003999999999
+23.0,24.7,9.089483,Fulham FC,Aleksandar Mitrović,Centre-Forward,Newcastle,2018/2019,-15.610517
+25.0,7.87,5.861171,SL Benfica,Nicolás Castillo,Centre-Forward,UNAM Pumas,2018/2019,-2.0088290000000004
+22.0,2.55,3.8503706,SL Benfica,Luis Fariña,Attacking Midfield,Racing Club,2013/2014,1.3003706000000004
+22.0,1.95,4.569678,Juventus FC,Nico Hidalgo,Right Winger,Recre Granada,2014/2015,2.6196779999999995
+19.0,0.4,2.9918747,Eintracht Frankfurt,Marijan Cavar,Central Midfield,Zrinjski Mostar,2017/2018,2.5918747
+27.0,3.0,3.4167023,Spartak Moscow,José Manuel Jurado,Attacking Midfield,FC Schalke 04,2013/2014,0.41670229999999986
+24.0,13.0,11.175572,Liverpool FC,Konstantinos Tsimikas,Left-Back,Olympiacos,2020/2021,-1.8244279999999993
+24.0,3.5,6.7149324,Southampton FC,Vegard Forren,Centre-Back,Molde,2012/2013,3.2149324000000004
+25.0,0.3,1.7640604,AZ Alkmaar,Robert Mühren,Centre-Forward,FC Volendam,2014/2015,1.4640604
+22.0,2.5,4.55366,Valencia CF,Jonathan Viera,Attacking Midfield,UD Las Palmas,2012/2013,2.05366
+26.0,9.0,5.3589354,ACF Fiorentina,Riccardo Saponara,Attacking Midfield,Empoli,2018/2019,-3.6410646
+23.0,0.2,2.1396568,Celta de Vigo,Álvaro Lemos,Right-Back,CD Lugo,2016/2017,1.9396568
+23.0,7.5,2.1895225,Angers SCO,Paul Bernardoni,Goalkeeper,G. Bordeaux,2020/2021,-5.3104775
+19.0,0.3,1.5518366,FC Augsburg,Kilian Jakob,Left-Back,1860 Munich,2017/2018,1.2518365999999999
+21.0,1.0,3.4564369,CSKA Moscow,Takuma Nishimura,Second Striker,Vegalta Sendai,2018/2019,2.4564369
+26.0,0.36,3.224836,Ural Yekaterinburg,Aleksey Kashtanov,Centre-Forward,Rodina Moscow,2022/2023,2.864836
+18.0,37.5,12.095178,Manchester United,Luke Shaw,Left-Back,Southampton,2014/2015,-25.404822
+20.0,7.0,2.8909142,1. FC Köln,Jorge Meré,Centre-Back,Sporting Gijón,2017/2018,-4.1090858
+29.0,3.0,2.191745,FK Krasnodar,Vladimir Iljin,Centre-Forward,Akhmat Grozny,2021/2022,-0.808255
+22.0,9.5,9.62603,Borussia Mönchengladbach,Hannes Wolf,Attacking Midfield,RB Leipzig,2021/2022,0.1260300000000001
+31.0,0.28,0.3337138,FK Orenburg,Andrey Klimovich,Goalkeeper,Soligorsk,2019/2020,0.05371379999999998
+18.0,0.017,1.2606851,Krylya Sovetov Samara,Aleksandr Kovalenko,Attacking Midfield,Chertanovo,2021/2022,1.2436851
+22.0,5.0,3.903589,SC Freiburg,Luca Waldschmidt,Second Striker,Hamburger SV,2018/2019,-1.0964109999999998
+27.0,1.0,3.0496442,Sporting CP,Héctor Bellerín,Right-Back,Barcelona,2022/2023,2.0496442
+28.0,7.5,11.896806,SSC Napoli,Goran Pandev,Second Striker,Inter,2012/2013,4.396806
+26.0,3.8,1.0887402,US Palermo,Giancarlo González,Centre-Back,Columbus Crew,2014/2015,-2.7112597999999997
+22.0,30.0,44.31759,Tottenham Hotspur,Steven Bergwijn,Left Winger,PSV Eindhoven,2019/2020,14.317590000000003
+19.0,0.3,0.016869258,Vitesse Arnhem,Milot Rashica,Right Winger,KF Vushtrria,2015/2016,-0.283130742
+25.0,0.077,2.1023488,Parma FC,Andrea Brighenti,Centre-Forward,Renate,2013/2014,2.0253488
+20.0,5.2,8.927545,Wolverhampton Wanderers,Yerson Mosquera,Centre-Back,Atl. Nacional,2021/2022,3.727545
+29.0,10.0,6.2134924,Olympique Marseille,Luiz Gustavo,Defensive Midfield,VfL Wolfsburg,2017/2018,-3.7865076
+19.0,18.0,12.610465,Tottenham Hotspur,Destiny Udogie,Left-Back,Udinese Calcio,2022/2023,-5.389535
+18.0,8.0,5.100535,VfL Wolfsburg,Aster Vranckx,Central Midfield,KV Mechelen,2021/2022,-2.899465
+23.0,0.16,2.0231462,Ural Yekaterinburg,Ramazan Gadzhimuradov,Right Winger,SKA Khabarovsk,2020/2021,1.8631461999999999
